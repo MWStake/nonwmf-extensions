@@ -19,3 +19,24 @@
 [submodule "UserLoginLog"]
 	path = UserLoginLog
 	url = git@github.com:mwstake/mediawiki-extensions-UserLoginLog
+[submodule "PeriodicRelatedChanges"]
+	path = PeriodicRelatedChanges
+	url = git@github.com:hexmode/mediawiki-PeriodicRelatedChanges
+[submodule "NamespaceManager"]
+	path = NamespaceManager
+	url = git@github.com:hexmode/mediawiki-NamespaceManager
+[submodule "PageProtect"]
+	path = PageProtect
+	url = git@github.com:hexmode/mediawiki-PageProtect
+[submodule "AccessLogReports"]
+	path = AccessLogReports
+	url = git@github.com:hexmode/mediawiki-AccessLogReports
+[submodule "UserSnoop"]
+	path = UserSnoop
+	url = git@github.com:hexmode/mediawiki-UserSnoop
+[submodule "MagicNumberedHeadings"]
+	path = MagicNumberedHeadings
+	url = git@github.com:hexmode/mediawiki-MagicNumberedHeadings
+[submodule "ViewProtect"]
+	path = ViewProtect
+	url = git@github.com:hexmode/mediawiki-ViewProtect
