@@ -1,0 +1,21 @@
+[submodule "LDAPAuthorization"]
+	path = LDAPAuthorization
+	url = git@github.com:mwstake/mediawiki-extensions-LDAPAuthorization
+[submodule "LDAPAuthentication"]
+	path = LDAPAuthentication
+	url = git@github.com:mwstake/mediawiki-extensions-LDAPAuthentication
+[submodule "LDAPUserInfo"]
+	path = LDAPUserInfo
+	url = git@github.com:mwstake/mediawiki-extensions-LDAPUserInfo
+[submodule "LDAPProvider"]
+	path = LDAPProvider
+	url = git@github.com:mwstake/mediawiki-extensions-LDAPProvider
+[submodule "LDAPGroups"]
+	path = LDAPGroups
+	url = git@github.com:mwstake/mediawiki-extensions-LDAPGroups
+[submodule "PHPEditor"]
+	path = PHPEditor
+	url = git@github.com:mwstake/mediawiki-extensions-PHPEditor
+[submodule "UserLoginLog"]
+	path = UserLoginLog
+	url = git@github.com:mwstake/mediawiki-extensions-UserLoginLog
