@@ -88,3 +88,6 @@
 [submodule "SemanticBreadcrumbLinks"]
 	path = SemanticBreadcrumbLinks
 	url = git@github.com:SemanticMediaWiki/SemanticBreadcrumbLinks
+[submodule "IFrame"]
+	path = IFrame
+	url = git@github.com:hexmode/mediawiki-iframe.git
