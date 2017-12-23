@@ -40,3 +40,51 @@
 [submodule "ViewProtect"]
 	path = ViewProtect
 	url = git@github.com:hexmode/mediawiki-ViewProtect
+[submodule "SemanticMediaWiki"]
+	path = SemanticMediaWiki
+	url = git@github.com:SemanticMediaWiki/SemanticMediaWiki
+[submodule "SemanticInterlanguageLinks"]
+	path = SemanticInterlanguageLinks
+	url = git@github.com:SemanticMediaWiki/SemanticInterlanguageLinks
+[submodule "SemanticExtraSpecialProperties"]
+	path = SemanticExtraSpecialProperties
+	url = git@github.com:SemanticMediaWiki/SemanticExtraSpecialProperties
+[submodule "SemanticCite"]
+	path = SemanticCite
+	url = git@github.com:SemanticMediaWiki/SemanticCite
+[submodule "SemanticWatchlist"]
+	path = SemanticWatchlist
+	url = git@github.com:SemanticMediaWiki/SemanticWatchlist
+[submodule "WhatsNearby"]
+	path = WhatsNearby
+	url = git@github.com:SemanticMediaWiki/WhatsNearby
+[submodule "SummaryCards"]
+	path = SummaryCards
+	url = git@github.com:SemanticMediaWiki/SummaryCards
+[submodule "SemanticCompoundQueries"]
+	path = SemanticCompoundQueries
+	url = git@github.com:SemanticMediaWiki/SemanticCompoundQueries
+[submodule "SemanticNotifications"]
+	path = SemanticNotifications
+	url = git@github.com:SemanticMediaWiki/SemanticNotifications
+[submodule "SemanticScribunto"]
+	path = SemanticScribunto
+	url = git@github.com:SemanticMediaWiki/SemanticScribunto
+[submodule "SemanticMetatags"]
+	path = SemanticMetatags
+	url = git@github.com:SemanticMediaWiki/SemanticMetatags
+[submodule "SemanticExternalQueryLookup"]
+	path = SemanticExternalQueryLookup
+	url = git@github.com:SemanticMediaWiki/SemanticExternalQueryLookup
+[submodule "SemanticFormsSelect"]
+	path = SemanticFormsSelect
+	url = git@github.com:SemanticMediaWiki/SemanticFormsSelect
+[submodule "SemanticGlossary"]
+	path = SemanticGlossary
+	url = git@github.com:SemanticMediaWiki/SemanticGlossary
+[submodule "SemanticSignup"]
+	path = SemanticSignup
+	url = git@github.com:SemanticMediaWiki/SemanticSignup
+[submodule "SemanticBreadcrumbLinks"]
+	path = SemanticBreadcrumbLinks
+	url = git@github.com:SemanticMediaWiki/SemanticBreadcrumbLinks
