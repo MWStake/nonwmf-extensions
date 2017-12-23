@@ -1,0 +1,3 @@
+= A Super-repository of non-WMF extensions =
+
+This repository holds a number of submodules pointing to the repositories of MediaWiki extensions that are not hosted at Wikimedia.  If you want to add one, just send us a pull request.
