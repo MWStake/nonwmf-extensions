@@ -91,3 +91,9 @@
 [submodule "IFrame"]
 	path = IFrame
 	url = git@github.com:hexmode/mediawiki-iframe.git
+[submodule "ManageWiki"]
+	path = ManageWiki
+	url = https://github.com/miraheze/ManageWiki
+[submodule "CreateWiki"]
+	path = CreateWiki
+	url = https://github.com/miraheze/CreateWiki
