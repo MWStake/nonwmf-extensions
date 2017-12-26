@@ -40,60 +40,96 @@
 [submodule "ViewProtect"]
 	path = ViewProtect
 	url = git@github.com:hexmode/mediawiki-ViewProtect
-[submodule "SemanticMediaWiki"]
-	path = SemanticMediaWiki
-	url = git@github.com:SemanticMediaWiki/SemanticMediaWiki
-[submodule "SemanticInterlanguageLinks"]
-	path = SemanticInterlanguageLinks
-	url = git@github.com:SemanticMediaWiki/SemanticInterlanguageLinks
-[submodule "SemanticExtraSpecialProperties"]
-	path = SemanticExtraSpecialProperties
-	url = git@github.com:SemanticMediaWiki/SemanticExtraSpecialProperties
-[submodule "SemanticCite"]
-	path = SemanticCite
-	url = git@github.com:SemanticMediaWiki/SemanticCite
-[submodule "SemanticWatchlist"]
-	path = SemanticWatchlist
-	url = git@github.com:SemanticMediaWiki/SemanticWatchlist
 [submodule "WhatsNearby"]
 	path = WhatsNearby
 	url = git@github.com:SemanticMediaWiki/WhatsNearby
-[submodule "SummaryCards"]
-	path = SummaryCards
-	url = git@github.com:SemanticMediaWiki/SummaryCards
-[submodule "SemanticCompoundQueries"]
-	path = SemanticCompoundQueries
-	url = git@github.com:SemanticMediaWiki/SemanticCompoundQueries
 [submodule "SemanticNotifications"]
 	path = SemanticNotifications
 	url = git@github.com:SemanticMediaWiki/SemanticNotifications
-[submodule "SemanticScribunto"]
-	path = SemanticScribunto
-	url = git@github.com:SemanticMediaWiki/SemanticScribunto
 [submodule "SemanticMetatags"]
 	path = SemanticMetatags
 	url = git@github.com:SemanticMediaWiki/SemanticMetatags
-[submodule "SemanticExternalQueryLookup"]
-	path = SemanticExternalQueryLookup
-	url = git@github.com:SemanticMediaWiki/SemanticExternalQueryLookup
-[submodule "SemanticFormsSelect"]
-	path = SemanticFormsSelect
-	url = git@github.com:SemanticMediaWiki/SemanticFormsSelect
-[submodule "SemanticGlossary"]
-	path = SemanticGlossary
-	url = git@github.com:SemanticMediaWiki/SemanticGlossary
-[submodule "SemanticSignup"]
-	path = SemanticSignup
-	url = git@github.com:SemanticMediaWiki/SemanticSignup
-[submodule "SemanticBreadcrumbLinks"]
-	path = SemanticBreadcrumbLinks
-	url = git@github.com:SemanticMediaWiki/SemanticBreadcrumbLinks
 [submodule "IFrame"]
 	path = IFrame
 	url = git@github.com:hexmode/mediawiki-iframe.git
-[submodule "ManageWiki"]
-	path = ManageWiki
-	url = https://github.com/miraheze/ManageWiki
+[submodule "Chameleon"]
+	path = Chameleon
+	url = git@github.com:cmln/chameleon.git
+[submodule "Purge"]
+	path = Purge
+	url = git@github.com:Hutchy68/Purge.git
+[submodule "Pickle"]
+	path = Pickle
+	url = git@github.com:jeblad/Pickle.git
+[submodule "GitHub"]
+	path = GitHub
+	url = git@github.com:JeroenDeDauw/GitHub.git
+[submodule "Maps"]
+	path = Maps
+	url = git@github.com:JeroenDeDauw/Maps.git
+[submodule "ParserHooks"]
+	path = ParserHooks
+	url = git@github.com:JeroenDeDauw/ParserHooks.git
+[submodule "SubPageList"]
+	path = SubPageList
+	url = git@github.com:JeroenDeDauw/SubPageList.git
+[submodule "Validator"]
+	path = Validator
+	url = git@github.com:JeroenDeDauw/Validator.git
 [submodule "CreateWiki"]
 	path = CreateWiki
-	url = https://github.com/miraheze/CreateWiki
+	url =  git@github.com:miraheze/CreateWiki.git
+[submodule "ManageWiki"]
+	path = ManageWiki
+	url =  git@github.com:miraheze/ManageWiki.git
+[submodule "FinnFrameNet"]
+	path = FinnFrameNet
+	url = git@github.com:Nikerabbit/mediawiki-extensions-FinnFrameNet.git
+[submodule "OrganicDesign-extensions"]
+	path = OrganicDesign-extensions
+	url = git@github.com:OrganicDesign/extensions.git
+[submodule "SemanticBreadcrumbLinks"]
+	path = SemanticBreadcrumbLinks
+	url =  git@github.com:SemanticMediaWiki/SemanticBreadcrumbLinks.git
+[submodule "SemanticCite"]
+	path = SemanticCite
+	url =  git@github.com:SemanticMediaWiki/SemanticCite.git
+[submodule "SemanticCompoundQueries"]
+	path = SemanticCompoundQueries
+	url =  git@github.com:SemanticMediaWiki/SemanticCompoundQueries.git
+[submodule "SemanticExternalQueryLookup"]
+	path = SemanticExternalQueryLookup
+	url =  git@github.com:SemanticMediaWiki/SemanticExternalQueryLookup.git
+[submodule "SemanticExtraSpecialProperties"]
+	path = SemanticExtraSpecialProperties
+	url =  git@github.com:SemanticMediaWiki/SemanticExtraSpecialProperties.git
+[submodule "SemanticFormsSelect"]
+	path = SemanticFormsSelect
+	url =  git@github.com:SemanticMediaWiki/SemanticFormsSelect.git
+[submodule "SemanticGlossary"]
+	path = SemanticGlossary
+	url =  git@github.com:SemanticMediaWiki/SemanticGlossary.git
+[submodule "SemanticInterlanguageLinks"]
+	path = SemanticInterlanguageLinks
+	url =  git@github.com:SemanticMediaWiki/SemanticInterlanguageLinks.git
+[submodule "SemanticMediaWiki"]
+	path = SemanticMediaWiki
+	url =  git@github.com:SemanticMediaWiki/SemanticMediaWiki.git
+[submodule "SemanticResultFormats"]
+	path = SemanticResultFormats
+	url = git@github.com:SemanticMediaWiki/SemanticResultFormats.git
+[submodule "SemanticScribunto"]
+	path = SemanticScribunto
+	url =  git@github.com:SemanticMediaWiki/SemanticScribunto.git
+[submodule "SemanticSignup"]
+	path = SemanticSignup
+	url =  git@github.com:SemanticMediaWiki/SemanticSignup.git
+[submodule "SemanticWatchlist"]
+	path = SemanticWatchlist
+	url =  git@github.com:SemanticMediaWiki/SemanticWatchlist.git
+[submodule "SummaryCards"]
+	path = SummaryCards
+	url =  git@github.com:SemanticMediaWiki/SummaryCards.git
+[submodule "foreground"]
+	path = foreground
+	url = git@github.com:thingles/foreground.git
