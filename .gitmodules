@@ -133,3 +133,24 @@
 [submodule "foreground"]
 	path = foreground
 	url = git@github.com:thingles/foreground.git
+[submodule "Nimiarkisto"]
+	path = Nimiarkisto
+	url = git@github.com:Nikerabbit/mediawiki-extensions-Nimiarkisto.git
+[submodule "Termbank"]
+	path = Termbank
+	url = git@github.com:Nikerabbit/mediawiki-extensions-Termbank.git
+[submodule "LanguageNamespaces"]
+	path = LanguageNamespaces
+	url = git@github.com:Nikerabbit/mediawiki-extensions-LanguageNamespaces.git
+[submodule "Sanat"]
+	path = Sanat
+	url = git@github.com:Nikerabbit/mediawiki-extensions-Sanat.git
+[submodule "Kotus"]
+	path = Kotus
+	url = git@github.com:Nikerabbit/mediawiki-extensions-Kotus.git
+[submodule "WordNet"]
+	path = WordNet
+	url = git@github.com:Nikerabbit/mediawiki-extensions-WordNet.git
+[submodule "Lud"]
+	path = Lud
+	url = git@github.com:Nikerabbit/mediawiki-extensions-Lud.git
