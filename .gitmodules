@@ -154,3 +154,6 @@
 [submodule "Lud"]
 	path = Lud
 	url = git@github.com:Nikerabbit/mediawiki-extensions-Lud.git
+[submodule "Mermaid"]
+	path = Mermaid
+	url = git@github.com:SemanticMediaWiki/Mermaid
