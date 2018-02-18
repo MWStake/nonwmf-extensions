@@ -157,3 +157,6 @@
 [submodule "Mermaid"]
 	path = Mermaid
 	url = git@github.com:SemanticMediaWiki/Mermaid
+[submodule "FormCompletions"]
+	path = FormCompletions
+	url = git@github.com:mwstake/mediawiki-extensions-FormCompletions
