@@ -160,3 +160,63 @@
 [submodule "FormCompletions"]
 	path = FormCompletions
 	url = git@github.com:mwstake/mediawiki-extensions-FormCompletions
+[submodule "TranslateTagsInVE"]
+	path = TranslateTagsInVE
+	url = https://github.com/Wikifab/ext-TranslateTagsInVE.git
+[submodule "AutoSetPageLang"]
+	path = AutoSetPageLang
+	url = https://github.com/Wikifab/AutoSetPageLang.git
+[submodule "PageViewsProperty"]
+	path = PageViewsProperty
+	url = https://github.com/Wikifab/PageViewsProperty.git
+[submodule "SimpleEmbedVideo"]
+	path = SimpleEmbedVideo
+	url = https://github.com/Wikifab/ext-simple-embed-video
+[submodule "FlowCounterTalks"]
+	path = FlowCounterTalks
+	url = https://github.com/Wikifab/FlowCounterTalks
+[submodule "CommentsProperty"]
+	path = CommentsProperty
+	url = https://github.com/Wikifab/CommentsProperty
+[submodule "GroupsPage"]
+	path = GroupsPage
+	url = https://github.com/Wikifab/GroupsPage
+[submodule "UsersPagesLinks"]
+	path = UsersPagesLinks
+	url = https://github.com/Wikifab/UsersPagesLinks
+[submodule "PageMediaGallery"]
+	path = PageMediaGallery
+	url = https://github.com/Wikifab/PageMediaGallery
+[submodule "SemanticJsonExport"]
+	path = SemanticJsonExport
+	url = https://github.com/Wikifab/ext-SemanticJsonExport
+[submodule "CheckPageTitle"]
+	path = CheckPageTitle
+	url = https://github.com/Wikifab/ext-CheckPageTitle
+[submodule "ImageAnnotator"]
+	path = ImageAnnotator
+	url = https://github.com/Wikifab/mediawiki-extension-ImageAnnotator
+[submodule "PageLoadingSpinner"]
+	path = PageLoadingSpinner
+	url = https://github.com/Wikifab/PageLoadingSpinner
+[submodule "UsersWatchButton"]
+	path = UsersWatchButton
+	url = https://github.com/Wikifab/UsersWatchButton
+[submodule "VeForceReload"]
+	path = VeForceReload
+	url = https://github.com/Wikifab/VeForceReload
+[submodule "MailChimpForms"]
+	path = MailChimpForms
+	url = https://github.com/Wikifab/MailChimpForms
+[submodule "3DAlloyNewTag"]
+	path = 3DAlloyNewTag
+	url = https://github.com/Wikifab/3DAlloyNewTag
+[submodule "UsersWatchlist"]
+	path = UsersWatchlist
+	url = https://github.com/Wikifab/UsersWatchlist
+[submodule "VEForPageForm"]
+	path = VEForPageForm
+	url = https://github.com/Wikifab/mediawiki-extension-VEForPageForm
+[submodule "Carousel"]
+	path = Carousel
+	url = https://github.com/Wikifab/ext-carousel
