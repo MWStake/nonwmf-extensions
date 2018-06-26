@@ -220,3 +220,27 @@
 [submodule "Carousel"]
 	path = Carousel
 	url = https://github.com/Wikifab/ext-carousel
+[submodule "SimpleBatchUpload"]
+	path = SimpleBatchUpload
+	url = https://github.com/s7eph4n/SimpleBatchUpload
+[submodule "PurgePage"]
+	path = PurgePage
+	url = https://github.com/s7eph4n/PurgePage
+[submodule "AutoCreatePage"]
+	path = AutoCreatePage
+	url = https://github.com/mkroetzsch/AutoCreatePage
+[submodule "Bootstrap"]
+	path = Bootstrap
+	url = https://github.com/s7eph4n/mediawiki-extensions-Bootstrap
+[submodule "DocBookExport"]
+	path = DocBookExport
+	url = https://bitbucket.org/wikiworksdev/docbookexport.git
+[submodule "VEForAll"]
+	path = VEForAll
+	url = https://bitbucket.org/wikiworksdev/VEForAll
+[submodule "CloneDiff"]
+	path = CloneDiff
+	url = https://bitbucket.org/wikiworksdev/CloneDiff
+[submodule "Figures"]
+	path = Figures
+	url = https://bitbucket.org/wikiworksdev/Figures
