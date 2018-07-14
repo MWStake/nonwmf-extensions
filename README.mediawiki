@@ -1,3 +1,5 @@
-= A Super-repository of non-WMF extensions =
+= A Super-repository of non-Wikimedia hosted extensions =
 
-This repository holds a number of submodules pointing to the repositories of MediaWiki extensions that are not hosted at Wikimedia.  If you want to add one, just send us a pull request.
+This repository holds a number of submodules pointing to the repositories of MediaWiki extensions that are not hosted on Wikimedia's Gerrit instance.  If you want to add one, just send us a pull request.
+
+Repositories included here will automatically be included in [https://codesearch.wmflabs.org/search/ MediaWiki code search], which is used by MediaWiki core developers when identifying usage levels during the deprecation process.
