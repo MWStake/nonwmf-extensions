@@ -244,3 +244,6 @@
 [submodule "Figures"]
 	path = Figures
 	url = https://bitbucket.org/wikiworksdev/Figures
+[submodule "HeaderFooter"]
+	path = HeaderFooter
+	url = https://github.com/jamesmontalvo3/MediaWiki-HeaderFooter.git
