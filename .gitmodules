@@ -247,3 +247,36 @@
 [submodule "HeaderFooter"]
 	path = HeaderFooter
 	url = https://github.com/jamesmontalvo3/MediaWiki-HeaderFooter.git
+[submodule "CategoryStats"]
+	path = CategoryStats
+	url = https://github.com/hexmode/CategoryStats.git
+[submodule "WatchAnalytics"]
+	path = WatchAnalytics
+	url = https://github.com/enterprisemediawiki/WatchAnalytics.git
+[submodule "DataValues"]
+	path = DataValues
+	url = https://github.com/DataValues/DataValues.git
+[submodule "EmbedVideo"]
+	path = EmbedVideo
+	url = https://github.com/HydraWiki/mediawiki-embedvideo.git
+[submodule "PDFEmbed"]
+	path = PDFEmbed
+	url = https://github.com/HydraWiki/PDFEmbed.git
+[submodule "SpriteSheet"]
+	path = SpriteSheet
+	url = https://github.com/HydraWiki/SpriteSheet.git
+[submodule "LuaCache"]
+	path = LuaCache
+	url = https://github.com/HydraWiki/LuaCache.git
+[submodule "ImageSizeInfoFunctions"]
+	path = ImageSizeInfoFunctions
+	url = https://github.com/HydraWiki/ImageSizeInfoFunctions
+[submodule "Streamer"]
+	path = Streamer
+	url = https://github.com/HydraWiki/Streamer.git
+[submodule "Tabber"]
+	path = Tabber
+	url = https://github.com/HydraWiki/Tabber.git
+[submodule "SimpleTooltip"]
+	path = SimpleTooltip
+	url = https://github.com/Fannon/SimpleTooltip.git
