@@ -280,3 +280,9 @@
 [submodule "SimpleTooltip"]
 	path = SimpleTooltip
 	url = https://github.com/Fannon/SimpleTooltip.git
+[submodule "TreeAndMenu"]
+	path = TreeAndMenu
+	url = https://gitlab.com/Aranad/TreeAndMenu.git
+[submodule "MABS"]
+	path = MABS
+	url = git@github.com:hexmode/MABS.git
