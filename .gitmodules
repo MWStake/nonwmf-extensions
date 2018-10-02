@@ -286,3 +286,6 @@
 [submodule "MABS"]
 	path = MABS
 	url = git@github.com:hexmode/MABS.git
+[submodule "Preloader"]
+	path = Preloader
+	url = https://gitlab.com/troyengel/Preloader.git
