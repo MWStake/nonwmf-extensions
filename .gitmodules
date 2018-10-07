@@ -289,3 +289,6 @@
 [submodule "Preloader"]
 	path = Preloader
 	url = https://gitlab.com/troyengel/Preloader.git
+[submodule "Liberty"]
+	path = Liberty
+	url = https://gitlab.com/librewiki/Liberty-MW-Skin
