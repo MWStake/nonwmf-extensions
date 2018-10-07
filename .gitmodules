@@ -292,3 +292,6 @@
 [submodule "WikiDiscover"]
 	path = WikiDiscover
 	url = https://github.com/miraheze/WikiDiscover
+[submodule "MatomoAnalytics"]
+	path = MatomoAnalytics
+	url = https://github.com/miraheze/MatomoAnalytics
