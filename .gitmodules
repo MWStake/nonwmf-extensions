@@ -289,3 +289,6 @@
 [submodule "Preloader"]
 	path = Preloader
 	url = https://gitlab.com/troyengel/Preloader.git
+[submodule "WikiDiscover"]
+	path = WikiDiscover
+	url = https://github.com/miraheze/WikiDiscover
