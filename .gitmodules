@@ -289,3 +289,9 @@
 [submodule "Preloader"]
 	path = Preloader
 	url = https://gitlab.com/troyengel/Preloader.git
+[submodule "Sanctions"]
+	path = Sanctions
+	url = https://github.com/femiwiki/Sanctions
+[submodule "skin"]
+	path = skin
+	url = https://github.com/femiwiki/skin
