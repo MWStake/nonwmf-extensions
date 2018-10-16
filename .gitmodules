@@ -295,3 +295,12 @@
 [submodule "MatomoAnalytics"]
 	path = MatomoAnalytics
 	url = https://github.com/miraheze/MatomoAnalytics
+[submodule "Liberty"]
+	path = Liberty
+	url = https://gitlab.com/librewiki/Liberty-MW-Skin
+[submodule "Sanctions"]
+	path = Sanctions
+	url = https://github.com/femiwiki/Sanctions
+[submodule "skin"]
+	path = skin
+	url = https://github.com/femiwiki/skin
