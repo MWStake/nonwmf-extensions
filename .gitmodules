@@ -289,6 +289,12 @@
 [submodule "Preloader"]
 	path = Preloader
 	url = https://gitlab.com/troyengel/Preloader.git
+[submodule "WikiDiscover"]
+	path = WikiDiscover
+	url = https://github.com/miraheze/WikiDiscover
+[submodule "MatomoAnalytics"]
+	path = MatomoAnalytics
+	url = https://github.com/miraheze/MatomoAnalytics
 [submodule "Liberty"]
 	path = Liberty
 	url = https://gitlab.com/librewiki/Liberty-MW-Skin
