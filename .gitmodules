@@ -304,3 +304,6 @@
 [submodule "skin"]
 	path = skin
 	url = https://github.com/femiwiki/skin
+[submodule "RottenLinks"]
+	path = RottenLinks
+	url = https://github.com/miraheze/RottenLinks
