@@ -85,9 +85,6 @@
 [submodule "FinnFrameNet"]
 	path = FinnFrameNet
 	url = git@github.com:Nikerabbit/mediawiki-extensions-FinnFrameNet.git
-[submodule "OrganicDesign-extensions"]
-	path = OrganicDesign-extensions
-	url = git@github.com:OrganicDesign/extensions.git
 [submodule "SemanticBreadcrumbLinks"]
 	path = SemanticBreadcrumbLinks
 	url =  git@github.com:SemanticMediaWiki/SemanticBreadcrumbLinks.git
@@ -307,3 +304,9 @@
 [submodule "RottenLinks"]
 	path = RottenLinks
 	url = https://github.com/miraheze/RottenLinks
+[submodule "werewolfwiki"]
+	path = werewolfwiki
+	url = https://github.com/lykoss/wiki.git
+[submodule "OrganicDesign-extensions"]
+	path = OrganicDesign-extensions
+	url = https://gitlab.com/Aranad/extensions.git
