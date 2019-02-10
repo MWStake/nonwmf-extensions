@@ -310,3 +310,6 @@
 [submodule "Discord"]
 	path = Discord
 	url = https://github.com/jaydenkieran/mw-discord.git
+[submodule "pChart4mw"]
+	path = pChart4mw
+	url = https://github.com/Undev/MediaWiki-pChart4mw.git
