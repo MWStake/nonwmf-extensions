@@ -313,3 +313,6 @@
 [submodule "pChart4mw"]
 	path = pChart4mw
 	url = https://github.com/Undev/MediaWiki-pChart4mw.git
+[submodule "PerconaDB"]
+	path = PerconaDB
+	url = git@github.com:MWStake/PerconaDB.git
