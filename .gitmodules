@@ -316,3 +316,6 @@
 [submodule "PerconaDB"]
 	path = PerconaDB
 	url = git@github.com:MWStake/PerconaDB.git
+[submodule "ModernSkylight"]
+	path = ModernSkylight
+	url = https://github.com/wiki-chan/ModernSkylight
