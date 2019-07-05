@@ -246,10 +246,10 @@
 	url = https://github.com/DataValues/DataValues.git
 [submodule "EmbedVideo"]
 	path = EmbedVideo
-	url = https://github.com/HydraWiki/mediawiki-embedvideo.git
+	url = https://gitlab.com/hydrawiki/extensions/EmbedVideo
 [submodule "PDFEmbed"]
 	path = PDFEmbed
-	url = https://github.com/HydraWiki/PDFEmbed.git
+	url = https://gitlab.com/hydrawiki/extensions/PDFEmbed.git
 [submodule "SpriteSheet"]
 	path = SpriteSheet
 	url = https://github.com/HydraWiki/SpriteSheet.git
@@ -264,7 +264,7 @@
 	url = https://github.com/HydraWiki/Streamer.git
 [submodule "Tabber"]
 	path = Tabber
-	url = https://github.com/HydraWiki/Tabber.git
+	url = https://gitlab.com/hydrawiki/extensions/Tabber.git
 [submodule "SimpleTooltip"]
 	path = SimpleTooltip
 	url = https://github.com/Fannon/SimpleTooltip.git
@@ -285,7 +285,7 @@
 	url = https://github.com/miraheze/MatomoAnalytics
 [submodule "Liberty"]
 	path = Liberty
-	url = https://gitlab.com/librewiki/Liberty-MW-Skin
+	url = https://gitlab.com/librewiki/Liberty-MW-Skin.git
 [submodule "Sanctions"]
 	path = Sanctions
 	url = https://github.com/femiwiki/Sanctions
