@@ -331,3 +331,6 @@
 [submodule "DiscordNotifications"]
 	path = DiscordNotifications
 	url = https://github.com/kulttuuri/DiscordNotifications.git
+[submodule "ModernSkylight"]
+	path = ModernSkylight
+	url = https://github.com/wiki-chan/ModernSkylight
