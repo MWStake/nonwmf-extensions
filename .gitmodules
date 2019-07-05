@@ -316,6 +316,21 @@
 [submodule "PerconaDB"]
 	path = PerconaDB
 	url = git@github.com:MWStake/PerconaDB.git
+[submodule "DarkVector"]
+	path = DarkVector
+	url = https://github.com/dolfinus/DarkVector.git
+[submodule "IncidentReporting"]
+	path = IncidentReporting
+	url = https://github.com/miraheze/IncidentReporting
+[submodule "Tweeki"]
+	path = Tweeki
+	url = https://github.com/thaider/Tweeki
+[submodule "wiki-seo"]
+	path = wiki-seo
+	url = https://github.com/tinymighty/wiki-seo.git
+[submodule "DiscordNotifications"]
+	path = DiscordNotifications
+	url = https://github.com/kulttuuri/DiscordNotifications.git
 [submodule "ModernSkylight"]
 	path = ModernSkylight
 	url = https://github.com/wiki-chan/ModernSkylight
