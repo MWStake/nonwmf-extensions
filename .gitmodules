@@ -37,15 +37,9 @@
 [submodule "SemanticNotifications"]
 	path = SemanticNotifications
 	url = git@github.com:SemanticMediaWiki/SemanticNotifications
-[submodule "SemanticMetatags"]
-	path = SemanticMetatags
-	url = git@github.com:SemanticMediaWiki/SemanticMetatags
 [submodule "IFrame"]
 	path = IFrame
 	url = git@github.com:hexmode/mediawiki-iframe.git
-[submodule "Chameleon"]
-	path = Chameleon
-	url = git@github.com:cmln/chameleon.git
 [submodule "Purge"]
 	path = Purge
 	url = git@github.com:Hutchy68/Purge.git
@@ -334,3 +328,51 @@
 [submodule "ModernSkylight"]
 	path = ModernSkylight
 	url = https://github.com/wiki-chan/ModernSkylight
+[submodule "FileSystemImageServer"]
+	path = FileSystemImageServer
+	url = https://github.com/Nikerabbit/mediawiki-extensions-FileSystemImageServer
+[submodule "Ainut"]
+	path = Ainut
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Ainut
+[submodule "chameleon"]
+	path = chameleon
+	url = https://github.com/cmln/chameleon.git
+[submodule "mw-scss"]
+	path = mw-scss
+	url = https://github.com/cmln/mw-scss.git
+[submodule "mediawiki-moderation"]
+	path = mediawiki-moderation
+	url = https://github.com/edwardspec/mediawiki-moderation.git
+[submodule "CentralCheckUser"]
+	path = CentralCheckUser
+	url = https://github.com/examknow/CentralCheckUser.git
+[submodule "BCmath"]
+	path = BCmath
+	url = https://github.com/jeblad/BCmath.git
+[submodule "Expect"]
+	path = Expect
+	url = https://github.com/jeblad/Expect.git
+[submodule "LangCodeOverride"]
+	path = LangCodeOverride
+	url = https://github.com/jeblad/LangCodeOverride.git
+[submodule "RecordWizard"]
+	path = RecordWizard
+	url = https://github.com/lingua-libre/RecordWizard.git
+[submodule "MirahezeMagic"]
+	path = MirahezeMagic
+	url = https://github.com/miraheze/MirahezeMagic.git
+[submodule "BootstrapComponents"]
+	path = BootstrapComponents
+	url = https://github.com/oetterer/BootstrapComponents.git
+[submodule "ModernTimeline"]
+	path = ModernTimeline
+	url = https://github.com/ProfessionalWiki/ModernTimeline.git
+[submodule "SemanticApprovedRevs"]
+	path = SemanticApprovedRevs
+	url = https://github.com/SemanticMediaWiki/SemanticApprovedRevs.git
+[submodule "SemanticMetaTags"]
+	path = SemanticMetaTags
+	url = https://github.com/SemanticMediaWiki/SemanticMetaTags.git
+[submodule "SemanticTasks"]
+	path = SemanticTasks
+	url = https://github.com/SemanticMediaWiki/SemanticTasks.git
