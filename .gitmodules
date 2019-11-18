@@ -283,14 +283,14 @@
 [submodule "Sanctions"]
 	path = Sanctions
 	url = https://github.com/femiwiki/Sanctions
-[submodule "skin"]
-	path = skin
+[submodule "Femwiki"]
+	path = Femwiki
 	url = https://github.com/femiwiki/skin
 [submodule "RottenLinks"]
 	path = RottenLinks
 	url = https://github.com/miraheze/RottenLinks
-[submodule "werewolfwiki"]
-	path = werewolfwiki
+[submodule "WerewolfWiki"]
+	path = WerewolfWiki
 	url = https://github.com/lykoss/wiki.git
 [submodule "OrganicDesign-extensions"]
 	path = OrganicDesign-extensions
@@ -319,8 +319,8 @@
 [submodule "Tweeki"]
 	path = Tweeki
 	url = https://github.com/thaider/Tweeki
-[submodule "wiki-seo"]
-	path = wiki-seo
+[submodule "WikiSEO"]
+	path = WikiSEO
 	url = https://github.com/tinymighty/wiki-seo.git
 [submodule "DiscordNotifications"]
 	path = DiscordNotifications
@@ -334,14 +334,14 @@
 [submodule "Ainut"]
 	path = Ainut
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Ainut
-[submodule "chameleon"]
-	path = chameleon
+[submodule "Chameleon"]
+	path = Chameleon
 	url = https://github.com/cmln/chameleon.git
-[submodule "mw-scss"]
-	path = mw-scss
+[submodule "SCSS"]
+	path = SCSS
 	url = https://github.com/cmln/mw-scss.git
-[submodule "mediawiki-moderation"]
-	path = mediawiki-moderation
+[submodule "Moderation"]
+	path = Moderation
 	url = https://github.com/edwardspec/mediawiki-moderation.git
 [submodule "CentralCheckUser"]
 	path = CentralCheckUser
@@ -376,3 +376,12 @@
 [submodule "SemanticTasks"]
 	path = SemanticTasks
 	url = https://github.com/SemanticMediaWiki/SemanticTasks.git
+[submodule "SuggestedTitles"]
+	path = SuggestedTitles
+	url = https://phabricator.nichework.com/source/SuggestedTitles.git
+[submodule "FontAwesome"]
+	path = FontAwesome
+	url = https://github.com/cmln/mw-font-awesome.git
+[submodule "Collection"]
+	path = Collection
+	url = https://github.com/WikiToLearn/mediawiki-extensions-Collection
