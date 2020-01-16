@@ -385,3 +385,6 @@
 [submodule "Collection"]
 	path = Collection
 	url = https://github.com/WikiToLearn/mediawiki-extensions-Collection
+[submodule "GTag"]
+	path = GTag
+	url = https://github.com/skizzerz/mediawiki-GTag
