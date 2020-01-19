@@ -388,3 +388,6 @@
 [submodule "GTag"]
 	path = GTag
 	url = https://github.com/skizzerz/mediawiki-GTag
+[submodule "AWS"]
+	path = AWS
+	url = https://github.com/edwardspec/mediawiki-aws-s3.git
