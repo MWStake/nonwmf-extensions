@@ -391,3 +391,6 @@
 [submodule "AWS"]
 	path = AWS
 	url = https://github.com/edwardspec/mediawiki-aws-s3.git
+[submodule "DynamicPageList"]
+	path = DynamicPageList
+	url = https://gitlab.com/hydrawiki/extensions/DynamicPageList.git
