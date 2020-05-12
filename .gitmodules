@@ -394,3 +394,24 @@
 [submodule "DynamicPageList"]
 	path = DynamicPageList
 	url = https://gitlab.com/hydrawiki/extensions/DynamicPageList.git
+[submodule "NamespacePreload"]
+	path = NamespacePreload
+	url = https://gitlab.com/nonsensopedia/extensions/namespacepreload
+[submodule "Svetovid"]
+	path = Svetovid
+	url = https://gitlab.com/nonsensopedia/extensions/svetovid
+[submodule "AdvancedBacklinks"]
+	path = AdvancedBacklinks
+	url = https://gitlab.com/nonsensopedia/extensions/advancedbacklinks
+[submodule "MarkImages"]
+	path = MarkImages
+	url = https://gitlab.com/nonsensopedia/extensions/markimages
+[submodule "RatePage"]
+	path = RatePage
+	url = https://gitlab.com/nonsensopedia/extensions/ratepage
+[submodule "Fagocytoza"]
+	path = Fagocytoza
+	url = https://gitlab.com/nonsensopedia/extensions/fagocytoza
+[submodule "FancyModeration"]
+	path = FancyModeration
+	url = https://gitlab.com/nonsensopedia/extensions/fancymoderation
