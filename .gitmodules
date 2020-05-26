@@ -415,3 +415,18 @@
 [submodule "FancyModeration"]
 	path = FancyModeration
 	url = https://gitlab.com/nonsensopedia/extensions/fancymoderation
+[submodule "MigrateMyLinks"]
+	path = MigrateMyLinks
+	url = https://github.com/ciencia/mediawiki-extensions-MigrateMyLinks.git
+[submodule "SaneCase"]
+	path = SaneCase
+	url = https://github.com/ciencia/mediawiki-extensions-SaneCase.git
+[submodule "StubUserWikiAuth"]
+	path = StubUserWikiAuth
+	url = https://github.com/ciencia/mediawiki-extensions-StubUserWikiAuth.git
+[submodule "TwitterWidget"]
+	path = TwitterWidget
+	url = https://github.com/ciencia/mediawiki-extensions-TwitterWidget.git
+[submodule "WikiDexFileRepository"]
+	path = WikiDexFileRepository
+	url = https://github.com/ciencia/mediawiki-extensions-WikiDexFileRepository.git
