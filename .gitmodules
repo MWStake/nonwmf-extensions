@@ -283,7 +283,7 @@
 [submodule "Sanctions"]
 	path = Sanctions
 	url = https://github.com/femiwiki/Sanctions
-[submodule "Femwiki"]
+[submodule "Femiwiki"]
 	path = FemiwikiSkin
 	url = https://github.com/femiwiki/FemiwikiSkin
 [submodule "RottenLinks"]
