@@ -430,3 +430,6 @@
 [submodule "WikiDexFileRepository"]
 	path = WikiDexFileRepository
 	url = https://github.com/ciencia/mediawiki-extensions-WikiDexFileRepository.git
+[submodule "FacetedCategory"]
+	path = FacetedCategory
+	url = https://github.com/femiwiki/FacetedCategory
