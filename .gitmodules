@@ -433,3 +433,6 @@
 [submodule "FacetedCategory"]
 	path = FacetedCategory
 	url = https://github.com/femiwiki/FacetedCategory
+[submodule "CategoryIntersectionSearch"]
+	path = CategoryIntersectionSearch
+	url = https://github.com/femiwiki/CategoryIntersectionSearch
