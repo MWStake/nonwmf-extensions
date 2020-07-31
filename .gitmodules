@@ -283,9 +283,9 @@
 [submodule "Sanctions"]
 	path = Sanctions
 	url = https://github.com/femiwiki/Sanctions
-[submodule "Femwiki"]
-	path = Femwiki
-	url = https://github.com/femiwiki/skin
+[submodule "Femiwiki"]
+	path = FemiwikiSkin
+	url = https://github.com/femiwiki/FemiwikiSkin
 [submodule "RottenLinks"]
 	path = RottenLinks
 	url = https://github.com/miraheze/RottenLinks
