@@ -436,3 +436,6 @@
 [submodule "CategoryIntersectionSearch"]
 	path = CategoryIntersectionSearch
 	url = https://github.com/femiwiki/CategoryIntersectionSearch
+[submodule "UnifiedExtensionForFemiwiki"]
+	path = UnifiedExtensionForFemiwiki
+	url = https://github.com/femiwiki/UnifiedExtensionForFemiwiki
