@@ -442,3 +442,6 @@
 [submodule "Memcached"]
 	path = Memcached
 	url = https://phabricator.nichework.com/source/mediawiki-memcached.git
+[submodule "DataDump"]
+	path = DataDump
+	url = https://github.com/miraheze/DataDump
