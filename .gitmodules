@@ -449,5 +449,8 @@
 	path = Network
 	url = https://github.com/ProfessionalWiki/Network
 [submodule "SemanticWikibase"]
-	path = Network
+	path = SemanticWikibase
 	url = https://github.com/ProfessionalWiki/SemanticWikibase
+[submodule "ModernTimeline"]
+	path = ModernTimeline
+	url = https://github.com/ProfessionalWiki/ModernTimeline
