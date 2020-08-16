@@ -204,7 +204,7 @@
 	url = https://github.com/Wikifab/ext-carousel
 [submodule "SimpleBatchUpload"]
 	path = SimpleBatchUpload
-	url = https://github.com/s7eph4n/SimpleBatchUpload
+	url = https://github.com/ProfessionalWiki/SimpleBatchUpload
 [submodule "PurgePage"]
 	path = PurgePage
 	url = https://github.com/s7eph4n/PurgePage
@@ -336,10 +336,10 @@
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Ainut
 [submodule "Chameleon"]
 	path = Chameleon
-	url = https://github.com/cmln/chameleon.git
+	url = https://github.com/ProfessionalWiki/chameleon.git
 [submodule "SCSS"]
 	path = SCSS
-	url = https://github.com/cmln/mw-scss.git
+	url = https://github.com/ProfessionalWiki/SCSS.git
 [submodule "Moderation"]
 	path = Moderation
 	url = https://github.com/edwardspec/mediawiki-moderation.git
@@ -381,7 +381,7 @@
 	url = https://phabricator.nichework.com/source/SuggestedTitles.git
 [submodule "FontAwesome"]
 	path = FontAwesome
-	url = https://github.com/cmln/mw-font-awesome.git
+	url = https://github.com/ProfessionalWiki/FontAwesome.git
 [submodule "Collection"]
 	path = Collection
 	url = https://github.com/WikiToLearn/mediawiki-extensions-Collection
@@ -445,3 +445,12 @@
 [submodule "DataDump"]
 	path = DataDump
 	url = https://github.com/miraheze/DataDump
+[submodule "Network"]
+	path = Network
+	url = https://github.com/ProfessionalWiki/Network
+[submodule "SemanticWikibase"]
+	path = SemanticWikibase
+	url = https://github.com/ProfessionalWiki/SemanticWikibase
+[submodule "ModernTimeline"]
+	path = ModernTimeline
+	url = https://github.com/ProfessionalWiki/ModernTimeline
