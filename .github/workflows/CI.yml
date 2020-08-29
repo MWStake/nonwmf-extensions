@@ -1,0 +1,17 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Verify that every submodule can be checked out
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+      # Verify readable with Python's configparser, which MediaWiki codesearch uses
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.7'
+      - run: python -c "import configparser as c;c.ConfigParser().read('.gitmodules')"
