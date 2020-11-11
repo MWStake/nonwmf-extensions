@@ -451,3 +451,6 @@
 [submodule "SemanticWikibase"]
 	path = SemanticWikibase
 	url = https://github.com/ProfessionalWiki/SemanticWikibase
+[submodule "SimpleMathJax"]
+	path = SimpleMathJax
+	url = https://github.com/jmnote/SimpleMathJax
