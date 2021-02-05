@@ -112,9 +112,6 @@
 [submodule "SummaryCards"]
 	path = SummaryCards
 	url =  git@github.com:SemanticMediaWiki/SummaryCards.git
-[submodule "foreground"]
-	path = foreground
-	url = git@github.com:thingles/foreground.git
 [submodule "Nimiarkisto"]
 	path = Nimiarkisto
 	url = git@github.com:Nikerabbit/mediawiki-extensions-Nimiarkisto.git
@@ -277,15 +274,9 @@
 [submodule "MatomoAnalytics"]
 	path = MatomoAnalytics
 	url = https://github.com/miraheze/MatomoAnalytics
-[submodule "Liberty"]
-	path = Liberty
-	url = https://gitlab.com/librewiki/Liberty-MW-Skin.git
 [submodule "Sanctions"]
 	path = Sanctions
 	url = https://github.com/femiwiki/Sanctions
-[submodule "Femiwiki"]
-	path = FemiwikiSkin
-	url = https://github.com/femiwiki/FemiwikiSkin
 [submodule "RottenLinks"]
 	path = RottenLinks
 	url = https://github.com/miraheze/RottenLinks
@@ -310,33 +301,21 @@
 [submodule "PerconaDB"]
 	path = PerconaDB
 	url = git@github.com:MWStake/PerconaDB.git
-[submodule "DarkVector"]
-	path = DarkVector
-	url = https://github.com/dolfinus/DarkVector.git
 [submodule "IncidentReporting"]
 	path = IncidentReporting
 	url = https://github.com/miraheze/IncidentReporting
-[submodule "Tweeki"]
-	path = Tweeki
-	url = https://github.com/thaider/Tweeki
 [submodule "WikiSEO"]
 	path = WikiSEO
 	url = https://github.com/tinymighty/wiki-seo.git
 [submodule "DiscordNotifications"]
 	path = DiscordNotifications
 	url = https://github.com/kulttuuri/DiscordNotifications.git
-[submodule "ModernSkylight"]
-	path = ModernSkylight
-	url = https://github.com/wiki-chan/ModernSkylight
 [submodule "FileSystemImageServer"]
 	path = FileSystemImageServer
 	url = https://github.com/Nikerabbit/mediawiki-extensions-FileSystemImageServer
 [submodule "Ainut"]
 	path = Ainut
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Ainut
-[submodule "Chameleon"]
-	path = Chameleon
-	url = https://github.com/ProfessionalWiki/chameleon.git
 [submodule "SCSS"]
 	path = SCSS
 	url = https://github.com/ProfessionalWiki/SCSS.git
