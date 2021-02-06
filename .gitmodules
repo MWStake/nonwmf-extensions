@@ -162,7 +162,7 @@
 	url = https://github.com/Wikifab/GroupsPage
 [submodule "UsersPagesLinks"]
 	path = UsersPagesLinks
-	url = https://github.com/Wikifab/UsersPagesLinks
+	url = https://github.com/Wikifab/UsersPagesLinks.git
 [submodule "PageMediaGallery"]
 	path = PageMediaGallery
 	url = https://github.com/Wikifab/PageMediaGallery
@@ -246,7 +246,7 @@
 	url = https://github.com/HydraWiki/SpriteSheet.git
 [submodule "LuaCache"]
 	path = LuaCache
-	url = https://github.com/HydraWiki/LuaCache.git
+	url = https://gitlab.com/hydrawiki/extensions/LuaCache.git
 [submodule "ImageSizeInfoFunctions"]
 	path = ImageSizeInfoFunctions
 	url = https://github.com/HydraWiki/ImageSizeInfoFunctions
@@ -433,3 +433,234 @@
 [submodule "SimpleMathJax"]
 	path = SimpleMathJax
 	url = https://github.com/jmnote/SimpleMathJax
+[submodule "HeaderExtension"]
+	path = HeaderExtension
+	url = https://github.com/WikiMANNia/Mediawiki-Extension-HeaderExtension
+[submodule "DonateButton"]
+	path = DonateButton
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-DonateButton.git
+[submodule "AgeClassification"]
+	path = AgeClassification
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-AgeClassification
+[submodule "SkinCustomiser"]
+	path = SkinCustomiser
+	url = https://github.com/WikiMANNia/Mediawiki-Extension-SkinCustomiser.git
+[submodule "RefreshSiteStatsTable"]
+	path = RefreshSiteStatsTable
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-RefreshSiteStatsTable.git
+[submodule "WimaAdvertising"]
+	path = WimaAdvertising
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-WimaAdvertising.git
+[submodule "WikiBanner"]
+	path = WikiBanner
+	url = https://github.com/Sturmkrieg/mw-WikiBanner
+[submodule "GoogleTagManager"]
+	path = GoogleTagManager
+	url = https://github.com/Hutchy68/GoogleTagManager
+[submodule "SocialTags"]
+	path = SocialTags
+	url = https://github.com/PCGamingWiki/socialtags.git
+[submodule "UniqueLink"]
+	path = UniqueLink
+	url = https://github.com/Halopedia/UniqueLink
+[submodule "Acronym"]
+	path = Acronym
+	url = https://github.com/Halopedia/Acronym
+[submodule "WikiActivity"]
+	path = WikiActivity
+	url = https://github.com/haleyjd/WikiActivity
+[submodule "MyTwitter"]
+	path = MyTwitter
+	url = https://github.com/wiki-chan/MyTwitter
+[submodule "Realnames"]
+	path = Realnames
+	url = https://github.com/ofbeaton/mediawiki-realnames
+[submodule "Diagrams"]
+	path = Diagrams
+	url = https://github.com/samwilson/diagrams-extension.git
+[submodule "MetaDescriptionTag"]
+	path = MetaDescriptionTag
+	url = https://github.com/kolzchut/mediawiki-extensions-MetaDescriptionTag.git
+[submodule "Upload2Commons"]
+	path = Upload2Commons
+	url = https://github.com/lingua-libre/Upload2Commons.git
+[submodule "QueryViz"]
+	path = QueryViz
+	url = https://github.com/lingua-libre/QueryViz.git
+[submodule "CustomSubtitle"]
+	path = CustomSubtitle
+	url = https://github.com/lingua-libre/CustomSubtitle.git
+[submodule "Bugzilla"]
+	path = Bugzilla
+	url = https://invent.kde.org/websites/mediawiki-bugzilla
+[submodule "KDELogin"]
+	path = KDELogin
+	url = https://invent.kde.org/websites/mykde-mediawiki
+[submodule "FeedbackUs"]
+	path = FeedbackUs
+	url = https://bitbucket.org/wikiskripta/feedbackus.git
+[submodule "Whois"]
+	path = Whois
+	url = https://bitbucket.org/wikiskripta/whois.git
+[submodule "Decorations"]
+	path = Decorations
+	url = https://bitbucket.org/wikiskripta/decorations.git
+[submodule "Radyjonka"]
+	path = Radyjonka
+	url = https://bitbucket.org/wikiskripta/radyjonka.git
+[submodule "SimilarTitles"]
+	path = SimilarTitles
+	url = https://bitbucket.org/wikiskripta/similartitles.git
+[submodule "BetterComments"]
+	path = BetterComments
+	url = https://bitbucket.org/wikiskripta/bettercomments.git
+[submodule "RealTimeUsers"]
+	path = RealTimeUsers
+	url = https://bitbucket.org/wikiskripta/realtimeusers.git
+[submodule "GlobalStats"]
+	path = GlobalStats
+	url = https://bitbucket.org/wikiskripta/globalstats.git
+[submodule "WikiZoomer"]
+	path = WikiZoomer
+	url = https://bitbucket.org/wikiskripta/wikizoomer
+[submodule "ExplicitImages"]
+	path = ExplicitImages
+	url = https://bitbucket.org/wikiskripta/explicitimages
+[submodule "ThePlayer"]
+	path = ThePlayer
+	url = https://bitbucket.org/wikiskripta/theplayer
+[submodule "Contactus"]
+	path = Contactus
+	url = https://bitbucket.org/wikiskripta/contactus
+[submodule "CategoryHistory"]
+	path = CategoryHistory
+	url = https://bitbucket.org/wikiskripta/categoryhistory
+[submodule "FilterAccess"]
+	path = FilterAccess
+	url = https://bitbucket.org/wikiskripta/filteraccess
+[submodule "QuestyCaptchaGenerator"]
+	path = QuestyCaptchaGenerator
+	url = https://bitbucket.org/wikiskripta/questycaptchagenerator
+[submodule "PageAuthors"]
+	path = PageAuthors
+	url = https://bitbucket.org/wikiskripta/pageauthors
+[submodule "AdvancedUserStats"]
+	path = AdvancedUserStats
+	url = https://bitbucket.org/wikiskripta/advanceduserstats
+[submodule "ArticleIndex"]
+	path = ArticleIndex
+	url = https://bitbucket.org/wikiskripta/articleindex
+[submodule "CaptchaSettings"]
+	path = CaptchaSettings
+	url = https://bitbucket.org/wikiskripta/captchasettings
+[submodule "MedicalMediaPlayer"]
+	path = MedicalMediaPlayer
+	url = https://bitbucket.org/wikiskripta/medicalmediaplayer
+[submodule "MetaTags"]
+	path = MetaTags
+	url = https://bitbucket.org/wikiskripta/metatags
+[submodule "SLight"]
+	path = SLight
+	url = https://bitbucket.org/wikiskripta/slight
+[submodule "URNames"]
+	path = URNames
+	url = https://bitbucket.org/wikiskripta/urnames
+[submodule "OpeningHours"]
+	path = OpeningHours
+	url = https://github.com/thaider/OpeningHours.git
+[submodule "UbiGo"]
+	path = UbiGo
+	url = https://github.com/thaider/UbiGo.git
+[submodule "Skrifo"]
+	path = Skrifo
+	url = https://github.com/thaider/Skrifo.git
+[submodule "SemanticOrganization"]
+	path = SemanticOrganization
+	url = https://github.com/thaider/SemanticOrganization.git
+[submodule "TopoJson"]
+	path = TopoJson
+	url = https://github.com/thaider/TopoJson.git
+[submodule "ScratchConfirmAccountV3"]
+	path = ScratchConfirmAccountV3
+	url = https://github.com/InternationalScratchWiki/scratch-confirmaccount-v3
+[submodule "ScratchBlocks4"]
+	path = ScratchBlocks4
+	url = https://github.com/InternationalScratchWiki/mw-ScratchBlocks4.git
+[submodule "ScratchLogin"]
+	path = ScratchLogin
+	url = https://github.com/InternationalScratchWiki/mediawiki-scratch-login.git
+[submodule "ScratchSig3"]
+	path = ScratchSig3
+	url = https://github.com/InternationalScratchWiki/mw-scratchsig3.git
+[submodule "EmbedScratch"]
+	path = EmbedScratch
+	url = https://github.com/InternationalScratchWiki/mw-embedScratch.git
+[submodule "OSBlocks"]
+	path = OSBlocks
+	url = https://github.com/InternationalScratchWiki/OSBlocks.git
+[submodule "SyntaxHighlight_PrismJS"]
+	path = SyntaxHighlight_PrismJS
+	url = https://github.com/InternationalScratchWiki/SyntaxHighlight_PrismJS.git
+[submodule "PassEdit"]
+	path = PassEdit
+	url = https://github.com/InternationalScratchWiki/PassEdit.git
+[submodule "TrendingPages"]
+	path = TrendingPages
+	url = https://github.com/Liquipedia/TrendingMenu
+[submodule "ResourceLoaderArticles"]
+	path = ResourceLoaderArticles
+	url = https://github.com/Liquipedia/ResourceLoaderArticles.git
+[submodule "VariablesLua"]
+	path = VariablesLua
+	url = https://github.com/Liquipedia/VariablesLua.git
+[submodule "AutoSitemap"]
+	path = AutoSitemap
+	url = https://github.com/dolfinus/AutoSitemap.git
+[submodule "3DAlloy"]
+	path = 3DAlloy
+	url = https://github.com/dolfinus/3DAlloy.git
+[submodule "YandexSiteVerification"]
+	path = YandexSiteVerification
+	url = https://github.com/dolfinus/YandexSiteVerification.git
+[submodule "Chartie"]
+	path = Chartie
+	url = https://github.com/dolfinus/Chartie.git
+[submodule "CharacterEscapes"]
+	path = CharacterEscapes
+	url = https://gitlab.com/hydrawiki/extensions/characterescapes.git
+[submodule "UploadFields"]
+	path = UploadFields
+	url = https://gitlab.com/hydrawiki/extensions/UploadFields.git
+[submodule "Loops"]
+	path = Loops
+	url = https://gitlab.com/hydrawiki/extensions/Loops.git
+[submodule "SearchLogger"]
+	path = SearchLogger
+	url = https://gitlab.com/hydrawiki/extensions/SearchLogger.git
+[submodule "CurseTwitter"]
+	path = CurseTwitter
+	url = https://gitlab.com/hydrawiki/extensions/CurseTwitter.git
+[submodule "SlideBoxLightShow"]
+	path = SlideBoxLightShow
+	url = https://gitlab.com/hydrawiki/extensions/SlideBoxLightShow.git
+[submodule "Matomo"]
+	path = Matomo
+	url = https://github.com/DaSchTour/matomo-mediawiki-extension.git
+[submodule "AgeParse"]
+	path = AgeParse
+	url = https://github.com/DaSchTour/AgeParse.git
+[submodule "JavascriptSlideshow"]
+	path = JavascriptSlideshow
+	url = https://github.com/DaSchTour/JavascriptSlideshow.git
+[submodule "CustomRecentChanges"]
+	path = CustomRecentChanges
+	url = https://github.com/Wikifab/CustomRecentChanges.git
+[submodule "SideSummary"]
+	path = SideSummary
+	url = https://github.com/Wikifab/SideSummary.git
+[submodule "LatestDiscussions"]
+	path = LatestDiscussions
+	url = https://github.com/Wikifab/LatestDiscussions.git
+[submodule "TablesInSematic"]
+	path = TablesInSematic
+	url = https://github.com/Wikifab/TablesInSemantic.git
