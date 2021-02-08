@@ -664,3 +664,6 @@
 [submodule "TablesInSematic"]
 	path = TablesInSematic
 	url = https://github.com/Wikifab/TablesInSemantic.git
+[submodule "Shariff-Mediawiki"]
+	path = Shariff-Mediawiki
+	url = https://github.com/vonloxley/Shariff-Mediawiki.git
