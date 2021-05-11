@@ -667,3 +667,24 @@
 [submodule "Shariff-Mediawiki"]
 	path = Shariff-Mediawiki
 	url = https://github.com/vonloxley/Shariff-Mediawiki.git
+[submodule "Answers"]
+	path = Answers
+	url = https://github.com/Brickimedia/Answers
+[submodule "ARE"]
+	path = ARE
+	url = https://github.com/Brickimedia/ARE
+[submodule "GlobalContribs"]
+	path = GlobalContribs
+	url = https://github.com/Brickimedia/GlobalContribs
+[submodule "NewTalkGlobal"]
+	path = NewTalkGlobal
+	url = https://github.com/Brickimedia/NewTalkGlobal
+[submodule "NumberOfComments"]
+	path = NumberOfComments
+	url = https://github.com/Brickimedia/NumberOfComments
+[submodule "Snippet"]
+	path = Snippet
+	url = https://github.com/Brickimedia/Snippet
+[submodule "USERNAME"]
+	path = USERNAME
+	url = https://github.com/Brickimedia/USERNAME
