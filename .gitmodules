@@ -688,3 +688,15 @@
 [submodule "USERNAME"]
 	path = USERNAME
 	url = https://github.com/Brickimedia/USERNAME
+[submodule "MediaWikiAuth"]
+	path = MediaWikiAuth
+	url = https://github.com/SkizNet/mediawiki-MediaWikiAuth
+[submodule "Debounce"]
+	path = Debounce
+	url = https://github.com/SkizNet/mediawiki-Debounce
+[submodule "BlockASN"]
+	path = BlockASN
+	url = https://github.com/SkizNet/mediawiki-BlockASN
+[submodule "WikiMirror"]
+	path = WikiMirror
+	url = https://github.com/SkizNet/mediawiki-WikiMirror
