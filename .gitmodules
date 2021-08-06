@@ -700,3 +700,9 @@
 [submodule "WikiMirror"]
 	path = WikiMirror
 	url = https://github.com/SkizNet/mediawiki-WikiMirror
+[submodule "ListDuplicateUsers"]
+	path = ListDuplicateUsers
+	url = https://github.com/PowerpediaInterns/mediawiki-extensions-ListDuplicateUsers
+[submodule "NewDuplicateUserMessage"]
+	path = NewDuplicateUserMessage
+	url = https://github.com/PowerpediaInterns/mediawiki-extensions-NewDuplicateUserMessage
