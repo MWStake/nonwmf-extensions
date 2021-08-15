@@ -706,3 +706,6 @@
 [submodule "NewDuplicateUserMessage"]
 	path = NewDuplicateUserMessage
 	url = https://github.com/PowerpediaInterns/mediawiki-extensions-NewDuplicateUserMessage
+[submodule "Shariff"]
+	path = Shariff
+	url = https://github.com/vonloxley/Shariff-Mediawiki.git
