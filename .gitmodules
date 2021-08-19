@@ -1,144 +1,144 @@
 [submodule "LDAPAuthorization"]
 	path = LDAPAuthorization
-	url = git@github.com:mwstake/mediawiki-extensions-LDAPAuthorization
+	url = https://github.com/mwstake/mediawiki-extensions-LDAPAuthorization
 [submodule "LDAPAuthentication"]
 	path = LDAPAuthentication
-	url = git@github.com:mwstake/mediawiki-extensions-LDAPAuthentication
+	url = https://github.com/mwstake/mediawiki-extensions-LDAPAuthentication
 [submodule "PHPEditor"]
 	path = PHPEditor
-	url = git@github.com:mwstake/mediawiki-extensions-PHPEditor
+	url = https://github.com/mwstake/mediawiki-extensions-PHPEditor
 [submodule "UserLoginLog"]
 	path = UserLoginLog
-	url = git@github.com:mwstake/mediawiki-extensions-UserLoginLog
+	url = https://github.com/mwstake/mediawiki-extensions-UserLoginLog
 [submodule "PeriodicRelatedChanges"]
 	path = PeriodicRelatedChanges
-	url = git@github.com:hexmode/mediawiki-PeriodicRelatedChanges
+	url = https://github.com/hexmode/mediawiki-PeriodicRelatedChanges
 [submodule "NamespaceManager"]
 	path = NamespaceManager
-	url = git@github.com:hexmode/mediawiki-NamespaceManager
+	url = https://github.com/hexmode/mediawiki-NamespaceManager
 [submodule "PageProtect"]
 	path = PageProtect
-	url = git@github.com:hexmode/mediawiki-PageProtect
+	url = https://github.com/hexmode/mediawiki-PageProtect
 [submodule "AccessLogReports"]
 	path = AccessLogReports
-	url = git@github.com:hexmode/mediawiki-AccessLogReports
+	url = https://github.com/hexmode/mediawiki-AccessLogReports
 [submodule "UserSnoop"]
 	path = UserSnoop
-	url = git@github.com:hexmode/mediawiki-UserSnoop
+	url = https://github.com/hexmode/mediawiki-UserSnoop
 [submodule "MagicNumberedHeadings"]
 	path = MagicNumberedHeadings
-	url = git@github.com:hexmode/mediawiki-MagicNumberedHeadings
+	url = https://github.com/hexmode/mediawiki-MagicNumberedHeadings
 [submodule "ViewProtect"]
 	path = ViewProtect
-	url = git@github.com:hexmode/mediawiki-ViewProtect
+	url = https://github.com/hexmode/mediawiki-ViewProtect
 [submodule "WhatsNearby"]
 	path = WhatsNearby
-	url = git@github.com:SemanticMediaWiki/WhatsNearby
+	url = https://github.com/SemanticMediaWiki/WhatsNearby
 [submodule "SemanticNotifications"]
 	path = SemanticNotifications
-	url = git@github.com:SemanticMediaWiki/SemanticNotifications
+	url = https://github.com/SemanticMediaWiki/SemanticNotifications
 [submodule "IFrame"]
 	path = IFrame
-	url = git@github.com:hexmode/mediawiki-iframe.git
+	url = https://github.com/hexmode/mediawiki-iframe.git
 [submodule "Purge"]
 	path = Purge
-	url = git@github.com:Hutchy68/Purge.git
+	url = https://github.com/Hutchy68/Purge.git
 [submodule "Pickle"]
 	path = Pickle
-	url = git@github.com:jeblad/Pickle.git
+	url = https://github.com/jeblad/Pickle.git
 [submodule "GitHub"]
 	path = GitHub
-	url = git@github.com:JeroenDeDauw/GitHub.git
+	url = https://github.com/JeroenDeDauw/GitHub.git
 [submodule "Maps"]
 	path = Maps
-	url = git@github.com:JeroenDeDauw/Maps.git
+	url = https://github.com/JeroenDeDauw/Maps.git
 [submodule "ParserHooks"]
 	path = ParserHooks
-	url = git@github.com:JeroenDeDauw/ParserHooks.git
+	url = https://github.com/JeroenDeDauw/ParserHooks.git
 [submodule "SubPageList"]
 	path = SubPageList
-	url = git@github.com:JeroenDeDauw/SubPageList.git
+	url = https://github.com/JeroenDeDauw/SubPageList.git
 [submodule "Validator"]
 	path = Validator
-	url = git@github.com:JeroenDeDauw/Validator.git
+	url = https://github.com/JeroenDeDauw/Validator.git
 [submodule "CreateWiki"]
 	path = CreateWiki
-	url =  git@github.com:miraheze/CreateWiki.git
+	url =  https://github.com/miraheze/CreateWiki.git
 [submodule "ManageWiki"]
 	path = ManageWiki
-	url =  git@github.com:miraheze/ManageWiki.git
+	url =  https://github.com/miraheze/ManageWiki.git
 [submodule "FinnFrameNet"]
 	path = FinnFrameNet
-	url = git@github.com:Nikerabbit/mediawiki-extensions-FinnFrameNet.git
+	url = https://github.com/Nikerabbit/mediawiki-extensions-FinnFrameNet.git
 [submodule "SemanticBreadcrumbLinks"]
 	path = SemanticBreadcrumbLinks
-	url =  git@github.com:SemanticMediaWiki/SemanticBreadcrumbLinks.git
+	url =  https://github.com/SemanticMediaWiki/SemanticBreadcrumbLinks.git
 [submodule "SemanticCite"]
 	path = SemanticCite
-	url =  git@github.com:SemanticMediaWiki/SemanticCite.git
+	url =  https://github.com/SemanticMediaWiki/SemanticCite.git
 [submodule "SemanticCompoundQueries"]
 	path = SemanticCompoundQueries
-	url =  git@github.com:SemanticMediaWiki/SemanticCompoundQueries.git
+	url =  https://github.com/SemanticMediaWiki/SemanticCompoundQueries.git
 [submodule "SemanticExternalQueryLookup"]
 	path = SemanticExternalQueryLookup
-	url =  git@github.com:SemanticMediaWiki/SemanticExternalQueryLookup.git
+	url =  https://github.com/SemanticMediaWiki/SemanticExternalQueryLookup.git
 [submodule "SemanticExtraSpecialProperties"]
 	path = SemanticExtraSpecialProperties
-	url =  git@github.com:SemanticMediaWiki/SemanticExtraSpecialProperties.git
+	url =  https://github.com/SemanticMediaWiki/SemanticExtraSpecialProperties.git
 [submodule "SemanticFormsSelect"]
 	path = SemanticFormsSelect
-	url =  git@github.com:SemanticMediaWiki/SemanticFormsSelect.git
+	url =  https://github.com/SemanticMediaWiki/SemanticFormsSelect.git
 [submodule "SemanticGlossary"]
 	path = SemanticGlossary
-	url =  git@github.com:SemanticMediaWiki/SemanticGlossary.git
+	url =  https://github.com/SemanticMediaWiki/SemanticGlossary.git
 [submodule "SemanticInterlanguageLinks"]
 	path = SemanticInterlanguageLinks
-	url =  git@github.com:SemanticMediaWiki/SemanticInterlanguageLinks.git
+	url =  https://github.com/SemanticMediaWiki/SemanticInterlanguageLinks.git
 [submodule "SemanticMediaWiki"]
 	path = SemanticMediaWiki
-	url =  git@github.com:SemanticMediaWiki/SemanticMediaWiki.git
+	url =  https://github.com/SemanticMediaWiki/SemanticMediaWiki.git
 [submodule "SemanticResultFormats"]
 	path = SemanticResultFormats
-	url = git@github.com:SemanticMediaWiki/SemanticResultFormats.git
+	url = https://github.com/SemanticMediaWiki/SemanticResultFormats.git
 [submodule "SemanticScribunto"]
 	path = SemanticScribunto
-	url =  git@github.com:SemanticMediaWiki/SemanticScribunto.git
+	url =  https://github.com/SemanticMediaWiki/SemanticScribunto.git
 [submodule "SemanticSignup"]
 	path = SemanticSignup
-	url =  git@github.com:SemanticMediaWiki/SemanticSignup.git
+	url =  https://github.com/SemanticMediaWiki/SemanticSignup.git
 [submodule "SemanticWatchlist"]
 	path = SemanticWatchlist
-	url =  git@github.com:SemanticMediaWiki/SemanticWatchlist.git
+	url =  https://github.com/SemanticMediaWiki/SemanticWatchlist.git
 [submodule "SummaryCards"]
 	path = SummaryCards
-	url =  git@github.com:SemanticMediaWiki/SummaryCards.git
+	url =  https://github.com/SemanticMediaWiki/SummaryCards.git
 [submodule "Nimiarkisto"]
 	path = Nimiarkisto
-	url = git@github.com:Nikerabbit/mediawiki-extensions-Nimiarkisto.git
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Nimiarkisto.git
 [submodule "Termbank"]
 	path = Termbank
-	url = git@github.com:Nikerabbit/mediawiki-extensions-Termbank.git
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Termbank.git
 [submodule "LanguageNamespaces"]
 	path = LanguageNamespaces
-	url = git@github.com:Nikerabbit/mediawiki-extensions-LanguageNamespaces.git
+	url = https://github.com/Nikerabbit/mediawiki-extensions-LanguageNamespaces.git
 [submodule "Sanat"]
 	path = Sanat
-	url = git@github.com:Nikerabbit/mediawiki-extensions-Sanat.git
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Sanat.git
 [submodule "Kotus"]
 	path = Kotus
-	url = git@github.com:Nikerabbit/mediawiki-extensions-Kotus.git
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Kotus.git
 [submodule "WordNet"]
 	path = WordNet
-	url = git@github.com:Nikerabbit/mediawiki-extensions-WordNet.git
+	url = https://github.com/Nikerabbit/mediawiki-extensions-WordNet.git
 [submodule "Lud"]
 	path = Lud
-	url = git@github.com:Nikerabbit/mediawiki-extensions-Lud.git
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Lud.git
 [submodule "Mermaid"]
 	path = Mermaid
-	url = git@github.com:SemanticMediaWiki/Mermaid
+	url = https://github.com/SemanticMediaWiki/Mermaid
 [submodule "FormCompletions"]
 	path = FormCompletions
-	url = git@github.com:mwstake/mediawiki-extensions-FormCompletions
+	url = https://github.com/mwstake/mediawiki-extensions-FormCompletions
 [submodule "TranslateTagsInVE"]
 	path = TranslateTagsInVE
 	url = https://github.com/Wikifab/ext-TranslateTagsInVE.git
@@ -264,7 +264,7 @@
 	url = https://gitlab.com/Aranad/TreeAndMenu.git
 [submodule "MABS"]
 	path = MABS
-	url = git@github.com:hexmode/MABS.git
+	url = https://github.com/hexmode/MABS.git
 [submodule "Preloader"]
 	path = Preloader
 	url = https://gitlab.com/troyengel/Preloader.git
@@ -300,7 +300,7 @@
 	url = https://github.com/Undev/MediaWiki-pChart4mw.git
 [submodule "PerconaDB"]
 	path = PerconaDB
-	url = git@github.com:MWStake/PerconaDB.git
+	url = https://github.com/MWStake/PerconaDB.git
 [submodule "IncidentReporting"]
 	path = IncidentReporting
 	url = https://github.com/miraheze/IncidentReporting
