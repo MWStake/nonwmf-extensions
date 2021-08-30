@@ -709,3 +709,6 @@
 [submodule "Shariff"]
 	path = Shariff
 	url = https://github.com/vonloxley/Shariff-Mediawiki.git
+[submodule "yasec"]
+	path = yasec
+	url = https://github.com/serpent213/mediawiki-extensions-yasec
