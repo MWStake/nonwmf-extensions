@@ -712,3 +712,12 @@
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
+[submodule "RecentChangesLogFilter"]
+	path = RecentChangesLogFilter
+	url = https://github.com/poke/mediawiki-RecentChangesLogFilter.git
+[submodule "ListTransclusions"]
+	path = ListTransclusions
+	url = https://github.com/poke/mediawiki-ListTransclusions.git
+[submodule "AlternativeUserTalk"]
+	path = AlternativeUserTalk
+	url = https://github.com/poke/mediawiki-AlternativeUserTalk.git
