@@ -721,3 +721,6 @@
 [submodule "AlternativeUserTalk"]
 	path = AlternativeUserTalk
 	url = https://github.com/poke/mediawiki-AlternativeUserTalk.git
+[submodule "SnapProjectEmbed"]
+	path = SnapProjectEmbed
+	url = https://github.com/snapwiki/SnapProjectEmbed
