@@ -51,7 +51,7 @@
 	url = https://github.com/JeroenDeDauw/GitHub.git
 [submodule "Maps"]
 	path = Maps
-	url = https://github.com/JeroenDeDauw/Maps.git
+	url = https://github.com/ProfessionalWiki/Maps.git
 [submodule "ParserHooks"]
 	path = ParserHooks
 	url = https://github.com/JeroenDeDauw/ParserHooks.git
@@ -61,6 +61,21 @@
 [submodule "Validator"]
 	path = Validator
 	url = https://github.com/JeroenDeDauw/Validator.git
+[submodule "Network"]
+	path = Network
+	url = https://github.com/ProfessionalWiki/Network.git
+[submodule "WikibaseEdtf"]
+	path = WikibaseEdtf
+	url = https://github.com/ProfessionalWiki/WikibaseEdtf.git
+[submodule "WikibaseLocalMedia"]
+	path = WikibaseLocalMedia
+	url = https://github.com/ProfessionalWiki/WikibaseLocalMedia.git
+[submodule "GND"]
+	path = GND
+	url = https://github.com/ProfessionalWiki/GND.git
+[submodule "ExternalContent"]
+	path = ExternalContent
+	url = https://github.com/ProfessionalWiki/ExternalContent.git
 [submodule "CreateWiki"]
 	path = CreateWiki
 	url =  https://github.com/miraheze/CreateWiki.git
