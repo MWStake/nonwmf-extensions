@@ -367,9 +367,6 @@
 [submodule "SemanticTasks"]
 	path = SemanticTasks
 	url = https://github.com/SemanticMediaWiki/SemanticTasks.git
-[submodule "SuggestedTitles"]
-	path = SuggestedTitles
-	url = https://phabricator.nichework.com/source/SuggestedTitles.git
 [submodule "FontAwesome"]
 	path = FontAwesome
 	url = https://github.com/ProfessionalWiki/FontAwesome.git
@@ -430,9 +427,6 @@
 [submodule "UnifiedExtensionForFemiwiki"]
 	path = UnifiedExtensionForFemiwiki
 	url = https://github.com/femiwiki/UnifiedExtensionForFemiwiki
-[submodule "Memcached"]
-	path = Memcached
-	url = https://phabricator.nichework.com/source/mediawiki-memcached.git
 [submodule "DataDump"]
 	path = DataDump
 	url = https://github.com/miraheze/DataDump
