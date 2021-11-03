@@ -61,9 +61,6 @@
 [submodule "Validator"]
 	path = Validator
 	url = https://github.com/JeroenDeDauw/Validator.git
-[submodule "Network"]
-	path = Network
-	url = https://github.com/ProfessionalWiki/Network.git
 [submodule "WikibaseEdtf"]
 	path = WikibaseEdtf
 	url = https://github.com/ProfessionalWiki/WikibaseEdtf.git
@@ -439,9 +436,6 @@
 [submodule "DataDump"]
 	path = DataDump
 	url = https://github.com/miraheze/DataDump
-[submodule "Network"]
-	path = Network
-	url = https://github.com/ProfessionalWiki/Network
 [submodule "SemanticWikibase"]
 	path = SemanticWikibase
 	url = https://github.com/ProfessionalWiki/SemanticWikibase
@@ -739,3 +733,6 @@
 [submodule "SnapProjectEmbed"]
 	path = SnapProjectEmbed
 	url = https://github.com/snapwiki/SnapProjectEmbed
+[submodule "Network"]
+	path = Network
+	url = https://github.com/ProfessionalWiki/Network.git
