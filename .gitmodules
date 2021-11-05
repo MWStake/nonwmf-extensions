@@ -730,3 +730,9 @@
 [submodule "Network"]
 	path = Network
 	url = https://github.com/ProfessionalWiki/Network.git
+[submodule "SuggestedTitles"]
+	path = SuggestedTitles
+	url = https://gitlab.com/hexmode1/SuggestedTitles
+[submodule "Memcached"]
+	path = Memcached
+	url = https://gitlab.com/hexmode1/Memcached
