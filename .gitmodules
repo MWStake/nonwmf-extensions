@@ -736,3 +736,21 @@
 [submodule "Memcached"]
 	path = Memcached
 	url = https://gitlab.com/hexmode1/Memcached.git/
+[submodule "WSSearchFront"]
+	path = WSSearchFront
+	url = https://bitbucket.org/wikibasesolutions/wssearchfront.git
+[submodule "WSForm"]
+	path = WSForm
+	url = https://bitbucket.org/wikibasesolutions/mw-wsform.git
+[submodule "WSPageSync"]
+	path = WSPageSync
+	url = https://bitbucket.org/wikibasesolutions/mw-wspagesync.git
+[submodule "WSSlots"]
+	path = WSSlots
+	url = https://bitbucket.org/wikibasesolutions/wsslots.git
+[submodule "WSSearch"]
+	path = WSSearch
+	url = https://bitbucket.org/wikibasesolutions/wssearch.git
+[submodule "WSSemanticParsedText"]
+	path = WSSemanticParsedText
+	url = https://bitbucket.org/wikibasesolutions/wssemanticparsedtext.git
