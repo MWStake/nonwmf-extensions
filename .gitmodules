@@ -405,16 +405,16 @@
 	url = https://gitlab.com/nonsensopedia/extensions/fancymoderation.git/
 [submodule "NonsaLinks"]
 	path = NonsaLinks
-	url = https://gitlab.com/nonsensopedia/extensions/nonsalinks
+	url = https://gitlab.com/nonsensopedia/extensions/nonsalinks.git/
 [submodule "ResponsiveFrontend"]
 	path = ResponsiveFrontend
-	url = https://gitlab.com/nonsensopedia/extensions/responsivefrontend
+	url = https://gitlab.com/nonsensopedia/extensions/responsivefrontend.git/
 [submodule "SemanticCommonsClient"]
 	path = SemanticCommonsClient
-	url = https://gitlab.com/nonsensopedia/extensions/semanticcommonsclient
+	url = https://gitlab.com/nonsensopedia/extensions/semanticcommonsclient.git/
 [submodule "NonsaCodeJanitor"]
 	path = NonsaCodeJanitor
-	url = https://gitlab.com/nonsensopedia/extensions/nonsacodejanitor
+	url = https://gitlab.com/nonsensopedia/extensions/nonsacodejanitor.git/
 [submodule "MigrateMyLinks"]
 	path = MigrateMyLinks
 	url = https://github.com/ciencia/mediawiki-extensions-MigrateMyLinks.git
