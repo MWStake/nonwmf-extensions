@@ -766,3 +766,6 @@
 [submodule "WSSemanticParsedText"]
 	path = WSSemanticParsedText
 	url = https://bitbucket.org/wikibasesolutions/wssemanticparsedtext.git
+[submodule "IssueTracker"]
+	path = IssueTracker
+	url = https://github.com/Hutchy68/IssueTracker
