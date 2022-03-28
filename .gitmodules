@@ -769,3 +769,9 @@
 [submodule "IssueTracker"]
 	path = IssueTracker
 	url = https://github.com/Hutchy68/IssueTracker
+[submodule "DiscourseSsoConsumer"]
+	path = DiscourseSsoConsumer
+	url = https://github.com/centertap/DiscourseSsoConsumer
+[submodule "Auth_phpBB"]
+	path = Auth_phpBB
+	url = https://github.com/Digitalroot-Technologies/MediaWiki_PHPBB_Auth
