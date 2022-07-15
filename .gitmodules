@@ -226,9 +226,6 @@
 [submodule "DocBookExport"]
 	path = DocBookExport
 	url = https://bitbucket.org/wikiworksdev/docbookexport.git
-[submodule "VEForAll"]
-	path = VEForAll
-	url = https://bitbucket.org/wikiworksdev/VEForAll
 [submodule "CloneDiff"]
 	path = CloneDiff
 	url = https://bitbucket.org/wikiworksdev/CloneDiff
@@ -316,9 +313,6 @@
 [submodule "IncidentReporting"]
 	path = IncidentReporting
 	url = https://github.com/miraheze/IncidentReporting
-[submodule "WikiSEO"]
-	path = WikiSEO
-	url = https://github.com/tinymighty/wiki-seo.git
 [submodule "DiscordNotifications"]
 	path = DiscordNotifications
 	url = https://github.com/kulttuuri/DiscordNotifications.git
@@ -676,9 +670,6 @@
 [submodule "TablesInSematic"]
 	path = TablesInSematic
 	url = https://github.com/Wikifab/TablesInSemantic.git
-[submodule "Shariff-Mediawiki"]
-	path = Shariff-Mediawiki
-	url = https://github.com/vonloxley/Shariff-Mediawiki.git
 [submodule "MediaWikiAuth"]
 	path = MediaWikiAuth
 	url = https://github.com/SkizNet/mediawiki-MediaWikiAuth
