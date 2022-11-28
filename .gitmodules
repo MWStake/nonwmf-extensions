@@ -22,9 +22,6 @@
 [submodule "AdvancedUserStats"]
 	path = AdvancedUserStats
 	url = https://bitbucket.org/wikiskripta/advanceduserstats
-[submodule "AgeClassification"]
-	path = AgeClassification
-	url = https://github.com/WikiMANNia/MediaWiki-Extension-AgeClassification
 [submodule "AgeParse"]
 	path = AgeParse
 	url = https://github.com/DaSchTour/AgeParse.git
@@ -142,9 +139,6 @@
 [submodule "DocBookExport"]
 	path = DocBookExport
 	url = https://bitbucket.org/wikiworksdev/docbookexport.git
-[submodule "DonateButton"]
-	path = DonateButton
-	url = https://github.com/WikiMANNia/MediaWiki-Extension-DonateButton.git
 [submodule "DynamicPageList"]
 	path = DynamicPageList
 	url = https://gitlab.com/hydrawiki/extensions/DynamicPageList.git
@@ -214,9 +208,6 @@
 [submodule "GroupsPage"]
 	path = GroupsPage
 	url = https://github.com/Wikifab/GroupsPage
-[submodule "HeaderExtension"]
-	path = HeaderExtension
-	url = https://github.com/WikiMANNia/Mediawiki-Extension-HeaderExtension
 [submodule "HeaderFooter"]
 	path = HeaderFooter
 	url = https://github.com/jamesmontalvo3/MediaWiki-HeaderFooter.git
@@ -439,9 +430,6 @@
 [submodule "RecordWizard"]
 	path = RecordWizard
 	url = https://github.com/lingua-libre/RecordWizard.git
-[submodule "RefreshSiteStatsTable"]
-	path = RefreshSiteStatsTable
-	url = https://github.com/WikiMANNia/MediaWiki-Extension-RefreshSiteStatsTable.git
 [submodule "ResourceLoaderArticles"]
 	path = ResourceLoaderArticles
 	url = https://github.com/Liquipedia/ResourceLoaderArticles.git
@@ -565,9 +553,6 @@
 [submodule "SimpleTooltip"]
 	path = SimpleTooltip
 	url = https://github.com/Fannon/SimpleTooltip.git
-[submodule "SkinCustomiser"]
-	path = SkinCustomiser
-	url = https://github.com/WikiMANNia/Mediawiki-Extension-SkinCustomiser.git
 [submodule "Skrifo"]
 	path = Skrifo
 	url = https://github.com/thaider/Skrifo.git
@@ -712,9 +697,6 @@
 [submodule "WikiActivity"]
 	path = WikiActivity
 	url = https://github.com/haleyjd/WikiActivity
-[submodule "WikiBanner"]
-	path = WikiBanner
-	url = https://github.com/Sturmkrieg/mw-WikiBanner
 [submodule "WikiDexFileRepository"]
 	path = WikiDexFileRepository
 	url = https://github.com/ciencia/mediawiki-extensions-WikiDexFileRepository.git
@@ -733,9 +715,6 @@
 [submodule "WikibaseLocalMedia"]
 	path = WikibaseLocalMedia
 	url = https://github.com/ProfessionalWiki/WikibaseLocalMedia.git
-[submodule "WimaAdvertising"]
-	path = WimaAdvertising
-	url = https://github.com/WikiMANNia/MediaWiki-Extension-WimaAdvertising.git
 [submodule "Wiretap"]
 	path = Wiretap
 	url = https://github.com/enterprisemediawiki/Wiretap.git
