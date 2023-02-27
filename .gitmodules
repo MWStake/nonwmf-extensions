@@ -1,750 +1,750 @@
-[submodule "LDAPAuthorization"]
-	path = LDAPAuthorization
-	url = https://github.com/mwstake/mediawiki-extensions-LDAPAuthorization
-[submodule "LDAPAuthentication"]
-	path = LDAPAuthentication
-	url = https://github.com/mwstake/mediawiki-extensions-LDAPAuthentication
-[submodule "PHPEditor"]
-	path = PHPEditor
-	url = https://github.com/mwstake/mediawiki-extensions-PHPEditor
-[submodule "UserLoginLog"]
-	path = UserLoginLog
-	url = https://github.com/mwstake/mediawiki-extensions-UserLoginLog
-[submodule "PeriodicRelatedChanges"]
-	path = PeriodicRelatedChanges
-	url = https://github.com/hexmode/mediawiki-PeriodicRelatedChanges
-[submodule "NamespaceManager"]
-	path = NamespaceManager
-	url = https://github.com/hexmode/mediawiki-NamespaceManager
-[submodule "PageProtect"]
-	path = PageProtect
-	url = https://github.com/hexmode/mediawiki-PageProtect
-[submodule "AccessLogReports"]
-	path = AccessLogReports
-	url = https://github.com/hexmode/mediawiki-AccessLogReports
-[submodule "UserSnoop"]
-	path = UserSnoop
-	url = https://github.com/hexmode/mediawiki-UserSnoop
-[submodule "MagicNumberedHeadings"]
-	path = MagicNumberedHeadings
-	url = https://github.com/hexmode/mediawiki-MagicNumberedHeadings
-[submodule "ViewProtect"]
-	path = ViewProtect
-	url = https://github.com/hexmode/mediawiki-ViewProtect
-[submodule "WhatsNearby"]
-	path = WhatsNearby
-	url = https://github.com/SemanticMediaWiki/WhatsNearby
-[submodule "SemanticNotifications"]
-	path = SemanticNotifications
-	url = https://github.com/SemanticMediaWiki/SemanticNotifications
-[submodule "IFrame"]
-	path = IFrame
-	url = https://github.com/hexmode/mediawiki-iframe.git
-[submodule "Purge"]
-	path = Purge
-	url = https://github.com/Hutchy68/Purge.git
-[submodule "Pickle"]
-	path = Pickle
-	url = https://github.com/jeblad/Pickle.git
-[submodule "GitHub"]
-	path = GitHub
-	url = https://github.com/JeroenDeDauw/GitHub.git
-[submodule "Maps"]
-	path = Maps
-	url = https://github.com/ProfessionalWiki/Maps.git
-[submodule "ParserHooks"]
-	path = ParserHooks
-	url = https://github.com/JeroenDeDauw/ParserHooks.git
-[submodule "SubPageList"]
-	path = SubPageList
-	url = https://github.com/JeroenDeDauw/SubPageList.git
-[submodule "Validator"]
-	path = Validator
-	url = https://github.com/JeroenDeDauw/Validator.git
-[submodule "WikibaseEdtf"]
-	path = WikibaseEdtf
-	url = https://github.com/ProfessionalWiki/WikibaseEdtf.git
-[submodule "WikibaseLocalMedia"]
-	path = WikibaseLocalMedia
-	url = https://github.com/ProfessionalWiki/WikibaseLocalMedia.git
-[submodule "GND"]
-	path = GND
-	url = https://github.com/ProfessionalWiki/GND.git
-[submodule "ExternalContent"]
-	path = ExternalContent
-	url = https://github.com/ProfessionalWiki/ExternalContent.git
-[submodule "CreateWiki"]
-	path = CreateWiki
-	url =  https://github.com/miraheze/CreateWiki.git
-[submodule "ManageWiki"]
-	path = ManageWiki
-	url =  https://github.com/miraheze/ManageWiki.git
-[submodule "FinnFrameNet"]
-	path = FinnFrameNet
-	url = https://github.com/Nikerabbit/mediawiki-extensions-FinnFrameNet.git
-[submodule "SemanticBreadcrumbLinks"]
-	path = SemanticBreadcrumbLinks
-	url =  https://github.com/SemanticMediaWiki/SemanticBreadcrumbLinks.git
-[submodule "SemanticCite"]
-	path = SemanticCite
-	url =  https://github.com/SemanticMediaWiki/SemanticCite.git
-[submodule "SemanticCompoundQueries"]
-	path = SemanticCompoundQueries
-	url =  https://github.com/SemanticMediaWiki/SemanticCompoundQueries.git
-[submodule "SemanticExternalQueryLookup"]
-	path = SemanticExternalQueryLookup
-	url =  https://github.com/SemanticMediaWiki/SemanticExternalQueryLookup.git
-[submodule "SemanticExtraSpecialProperties"]
-	path = SemanticExtraSpecialProperties
-	url =  https://github.com/SemanticMediaWiki/SemanticExtraSpecialProperties.git
-[submodule "SemanticFormsSelect"]
-	path = SemanticFormsSelect
-	url =  https://github.com/SemanticMediaWiki/SemanticFormsSelect.git
-[submodule "SemanticGlossary"]
-	path = SemanticGlossary
-	url =  https://github.com/SemanticMediaWiki/SemanticGlossary.git
-[submodule "SemanticInterlanguageLinks"]
-	path = SemanticInterlanguageLinks
-	url =  https://github.com/SemanticMediaWiki/SemanticInterlanguageLinks.git
-[submodule "SemanticMediaWiki"]
-	path = SemanticMediaWiki
-	url =  https://github.com/SemanticMediaWiki/SemanticMediaWiki.git
-[submodule "SemanticResultFormats"]
-	path = SemanticResultFormats
-	url = https://github.com/SemanticMediaWiki/SemanticResultFormats.git
-[submodule "SemanticScribunto"]
-	path = SemanticScribunto
-	url =  https://github.com/SemanticMediaWiki/SemanticScribunto.git
-[submodule "SemanticSignup"]
-	path = SemanticSignup
-	url =  https://github.com/SemanticMediaWiki/SemanticSignup.git
-[submodule "SemanticWatchlist"]
-	path = SemanticWatchlist
-	url =  https://github.com/SemanticMediaWiki/SemanticWatchlist.git
-[submodule "SummaryCards"]
-	path = SummaryCards
-	url =  https://github.com/SemanticMediaWiki/SummaryCards.git
-[submodule "Nimiarkisto"]
-	path = Nimiarkisto
-	url = https://github.com/Nikerabbit/mediawiki-extensions-Nimiarkisto.git
-[submodule "Termbank"]
-	path = Termbank
-	url = https://github.com/Nikerabbit/mediawiki-extensions-Termbank.git
-[submodule "LanguageNamespaces"]
-	path = LanguageNamespaces
-	url = https://github.com/Nikerabbit/mediawiki-extensions-LanguageNamespaces.git
-[submodule "Sanat"]
-	path = Sanat
-	url = https://github.com/Nikerabbit/mediawiki-extensions-Sanat.git
-[submodule "Kotus"]
-	path = Kotus
-	url = https://github.com/Nikerabbit/mediawiki-extensions-Kotus.git
-[submodule "WordNet"]
-	path = WordNet
-	url = https://github.com/Nikerabbit/mediawiki-extensions-WordNet.git
-[submodule "Lud"]
-	path = Lud
-	url = https://github.com/Nikerabbit/mediawiki-extensions-Lud.git
-[submodule "Mermaid"]
-	path = Mermaid
-	url = https://github.com/SemanticMediaWiki/Mermaid
-[submodule "FormCompletions"]
-	path = FormCompletions
-	url = https://github.com/mwstake/mediawiki-extensions-FormCompletions
-[submodule "TranslateTagsInVE"]
-	path = TranslateTagsInVE
-	url = https://github.com/Wikifab/ext-TranslateTagsInVE.git
-[submodule "AutoSetPageLang"]
-	path = AutoSetPageLang
-	url = https://github.com/Wikifab/AutoSetPageLang.git
-[submodule "PageViewsProperty"]
-	path = PageViewsProperty
-	url = https://github.com/Wikifab/PageViewsProperty.git
-[submodule "SimpleEmbedVideo"]
-	path = SimpleEmbedVideo
-	url = https://github.com/Wikifab/ext-simple-embed-video
-[submodule "FlowCounterTalks"]
-	path = FlowCounterTalks
-	url = https://github.com/Wikifab/FlowCounterTalks
-[submodule "CommentsProperty"]
-	path = CommentsProperty
-	url = https://github.com/Wikifab/CommentsProperty
-[submodule "GroupsPage"]
-	path = GroupsPage
-	url = https://github.com/Wikifab/GroupsPage
-[submodule "UsersPagesLinks"]
-	path = UsersPagesLinks
-	url = https://github.com/Wikifab/UsersPagesLinks.git
-[submodule "PageMediaGallery"]
-	path = PageMediaGallery
-	url = https://github.com/Wikifab/PageMediaGallery
-[submodule "SemanticJsonExport"]
-	path = SemanticJsonExport
-	url = https://github.com/Wikifab/ext-SemanticJsonExport
-[submodule "CheckPageTitle"]
-	path = CheckPageTitle
-	url = https://github.com/Wikifab/ext-CheckPageTitle
-[submodule "ImageAnnotator"]
-	path = ImageAnnotator
-	url = https://github.com/Wikifab/mediawiki-extension-ImageAnnotator
-[submodule "PageLoadingSpinner"]
-	path = PageLoadingSpinner
-	url = https://github.com/Wikifab/PageLoadingSpinner
-[submodule "UsersWatchButton"]
-	path = UsersWatchButton
-	url = https://github.com/Wikifab/UsersWatchButton
-[submodule "VeForceReload"]
-	path = VeForceReload
-	url = https://github.com/Wikifab/VeForceReload
-[submodule "MailChimpForms"]
-	path = MailChimpForms
-	url = https://github.com/Wikifab/MailChimpForms
+[submodule "3DAlloy"]
+	path = 3DAlloy
+	url = https://github.com/dolfinus/3DAlloy.git
 [submodule "3DAlloyNewTag"]
 	path = 3DAlloyNewTag
 	url = https://github.com/Wikifab/3DAlloyNewTag
-[submodule "UsersWatchlist"]
-	path = UsersWatchlist
-	url = https://github.com/Wikifab/UsersWatchlist
-[submodule "VEForPageForm"]
-	path = VEForPageForm
-	url = https://github.com/Wikifab/mediawiki-extension-VEForPageForm
-[submodule "Carousel"]
-	path = Carousel
-	url = https://github.com/Wikifab/ext-carousel
-[submodule "SimpleBatchUpload"]
-	path = SimpleBatchUpload
-	url = https://github.com/ProfessionalWiki/SimpleBatchUpload
-[submodule "PurgePage"]
-	path = PurgePage
-	url = https://github.com/s7eph4n/PurgePage
-[submodule "AutoCreatePage"]
-	path = AutoCreatePage
-	url = https://github.com/mkroetzsch/AutoCreatePage
-[submodule "Bootstrap"]
-	path = Bootstrap
-	url = https://github.com/s7eph4n/mediawiki-extensions-Bootstrap
-[submodule "DocBookExport"]
-	path = DocBookExport
-	url = https://bitbucket.org/wikiworksdev/docbookexport.git
-[submodule "CloneDiff"]
-	path = CloneDiff
-	url = https://bitbucket.org/wikiworksdev/CloneDiff
-[submodule "Figures"]
-	path = Figures
-	url = https://bitbucket.org/wikiworksdev/Figures
-[submodule "HeaderFooter"]
-	path = HeaderFooter
-	url = https://github.com/jamesmontalvo3/MediaWiki-HeaderFooter.git
-[submodule "CategoryStats"]
-	path = CategoryStats
-	url = https://github.com/hexmode/CategoryStats.git
-[submodule "WatchAnalytics"]
-	path = WatchAnalytics
-	url = https://github.com/enterprisemediawiki/WatchAnalytics.git
-[submodule "DataValues"]
-	path = DataValues
-	url = https://github.com/DataValues/DataValues.git
-[submodule "EmbedVideo"]
-	path = EmbedVideo
-	url = https://gitlab.com/hydrawiki/extensions/EmbedVideo.git/
-[submodule "PDFEmbed"]
-	path = PDFEmbed
-	url = https://gitlab.com/hydrawiki/extensions/PDFEmbed.git
-[submodule "SpriteSheet"]
-	path = SpriteSheet
-	url = https://github.com/HydraWiki/SpriteSheet.git
-[submodule "LuaCache"]
-	path = LuaCache
-	url = https://gitlab.com/hydrawiki/extensions/LuaCache.git
-[submodule "ImageSizeInfoFunctions"]
-	path = ImageSizeInfoFunctions
-	url = https://github.com/HydraWiki/ImageSizeInfoFunctions
-[submodule "Streamer"]
-	path = Streamer
-	url = https://github.com/HydraWiki/Streamer.git
-[submodule "Tabber"]
-	path = Tabber
-	url = https://gitlab.com/hydrawiki/extensions/Tabber.git
-[submodule "SimpleTooltip"]
-	path = SimpleTooltip
-	url = https://github.com/Fannon/SimpleTooltip.git
-[submodule "TreeAndMenu"]
-	path = TreeAndMenu
-	url = https://gitlab.com/Aranad/TreeAndMenu.git
-[submodule "MABS"]
-	path = MABS
-	url = https://github.com/hexmode/MABS.git
-[submodule "Preloader"]
-	path = Preloader
-	url = https://gitlab.com/troyengel/Preloader.git
-[submodule "WikiDiscover"]
-	path = WikiDiscover
-	url = https://github.com/miraheze/WikiDiscover
-[submodule "MatomoAnalytics"]
-	path = MatomoAnalytics
-	url = https://github.com/miraheze/MatomoAnalytics
-[submodule "Sanctions"]
-	path = Sanctions
-	url = https://github.com/femiwiki/Sanctions
-[submodule "RottenLinks"]
-	path = RottenLinks
-	url = https://github.com/miraheze/RottenLinks
-[submodule "WerewolfWiki"]
-	path = WerewolfWiki
-	url = https://github.com/lykoss/wiki.git
-[submodule "OrganicDesign-extensions"]
-	path = OrganicDesign-extensions
-	url = https://gitlab.com/Aranad/extensions.git
-[submodule "Wiretap"]
-	path = Wiretap
-	url = https://github.com/enterprisemediawiki/Wiretap.git
-[submodule "PdfBook"]
-	path = PdfBook
-	url = https://gitlab.com/Aranad/PdfBook.git
-[submodule "Discord"]
-	path = Discord
-	url = https://github.com/jaydenkieran/mw-discord.git
-[submodule "pChart4mw"]
-	path = pChart4mw
-	url = https://github.com/Undev/MediaWiki-pChart4mw.git
-[submodule "PerconaDB"]
-	path = PerconaDB
-	url = https://github.com/MWStake/PerconaDB.git
-[submodule "IncidentReporting"]
-	path = IncidentReporting
-	url = https://github.com/miraheze/IncidentReporting
-[submodule "DiscordNotifications"]
-	path = DiscordNotifications
-	url = https://github.com/kulttuuri/DiscordNotifications.git
-[submodule "FileSystemImageServer"]
-	path = FileSystemImageServer
-	url = https://github.com/Nikerabbit/mediawiki-extensions-FileSystemImageServer
-[submodule "Ainut"]
-	path = Ainut
-	url = https://github.com/Nikerabbit/mediawiki-extensions-Ainut
-[submodule "SCSS"]
-	path = SCSS
-	url = https://github.com/ProfessionalWiki/SCSS.git
-[submodule "Moderation"]
-	path = Moderation
-	url = https://github.com/edwardspec/mediawiki-moderation.git
-[submodule "BCmath"]
-	path = BCmath
-	url = https://github.com/jeblad/BCmath.git
-[submodule "Expect"]
-	path = Expect
-	url = https://github.com/jeblad/Expect.git
-[submodule "LangCodeOverride"]
-	path = LangCodeOverride
-	url = https://github.com/jeblad/LangCodeOverride.git
-[submodule "RecordWizard"]
-	path = RecordWizard
-	url = https://github.com/lingua-libre/RecordWizard.git
-[submodule "MirahezeMagic"]
-	path = MirahezeMagic
-	url = https://github.com/miraheze/MirahezeMagic.git
-[submodule "BootstrapComponents"]
-	path = BootstrapComponents
-	url = https://github.com/oetterer/BootstrapComponents.git
-[submodule "ModernTimeline"]
-	path = ModernTimeline
-	url = https://github.com/ProfessionalWiki/ModernTimeline.git
-[submodule "SemanticApprovedRevs"]
-	path = SemanticApprovedRevs
-	url = https://github.com/SemanticMediaWiki/SemanticApprovedRevs.git
-[submodule "SemanticMetaTags"]
-	path = SemanticMetaTags
-	url = https://github.com/SemanticMediaWiki/SemanticMetaTags.git
-[submodule "SemanticTasks"]
-	path = SemanticTasks
-	url = https://github.com/SemanticMediaWiki/SemanticTasks.git
-[submodule "FontAwesome"]
-	path = FontAwesome
-	url = https://github.com/ProfessionalWiki/FontAwesome.git
-[submodule "Collection"]
-	path = Collection
-	url = https://github.com/WikiToLearn/mediawiki-extensions-Collection
-[submodule "GTag"]
-	path = GTag
-	url = https://github.com/skizzerz/mediawiki-GTag
 [submodule "AWS"]
 	path = AWS
 	url = https://github.com/edwardspec/mediawiki-aws-s3.git
-[submodule "DynamicPageList"]
-	path = DynamicPageList
-	url = https://gitlab.com/hydrawiki/extensions/DynamicPageList.git
-[submodule "NamespacePreload"]
-	path = NamespacePreload
-	url = https://gitlab.com/nonsensopedia/extensions/namespacepreload.git/
-[submodule "Svetovid"]
-	path = Svetovid
-	url = https://gitlab.com/nonsensopedia/extensions/svetovid.git/
+[submodule "AccessLogReports"]
+	path = AccessLogReports
+	url = https://github.com/hexmode/mediawiki-AccessLogReports
+[submodule "AchievementBadges"]
+	path = AchievementBadges
+	url = https://github.com/femiwiki/AchievementBadges
+[submodule "Acronym"]
+	path = Acronym
+	url = https://github.com/Halopedia/Acronym
 [submodule "AdvancedBacklinks"]
 	path = AdvancedBacklinks
 	url = https://gitlab.com/nonsensopedia/extensions/advancedbacklinks.git/
-[submodule "MarkImages"]
-	path = MarkImages
-	url = https://gitlab.com/nonsensopedia/extensions/markimages.git/
-[submodule "RatePage"]
-	path = RatePage
-	url = https://gitlab.com/nonsensopedia/extensions/ratepage.git/
+[submodule "AdvancedUserStats"]
+	path = AdvancedUserStats
+	url = https://bitbucket.org/wikiskripta/advanceduserstats
+[submodule "AgeClassification"]
+	path = AgeClassification
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-AgeClassification
+[submodule "AgeParse"]
+	path = AgeParse
+	url = https://github.com/DaSchTour/AgeParse.git
+[submodule "Ainut"]
+	path = Ainut
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Ainut
+[submodule "AlternativeUserTalk"]
+	path = AlternativeUserTalk
+	url = https://github.com/poke/mediawiki-AlternativeUserTalk.git
+[submodule "ArticleIndex"]
+	path = ArticleIndex
+	url = https://bitbucket.org/wikiskripta/articleindex
+[submodule "Auth_phpBB"]
+	path = Auth_phpBB
+	url = https://github.com/Digitalroot-Technologies/MediaWiki_PHPBB_Auth
+[submodule "AutoCreatePage"]
+	path = AutoCreatePage
+	url = https://github.com/mkroetzsch/AutoCreatePage
+[submodule "AutoSetPageLang"]
+	path = AutoSetPageLang
+	url = https://github.com/Wikifab/AutoSetPageLang.git
+[submodule "AutoSitemap"]
+	path = AutoSitemap
+	url = https://github.com/dolfinus/AutoSitemap.git
+[submodule "BCmath"]
+	path = BCmath
+	url = https://github.com/jeblad/BCmath.git
+[submodule "BetterComments"]
+	path = BetterComments
+	url = https://bitbucket.org/wikiskripta/bettercomments.git
+[submodule "BlockASN"]
+	path = BlockASN
+	url = https://github.com/SkizNet/mediawiki-BlockASN
+[submodule "Bootstrap"]
+	path = Bootstrap
+	url = https://github.com/s7eph4n/mediawiki-extensions-Bootstrap
+[submodule "BootstrapComponents"]
+	path = BootstrapComponents
+	url = https://github.com/oetterer/BootstrapComponents.git
+[submodule "Bugzilla"]
+	path = Bugzilla
+	url = https://invent.kde.org/websites/mediawiki-bugzilla.git/
+[submodule "CaptchaSettings"]
+	path = CaptchaSettings
+	url = https://bitbucket.org/wikiskripta/captchasettings
+[submodule "Carousel"]
+	path = Carousel
+	url = https://github.com/Wikifab/ext-carousel
+[submodule "CategoryHistory"]
+	path = CategoryHistory
+	url = https://bitbucket.org/wikiskripta/categoryhistory
+[submodule "CategoryStats"]
+	path = CategoryStats
+	url = https://github.com/hexmode/CategoryStats.git
+[submodule "CharacterEscapes"]
+	path = CharacterEscapes
+	url = https://gitlab.com/hydrawiki/extensions/characterescapes.git
+[submodule "Chartie"]
+	path = Chartie
+	url = https://github.com/dolfinus/Chartie.git
+[submodule "CheckPageTitle"]
+	path = CheckPageTitle
+	url = https://github.com/Wikifab/ext-CheckPageTitle
+[submodule "CloneDiff"]
+	path = CloneDiff
+	url = https://bitbucket.org/wikiworksdev/CloneDiff
+[submodule "Collection"]
+	path = Collection
+	url = https://github.com/WikiToLearn/mediawiki-extensions-Collection
+[submodule "CommentsProperty"]
+	path = CommentsProperty
+	url = https://github.com/Wikifab/CommentsProperty
+[submodule "Contactus"]
+	path = Contactus
+	url = https://bitbucket.org/wikiskripta/contactus
+[submodule "CreateWiki"]
+	path = CreateWiki
+	url = https://github.com/miraheze/CreateWiki.git
+[submodule "CurseTwitter"]
+	path = CurseTwitter
+	url = https://gitlab.com/hydrawiki/extensions/CurseTwitter.git
+[submodule "CustomRecentChanges"]
+	path = CustomRecentChanges
+	url = https://github.com/Wikifab/CustomRecentChanges.git
+[submodule "CustomSubtitle"]
+	path = CustomSubtitle
+	url = https://github.com/lingua-libre/CustomSubtitle.git
+[submodule "DataDump"]
+	path = DataDump
+	url = https://github.com/miraheze/DataDump
+[submodule "DataValues"]
+	path = DataValues
+	url = https://github.com/DataValues/DataValues.git
+[submodule "Debounce"]
+	path = Debounce
+	url = https://github.com/SkizNet/mediawiki-Debounce
+[submodule "Decorations"]
+	path = Decorations
+	url = https://bitbucket.org/wikiskripta/decorations.git
+[submodule "Diagrams"]
+	path = Diagrams
+	url = https://github.com/samwilson/diagrams-extension.git
+[submodule "Discord"]
+	path = Discord
+	url = https://github.com/jaydenkieran/mw-discord.git
+[submodule "DiscordNotifications"]
+	path = DiscordNotifications
+	url = https://github.com/kulttuuri/DiscordNotifications.git
+[submodule "DiscordRCFeed"]
+	path = DiscordRCFeed
+	url = https://github.com/femiwiki/DiscordRCFeed
+[submodule "DiscourseSsoConsumer"]
+	path = DiscourseSsoConsumer
+	url = https://github.com/centertap/DiscourseSsoConsumer
+[submodule "DocBookExport"]
+	path = DocBookExport
+	url = https://bitbucket.org/wikiworksdev/docbookexport.git
+[submodule "DonateButton"]
+	path = DonateButton
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-DonateButton.git
+[submodule "DynamicPageList"]
+	path = DynamicPageList
+	url = https://gitlab.com/hydrawiki/extensions/DynamicPageList.git
+[submodule "EmbedScratch"]
+	path = EmbedScratch
+	url = https://github.com/InternationalScratchWiki/mw-embedScratch.git
+[submodule "EmbedVideo"]
+	path = EmbedVideo
+	url = https://gitlab.com/hydrawiki/extensions/EmbedVideo.git/
+[submodule "Expect"]
+	path = Expect
+	url = https://github.com/jeblad/Expect.git
+[submodule "ExplicitImages"]
+	path = ExplicitImages
+	url = https://bitbucket.org/wikiskripta/explicitimages
+[submodule "ExternalContent"]
+	path = ExternalContent
+	url = https://github.com/ProfessionalWiki/ExternalContent.git
+[submodule "FacetedCategory"]
+	path = FacetedCategory
+	url = https://github.com/femiwiki/FacetedCategory
 [submodule "Fagocytoza"]
 	path = Fagocytoza
 	url = https://gitlab.com/nonsensopedia/extensions/fagocytoza.git/
 [submodule "FancyModeration"]
 	path = FancyModeration
 	url = https://gitlab.com/nonsensopedia/extensions/fancymoderation.git/
-[submodule "NonsaLinks"]
-	path = NonsaLinks
-	url = https://gitlab.com/nonsensopedia/extensions/nonsalinks.git/
-[submodule "ResponsiveFrontend"]
-	path = ResponsiveFrontend
-	url = https://gitlab.com/nonsensopedia/extensions/responsivefrontend.git/
-[submodule "SemanticCommonsClient"]
-	path = SemanticCommonsClient
-	url = https://gitlab.com/nonsensopedia/extensions/semanticcommonsclient.git/
-[submodule "NonsaCodeJanitor"]
-	path = NonsaCodeJanitor
-	url = https://gitlab.com/nonsensopedia/extensions/nonsacodejanitor.git/
-[submodule "MigrateMyLinks"]
-	path = MigrateMyLinks
-	url = https://github.com/ciencia/mediawiki-extensions-MigrateMyLinks.git
-[submodule "SaneCase"]
-	path = SaneCase
-	url = https://github.com/ciencia/mediawiki-extensions-SaneCase.git
-[submodule "StubUserWikiAuth"]
-	path = StubUserWikiAuth
-	url = https://github.com/ciencia/mediawiki-extensions-StubUserWikiAuth.git
-[submodule "TwitterWidget"]
-	path = TwitterWidget
-	url = https://github.com/ciencia/mediawiki-extensions-TwitterWidget.git
-[submodule "WikiDexFileRepository"]
-	path = WikiDexFileRepository
-	url = https://github.com/ciencia/mediawiki-extensions-WikiDexFileRepository.git
-[submodule "FacetedCategory"]
-	path = FacetedCategory
-	url = https://github.com/femiwiki/FacetedCategory
-[submodule "UnifiedExtensionForFemiwiki"]
-	path = UnifiedExtensionForFemiwiki
-	url = https://github.com/femiwiki/UnifiedExtensionForFemiwiki
-[submodule "DataDump"]
-	path = DataDump
-	url = https://github.com/miraheze/DataDump
-[submodule "SemanticWikibase"]
-	path = SemanticWikibase
-	url = https://github.com/ProfessionalWiki/SemanticWikibase
-[submodule "SimpleMathJax"]
-	path = SimpleMathJax
-	url = https://github.com/jmnote/SimpleMathJax
-[submodule "HeaderExtension"]
-	path = HeaderExtension
-	url = https://github.com/WikiMANNia/Mediawiki-Extension-HeaderExtension
-[submodule "DonateButton"]
-	path = DonateButton
-	url = https://github.com/WikiMANNia/MediaWiki-Extension-DonateButton.git
-[submodule "AgeClassification"]
-	path = AgeClassification
-	url = https://github.com/WikiMANNia/MediaWiki-Extension-AgeClassification
-[submodule "SkinCustomiser"]
-	path = SkinCustomiser
-	url = https://github.com/WikiMANNia/Mediawiki-Extension-SkinCustomiser.git
-[submodule "RefreshSiteStatsTable"]
-	path = RefreshSiteStatsTable
-	url = https://github.com/WikiMANNia/MediaWiki-Extension-RefreshSiteStatsTable.git
-[submodule "WimaAdvertising"]
-	path = WimaAdvertising
-	url = https://github.com/WikiMANNia/MediaWiki-Extension-WimaAdvertising.git
-[submodule "WikiBanner"]
-	path = WikiBanner
-	url = https://github.com/Sturmkrieg/mw-WikiBanner
-[submodule "GoogleTagManager"]
-	path = GoogleTagManager
-	url = https://github.com/Hutchy68/GoogleTagManager
-[submodule "SocialTags"]
-	path = SocialTags
-	url = https://github.com/PCGamingWiki/socialtags.git
-[submodule "UniqueLink"]
-	path = UniqueLink
-	url = https://github.com/Halopedia/UniqueLink
-[submodule "Acronym"]
-	path = Acronym
-	url = https://github.com/Halopedia/Acronym
-[submodule "WikiActivity"]
-	path = WikiActivity
-	url = https://github.com/haleyjd/WikiActivity
-[submodule "MyTwitter"]
-	path = MyTwitter
-	url = https://github.com/wiki-chan/MyTwitter
-[submodule "Realnames"]
-	path = Realnames
-	url = https://github.com/ofbeaton/mediawiki-realnames
-[submodule "Diagrams"]
-	path = Diagrams
-	url = https://github.com/samwilson/diagrams-extension.git
-[submodule "MetaDescriptionTag"]
-	path = MetaDescriptionTag
-	url = https://github.com/kolzchut/mediawiki-extensions-MetaDescriptionTag.git
-[submodule "Upload2Commons"]
-	path = Upload2Commons
-	url = https://github.com/lingua-libre/Upload2Commons.git
-[submodule "QueryViz"]
-	path = QueryViz
-	url = https://github.com/lingua-libre/QueryViz.git
-[submodule "CustomSubtitle"]
-	path = CustomSubtitle
-	url = https://github.com/lingua-libre/CustomSubtitle.git
-[submodule "Bugzilla"]
-	path = Bugzilla
-	url = https://invent.kde.org/websites/mediawiki-bugzilla.git/
-[submodule "KDELogin"]
-	path = KDELogin
-	url = https://invent.kde.org/websites/mykde-mediawiki.git/
 [submodule "FeedbackUs"]
 	path = FeedbackUs
 	url = https://bitbucket.org/wikiskripta/feedbackus.git
-[submodule "Whois"]
-	path = Whois
-	url = https://bitbucket.org/wikiskripta/whois.git
-[submodule "Decorations"]
-	path = Decorations
-	url = https://bitbucket.org/wikiskripta/decorations.git
-[submodule "Radyjonka"]
-	path = Radyjonka
-	url = https://bitbucket.org/wikiskripta/radyjonka.git
-[submodule "SimilarTitles"]
-	path = SimilarTitles
-	url = https://bitbucket.org/wikiskripta/similartitles.git
-[submodule "BetterComments"]
-	path = BetterComments
-	url = https://bitbucket.org/wikiskripta/bettercomments.git
-[submodule "RealTimeUsers"]
-	path = RealTimeUsers
-	url = https://bitbucket.org/wikiskripta/realtimeusers.git
-[submodule "GlobalStats"]
-	path = GlobalStats
-	url = https://bitbucket.org/wikiskripta/globalstats.git
-[submodule "WikiZoomer"]
-	path = WikiZoomer
-	url = https://bitbucket.org/wikiskripta/wikizoomer
-[submodule "ExplicitImages"]
-	path = ExplicitImages
-	url = https://bitbucket.org/wikiskripta/explicitimages
-[submodule "ThePlayer"]
-	path = ThePlayer
-	url = https://bitbucket.org/wikiskripta/theplayer
-[submodule "Contactus"]
-	path = Contactus
-	url = https://bitbucket.org/wikiskripta/contactus
-[submodule "CategoryHistory"]
-	path = CategoryHistory
-	url = https://bitbucket.org/wikiskripta/categoryhistory
+[submodule "Figures"]
+	path = Figures
+	url = https://bitbucket.org/wikiworksdev/Figures
+[submodule "FileSystemImageServer"]
+	path = FileSystemImageServer
+	url = https://github.com/Nikerabbit/mediawiki-extensions-FileSystemImageServer
 [submodule "FilterAccess"]
 	path = FilterAccess
 	url = https://bitbucket.org/wikiskripta/filteraccess
-[submodule "QuestyCaptchaGenerator"]
-	path = QuestyCaptchaGenerator
-	url = https://bitbucket.org/wikiskripta/questycaptchagenerator
-[submodule "PageAuthors"]
-	path = PageAuthors
-	url = https://bitbucket.org/wikiskripta/pageauthors
-[submodule "AdvancedUserStats"]
-	path = AdvancedUserStats
-	url = https://bitbucket.org/wikiskripta/advanceduserstats
-[submodule "ArticleIndex"]
-	path = ArticleIndex
-	url = https://bitbucket.org/wikiskripta/articleindex
-[submodule "CaptchaSettings"]
-	path = CaptchaSettings
-	url = https://bitbucket.org/wikiskripta/captchasettings
+[submodule "FinnFrameNet"]
+	path = FinnFrameNet
+	url = https://github.com/Nikerabbit/mediawiki-extensions-FinnFrameNet.git
+[submodule "FlowCounterTalks"]
+	path = FlowCounterTalks
+	url = https://github.com/Wikifab/FlowCounterTalks
+[submodule "FontAwesome"]
+	path = FontAwesome
+	url = https://github.com/ProfessionalWiki/FontAwesome.git
+[submodule "FormCompletions"]
+	path = FormCompletions
+	url = https://github.com/mwstake/mediawiki-extensions-FormCompletions
+[submodule "GND"]
+	path = GND
+	url = https://github.com/ProfessionalWiki/GND.git
+[submodule "GTag"]
+	path = GTag
+	url = https://github.com/skizzerz/mediawiki-GTag
+[submodule "GitHub"]
+	path = GitHub
+	url = https://github.com/JeroenDeDauw/GitHub.git
+[submodule "GlobalStats"]
+	path = GlobalStats
+	url = https://bitbucket.org/wikiskripta/globalstats.git
+[submodule "GoogleTagManager"]
+	path = GoogleTagManager
+	url = https://github.com/Hutchy68/GoogleTagManager
+[submodule "GroupsPage"]
+	path = GroupsPage
+	url = https://github.com/Wikifab/GroupsPage
+[submodule "HeaderExtension"]
+	path = HeaderExtension
+	url = https://github.com/WikiMANNia/Mediawiki-Extension-HeaderExtension
+[submodule "HeaderFooter"]
+	path = HeaderFooter
+	url = https://github.com/jamesmontalvo3/MediaWiki-HeaderFooter.git
+[submodule "IFrame"]
+	path = IFrame
+	url = https://github.com/hexmode/mediawiki-iframe.git
+[submodule "ImageAnnotator"]
+	path = ImageAnnotator
+	url = https://github.com/Wikifab/mediawiki-extension-ImageAnnotator
+[submodule "ImageSizeInfoFunctions"]
+	path = ImageSizeInfoFunctions
+	url = https://github.com/HydraWiki/ImageSizeInfoFunctions
+[submodule "IncidentReporting"]
+	path = IncidentReporting
+	url = https://github.com/miraheze/IncidentReporting
+[submodule "IssueTracker"]
+	path = IssueTracker
+	url = https://github.com/Hutchy68/IssueTracker
+[submodule "JavascriptSlideshow"]
+	path = JavascriptSlideshow
+	url = https://github.com/DaSchTour/JavascriptSlideshow.git
+[submodule "KDELogin"]
+	path = KDELogin
+	url = https://invent.kde.org/websites/mykde-mediawiki.git/
+[submodule "Kotus"]
+	path = Kotus
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Kotus.git
+[submodule "LDAPAuthentication"]
+	path = LDAPAuthentication
+	url = https://github.com/mwstake/mediawiki-extensions-LDAPAuthentication
+[submodule "LDAPAuthorization"]
+	path = LDAPAuthorization
+	url = https://github.com/mwstake/mediawiki-extensions-LDAPAuthorization
+[submodule "LangCodeOverride"]
+	path = LangCodeOverride
+	url = https://github.com/jeblad/LangCodeOverride.git
+[submodule "LanguageNamespaces"]
+	path = LanguageNamespaces
+	url = https://github.com/Nikerabbit/mediawiki-extensions-LanguageNamespaces.git
+[submodule "LatestDiscussions"]
+	path = LatestDiscussions
+	url = https://github.com/Wikifab/LatestDiscussions.git
+[submodule "ListDuplicateUsers"]
+	path = ListDuplicateUsers
+	url = https://github.com/PowerpediaInterns/mediawiki-extensions-ListDuplicateUsers
+[submodule "ListTransclusions"]
+	path = ListTransclusions
+	url = https://github.com/poke/mediawiki-ListTransclusions.git
+[submodule "Loops"]
+	path = Loops
+	url = https://gitlab.com/hydrawiki/extensions/Loops.git
+[submodule "LuaCache"]
+	path = LuaCache
+	url = https://gitlab.com/hydrawiki/extensions/LuaCache.git
+[submodule "Lud"]
+	path = Lud
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Lud.git
+[submodule "MABS"]
+	path = MABS
+	url = https://github.com/hexmode/MABS.git
+[submodule "MagicNumberedHeadings"]
+	path = MagicNumberedHeadings
+	url = https://github.com/hexmode/mediawiki-MagicNumberedHeadings
+[submodule "MailChimpForms"]
+	path = MailChimpForms
+	url = https://github.com/Wikifab/MailChimpForms
+[submodule "ManageWiki"]
+	path = ManageWiki
+	url = https://github.com/miraheze/ManageWiki.git
+[submodule "Maps"]
+	path = Maps
+	url = https://github.com/ProfessionalWiki/Maps.git
+[submodule "MarkImages"]
+	path = MarkImages
+	url = https://gitlab.com/nonsensopedia/extensions/markimages.git/
+[submodule "Matomo"]
+	path = Matomo
+	url = https://github.com/DaSchTour/matomo-mediawiki-extension.git
+[submodule "MatomoAnalytics"]
+	path = MatomoAnalytics
+	url = https://github.com/miraheze/MatomoAnalytics
+[submodule "MediaWikiAuth"]
+	path = MediaWikiAuth
+	url = https://github.com/SkizNet/mediawiki-MediaWikiAuth
 [submodule "MedicalMediaPlayer"]
 	path = MedicalMediaPlayer
 	url = https://bitbucket.org/wikiskripta/medicalmediaplayer
+[submodule "Memcached"]
+	path = Memcached
+	url = https://gitlab.com/hexmode1/Memcached.git/
+[submodule "Mermaid"]
+	path = Mermaid
+	url = https://github.com/SemanticMediaWiki/Mermaid
+[submodule "MetaDescriptionTag"]
+	path = MetaDescriptionTag
+	url = https://github.com/kolzchut/mediawiki-extensions-MetaDescriptionTag.git
 [submodule "MetaTags"]
 	path = MetaTags
 	url = https://bitbucket.org/wikiskripta/metatags
-[submodule "SLight"]
-	path = SLight
-	url = https://bitbucket.org/wikiskripta/slight
-[submodule "URNames"]
-	path = URNames
-	url = https://bitbucket.org/wikiskripta/urnames
+[submodule "MigrateMyLinks"]
+	path = MigrateMyLinks
+	url = https://github.com/ciencia/mediawiki-extensions-MigrateMyLinks.git
+[submodule "MirahezeMagic"]
+	path = MirahezeMagic
+	url = https://github.com/miraheze/MirahezeMagic.git
+[submodule "Moderation"]
+	path = Moderation
+	url = https://github.com/edwardspec/mediawiki-moderation.git
+[submodule "ModernTimeline"]
+	path = ModernTimeline
+	url = https://github.com/ProfessionalWiki/ModernTimeline.git
+[submodule "MyTwitter"]
+	path = MyTwitter
+	url = https://github.com/wiki-chan/MyTwitter
+[submodule "NamespaceManager"]
+	path = NamespaceManager
+	url = https://github.com/hexmode/mediawiki-NamespaceManager
+[submodule "NamespacePreload"]
+	path = NamespacePreload
+	url = https://gitlab.com/nonsensopedia/extensions/namespacepreload.git/
+[submodule "Network"]
+	path = Network
+	url = https://github.com/ProfessionalWiki/Network.git
+[submodule "NewDuplicateUserMessage"]
+	path = NewDuplicateUserMessage
+	url = https://github.com/PowerpediaInterns/mediawiki-extensions-NewDuplicateUserMessage
+[submodule "Nimiarkisto"]
+	path = Nimiarkisto
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Nimiarkisto.git
+[submodule "NonsaCodeJanitor"]
+	path = NonsaCodeJanitor
+	url = https://gitlab.com/nonsensopedia/extensions/nonsacodejanitor.git/
+[submodule "NonsaLinks"]
+	path = NonsaLinks
+	url = https://gitlab.com/nonsensopedia/extensions/nonsalinks.git/
+[submodule "OSBlocks"]
+	path = OSBlocks
+	url = https://github.com/InternationalScratchWiki/OSBlocks.git
 [submodule "OpeningHours"]
 	path = OpeningHours
 	url = https://github.com/thaider/OpeningHours.git
-[submodule "UbiGo"]
-	path = UbiGo
-	url = https://github.com/thaider/UbiGo.git
-[submodule "Skrifo"]
-	path = Skrifo
-	url = https://github.com/thaider/Skrifo.git
-[submodule "SemanticOrganization"]
-	path = SemanticOrganization
-	url = https://github.com/thaider/SemanticOrganization.git
-[submodule "TopoJson"]
-	path = TopoJson
-	url = https://github.com/thaider/TopoJson.git
-[submodule "ScratchConfirmAccountV3"]
-	path = ScratchConfirmAccountV3
-	url = https://github.com/InternationalScratchWiki/scratch-confirmaccount-v3
+[submodule "OrganicDesign-extensions"]
+	path = OrganicDesign-extensions
+	url = https://gitlab.com/Aranad/extensions.git
+[submodule "PDFEmbed"]
+	path = PDFEmbed
+	url = https://gitlab.com/hydrawiki/extensions/PDFEmbed.git
+[submodule "PHPEditor"]
+	path = PHPEditor
+	url = https://github.com/mwstake/mediawiki-extensions-PHPEditor
+[submodule "PageAuthors"]
+	path = PageAuthors
+	url = https://bitbucket.org/wikiskripta/pageauthors
+[submodule "PageLoadingSpinner"]
+	path = PageLoadingSpinner
+	url = https://github.com/Wikifab/PageLoadingSpinner
+[submodule "PageMediaGallery"]
+	path = PageMediaGallery
+	url = https://github.com/Wikifab/PageMediaGallery
+[submodule "PageProtect"]
+	path = PageProtect
+	url = https://github.com/hexmode/mediawiki-PageProtect
+[submodule "PageViewInfoGA"]
+	path = PageViewInfoGA
+	url = https://github.com/femiwiki/PageViewInfoGA
+[submodule "PageViewsProperty"]
+	path = PageViewsProperty
+	url = https://github.com/Wikifab/PageViewsProperty.git
+[submodule "ParserHooks"]
+	path = ParserHooks
+	url = https://github.com/JeroenDeDauw/ParserHooks.git
+[submodule "PassEdit"]
+	path = PassEdit
+	url = https://github.com/InternationalScratchWiki/PassEdit.git
+[submodule "PdfBook"]
+	path = PdfBook
+	url = https://gitlab.com/Aranad/PdfBook.git
+[submodule "PerconaDB"]
+	path = PerconaDB
+	url = https://github.com/MWStake/PerconaDB.git
+[submodule "PeriodicRelatedChanges"]
+	path = PeriodicRelatedChanges
+	url = https://github.com/hexmode/mediawiki-PeriodicRelatedChanges
+[submodule "Pickle"]
+	path = Pickle
+	url = https://github.com/jeblad/Pickle.git
+[submodule "Preloader"]
+	path = Preloader
+	url = https://gitlab.com/troyengel/Preloader.git
+[submodule "Purge"]
+	path = Purge
+	url = https://github.com/Hutchy68/Purge.git
+[submodule "PurgePage"]
+	path = PurgePage
+	url = https://github.com/s7eph4n/PurgePage
+[submodule "QueryViz"]
+	path = QueryViz
+	url = https://github.com/lingua-libre/QueryViz.git
+[submodule "QuestyCaptchaGenerator"]
+	path = QuestyCaptchaGenerator
+	url = https://bitbucket.org/wikiskripta/questycaptchagenerator
+[submodule "Radyjonka"]
+	path = Radyjonka
+	url = https://bitbucket.org/wikiskripta/radyjonka.git
+[submodule "RatePage"]
+	path = RatePage
+	url = https://gitlab.com/nonsensopedia/extensions/ratepage.git/
+[submodule "RealTimeUsers"]
+	path = RealTimeUsers
+	url = https://bitbucket.org/wikiskripta/realtimeusers.git
+[submodule "Realnames"]
+	path = Realnames
+	url = https://github.com/ofbeaton/mediawiki-realnames
+[submodule "RecentChangesLogFilter"]
+	path = RecentChangesLogFilter
+	url = https://github.com/poke/mediawiki-RecentChangesLogFilter.git
+[submodule "RecordWizard"]
+	path = RecordWizard
+	url = https://github.com/lingua-libre/RecordWizard.git
+[submodule "RefreshSiteStatsTable"]
+	path = RefreshSiteStatsTable
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-RefreshSiteStatsTable.git
+[submodule "ResourceLoaderArticles"]
+	path = ResourceLoaderArticles
+	url = https://github.com/Liquipedia/ResourceLoaderArticles.git
+[submodule "ResponsiveFrontend"]
+	path = ResponsiveFrontend
+	url = https://gitlab.com/nonsensopedia/extensions/responsivefrontend.git/
+[submodule "RottenLinks"]
+	path = RottenLinks
+	url = https://github.com/miraheze/RottenLinks
+[submodule "SCSS"]
+	path = SCSS
+	url = https://github.com/ProfessionalWiki/SCSS.git
+[submodule "SLight"]
+	path = SLight
+	url = https://bitbucket.org/wikiskripta/slight
+[submodule "Sanat"]
+	path = Sanat
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Sanat.git
+[submodule "Sanctions"]
+	path = Sanctions
+	url = https://github.com/femiwiki/Sanctions
+[submodule "SaneCase"]
+	path = SaneCase
+	url = https://github.com/ciencia/mediawiki-extensions-SaneCase.git
 [submodule "ScratchBlocks4"]
 	path = ScratchBlocks4
 	url = https://github.com/InternationalScratchWiki/mw-ScratchBlocks4.git
+[submodule "ScratchConfirmAccountV3"]
+	path = ScratchConfirmAccountV3
+	url = https://github.com/InternationalScratchWiki/scratch-confirmaccount-v3
 [submodule "ScratchLogin"]
 	path = ScratchLogin
 	url = https://github.com/InternationalScratchWiki/mediawiki-scratch-login.git
 [submodule "ScratchSig3"]
 	path = ScratchSig3
 	url = https://github.com/InternationalScratchWiki/mw-scratchsig3.git
-[submodule "EmbedScratch"]
-	path = EmbedScratch
-	url = https://github.com/InternationalScratchWiki/mw-embedScratch.git
-[submodule "OSBlocks"]
-	path = OSBlocks
-	url = https://github.com/InternationalScratchWiki/OSBlocks.git
-[submodule "SyntaxHighlight_PrismJS"]
-	path = SyntaxHighlight_PrismJS
-	url = https://github.com/InternationalScratchWiki/SyntaxHighlight_PrismJS.git
-[submodule "PassEdit"]
-	path = PassEdit
-	url = https://github.com/InternationalScratchWiki/PassEdit.git
-[submodule "TrendingPages"]
-	path = TrendingPages
-	url = https://github.com/Liquipedia/TrendingMenu
-[submodule "ResourceLoaderArticles"]
-	path = ResourceLoaderArticles
-	url = https://github.com/Liquipedia/ResourceLoaderArticles.git
-[submodule "VariablesLua"]
-	path = VariablesLua
-	url = https://github.com/Liquipedia/VariablesLua.git
-[submodule "AutoSitemap"]
-	path = AutoSitemap
-	url = https://github.com/dolfinus/AutoSitemap.git
-[submodule "3DAlloy"]
-	path = 3DAlloy
-	url = https://github.com/dolfinus/3DAlloy.git
-[submodule "YandexSiteVerification"]
-	path = YandexSiteVerification
-	url = https://github.com/dolfinus/YandexSiteVerification.git
-[submodule "Chartie"]
-	path = Chartie
-	url = https://github.com/dolfinus/Chartie.git
-[submodule "CharacterEscapes"]
-	path = CharacterEscapes
-	url = https://gitlab.com/hydrawiki/extensions/characterescapes.git
-[submodule "UploadFields"]
-	path = UploadFields
-	url = https://gitlab.com/hydrawiki/extensions/UploadFields.git
-[submodule "Loops"]
-	path = Loops
-	url = https://gitlab.com/hydrawiki/extensions/Loops.git
 [submodule "SearchLogger"]
 	path = SearchLogger
 	url = https://gitlab.com/hydrawiki/extensions/SearchLogger.git
-[submodule "CurseTwitter"]
-	path = CurseTwitter
-	url = https://gitlab.com/hydrawiki/extensions/CurseTwitter.git
-[submodule "SlideBoxLightShow"]
-	path = SlideBoxLightShow
-	url = https://gitlab.com/hydrawiki/extensions/SlideBoxLightShow.git
-[submodule "Matomo"]
-	path = Matomo
-	url = https://github.com/DaSchTour/matomo-mediawiki-extension.git
-[submodule "AgeParse"]
-	path = AgeParse
-	url = https://github.com/DaSchTour/AgeParse.git
-[submodule "JavascriptSlideshow"]
-	path = JavascriptSlideshow
-	url = https://github.com/DaSchTour/JavascriptSlideshow.git
-[submodule "CustomRecentChanges"]
-	path = CustomRecentChanges
-	url = https://github.com/Wikifab/CustomRecentChanges.git
-[submodule "SideSummary"]
-	path = SideSummary
-	url = https://github.com/Wikifab/SideSummary.git
-[submodule "LatestDiscussions"]
-	path = LatestDiscussions
-	url = https://github.com/Wikifab/LatestDiscussions.git
-[submodule "TablesInSematic"]
-	path = TablesInSematic
-	url = https://github.com/Wikifab/TablesInSemantic.git
-[submodule "MediaWikiAuth"]
-	path = MediaWikiAuth
-	url = https://github.com/SkizNet/mediawiki-MediaWikiAuth
-[submodule "Debounce"]
-	path = Debounce
-	url = https://github.com/SkizNet/mediawiki-Debounce
-[submodule "BlockASN"]
-	path = BlockASN
-	url = https://github.com/SkizNet/mediawiki-BlockASN
-[submodule "WikiMirror"]
-	path = WikiMirror
-	url = https://github.com/SkizNet/mediawiki-WikiMirror
-[submodule "ListDuplicateUsers"]
-	path = ListDuplicateUsers
-	url = https://github.com/PowerpediaInterns/mediawiki-extensions-ListDuplicateUsers
-[submodule "NewDuplicateUserMessage"]
-	path = NewDuplicateUserMessage
-	url = https://github.com/PowerpediaInterns/mediawiki-extensions-NewDuplicateUserMessage
+[submodule "SemanticApprovedRevs"]
+	path = SemanticApprovedRevs
+	url = https://github.com/SemanticMediaWiki/SemanticApprovedRevs.git
+[submodule "SemanticBreadcrumbLinks"]
+	path = SemanticBreadcrumbLinks
+	url = https://github.com/SemanticMediaWiki/SemanticBreadcrumbLinks.git
+[submodule "SemanticCite"]
+	path = SemanticCite
+	url = https://github.com/SemanticMediaWiki/SemanticCite.git
+[submodule "SemanticCommonsClient"]
+	path = SemanticCommonsClient
+	url = https://gitlab.com/nonsensopedia/extensions/semanticcommonsclient.git/
+[submodule "SemanticCompoundQueries"]
+	path = SemanticCompoundQueries
+	url = https://github.com/SemanticMediaWiki/SemanticCompoundQueries.git
+[submodule "SemanticExternalQueryLookup"]
+	path = SemanticExternalQueryLookup
+	url = https://github.com/SemanticMediaWiki/SemanticExternalQueryLookup.git
+[submodule "SemanticExtraSpecialProperties"]
+	path = SemanticExtraSpecialProperties
+	url = https://github.com/SemanticMediaWiki/SemanticExtraSpecialProperties.git
+[submodule "SemanticFormsSelect"]
+	path = SemanticFormsSelect
+	url = https://github.com/SemanticMediaWiki/SemanticFormsSelect.git
+[submodule "SemanticGlossary"]
+	path = SemanticGlossary
+	url = https://github.com/SemanticMediaWiki/SemanticGlossary.git
+[submodule "SemanticInterlanguageLinks"]
+	path = SemanticInterlanguageLinks
+	url = https://github.com/SemanticMediaWiki/SemanticInterlanguageLinks.git
+[submodule "SemanticJsonExport"]
+	path = SemanticJsonExport
+	url = https://github.com/Wikifab/ext-SemanticJsonExport
+[submodule "SemanticMediaWiki"]
+	path = SemanticMediaWiki
+	url = https://github.com/SemanticMediaWiki/SemanticMediaWiki.git
+[submodule "SemanticMetaTags"]
+	path = SemanticMetaTags
+	url = https://github.com/SemanticMediaWiki/SemanticMetaTags.git
+[submodule "SemanticNotifications"]
+	path = SemanticNotifications
+	url = https://github.com/SemanticMediaWiki/SemanticNotifications
+[submodule "SemanticOrganization"]
+	path = SemanticOrganization
+	url = https://github.com/thaider/SemanticOrganization.git
+[submodule "SemanticResultFormats"]
+	path = SemanticResultFormats
+	url = https://github.com/SemanticMediaWiki/SemanticResultFormats.git
+[submodule "SemanticScribunto"]
+	path = SemanticScribunto
+	url = https://github.com/SemanticMediaWiki/SemanticScribunto.git
+[submodule "SemanticSignup"]
+	path = SemanticSignup
+	url = https://github.com/SemanticMediaWiki/SemanticSignup.git
+[submodule "SemanticTasks"]
+	path = SemanticTasks
+	url = https://github.com/SemanticMediaWiki/SemanticTasks.git
+[submodule "SemanticWatchlist"]
+	path = SemanticWatchlist
+	url = https://github.com/SemanticMediaWiki/SemanticWatchlist.git
+[submodule "SemanticWikibase"]
+	path = SemanticWikibase
+	url = https://github.com/ProfessionalWiki/SemanticWikibase
 [submodule "Shariff"]
 	path = Shariff
 	url = https://github.com/vonloxley/Shariff-Mediawiki.git
-[submodule "yasec"]
-	path = yasec
-	url = https://github.com/serpent213/mediawiki-extensions-yasec
-[submodule "RecentChangesLogFilter"]
-	path = RecentChangesLogFilter
-	url = https://github.com/poke/mediawiki-RecentChangesLogFilter.git
-[submodule "ListTransclusions"]
-	path = ListTransclusions
-	url = https://github.com/poke/mediawiki-ListTransclusions.git
-[submodule "AlternativeUserTalk"]
-	path = AlternativeUserTalk
-	url = https://github.com/poke/mediawiki-AlternativeUserTalk.git
+[submodule "SideSummary"]
+	path = SideSummary
+	url = https://github.com/Wikifab/SideSummary.git
+[submodule "SimilarTitles"]
+	path = SimilarTitles
+	url = https://bitbucket.org/wikiskripta/similartitles.git
+[submodule "SimpleBatchUpload"]
+	path = SimpleBatchUpload
+	url = https://github.com/ProfessionalWiki/SimpleBatchUpload
+[submodule "SimpleEmbedVideo"]
+	path = SimpleEmbedVideo
+	url = https://github.com/Wikifab/ext-simple-embed-video
+[submodule "SimpleMathJax"]
+	path = SimpleMathJax
+	url = https://github.com/jmnote/SimpleMathJax
+[submodule "SimpleTooltip"]
+	path = SimpleTooltip
+	url = https://github.com/Fannon/SimpleTooltip.git
+[submodule "SkinCustomiser"]
+	path = SkinCustomiser
+	url = https://github.com/WikiMANNia/Mediawiki-Extension-SkinCustomiser.git
+[submodule "Skrifo"]
+	path = Skrifo
+	url = https://github.com/thaider/Skrifo.git
+[submodule "SlideBoxLightShow"]
+	path = SlideBoxLightShow
+	url = https://gitlab.com/hydrawiki/extensions/SlideBoxLightShow.git
 [submodule "SnapProjectEmbed"]
 	path = SnapProjectEmbed
 	url = https://github.com/snapwiki/SnapProjectEmbed
-[submodule "Network"]
-	path = Network
-	url = https://github.com/ProfessionalWiki/Network.git
+[submodule "SocialTags"]
+	path = SocialTags
+	url = https://github.com/PCGamingWiki/socialtags.git
+[submodule "SpriteSheet"]
+	path = SpriteSheet
+	url = https://github.com/HydraWiki/SpriteSheet.git
+[submodule "Streamer"]
+	path = Streamer
+	url = https://github.com/HydraWiki/Streamer.git
+[submodule "StubUserWikiAuth"]
+	path = StubUserWikiAuth
+	url = https://github.com/ciencia/mediawiki-extensions-StubUserWikiAuth.git
+[submodule "SubPageList"]
+	path = SubPageList
+	url = https://github.com/JeroenDeDauw/SubPageList.git
 [submodule "SuggestedTitles"]
 	path = SuggestedTitles
 	url = https://gitlab.com/hexmode1/SuggestedTitles.git/
-[submodule "Memcached"]
-	path = Memcached
-	url = https://gitlab.com/hexmode1/Memcached.git/
-[submodule "WSSearchFront"]
-	path = WSSearchFront
-	url = https://bitbucket.org/wikibasesolutions/wssearchfront.git
+[submodule "SummaryCards"]
+	path = SummaryCards
+	url = https://github.com/SemanticMediaWiki/SummaryCards.git
+[submodule "Svetovid"]
+	path = Svetovid
+	url = https://gitlab.com/nonsensopedia/extensions/svetovid.git/
+[submodule "SyntaxHighlight_PrismJS"]
+	path = SyntaxHighlight_PrismJS
+	url = https://github.com/InternationalScratchWiki/SyntaxHighlight_PrismJS.git
+[submodule "Tabber"]
+	path = Tabber
+	url = https://gitlab.com/hydrawiki/extensions/Tabber.git
+[submodule "TablesInSematic"]
+	path = TablesInSematic
+	url = https://github.com/Wikifab/TablesInSemantic.git
+[submodule "Termbank"]
+	path = Termbank
+	url = https://github.com/Nikerabbit/mediawiki-extensions-Termbank.git
+[submodule "ThePlayer"]
+	path = ThePlayer
+	url = https://bitbucket.org/wikiskripta/theplayer
+[submodule "TopoJson"]
+	path = TopoJson
+	url = https://github.com/thaider/TopoJson.git
+[submodule "TranslateTagsInVE"]
+	path = TranslateTagsInVE
+	url = https://github.com/Wikifab/ext-TranslateTagsInVE.git
+[submodule "TreeAndMenu"]
+	path = TreeAndMenu
+	url = https://gitlab.com/Aranad/TreeAndMenu.git
+[submodule "TrendingPages"]
+	path = TrendingPages
+	url = https://github.com/Liquipedia/TrendingMenu
+[submodule "TwitterWidget"]
+	path = TwitterWidget
+	url = https://github.com/ciencia/mediawiki-extensions-TwitterWidget.git
+[submodule "URNames"]
+	path = URNames
+	url = https://bitbucket.org/wikiskripta/urnames
+[submodule "UbiGo"]
+	path = UbiGo
+	url = https://github.com/thaider/UbiGo.git
+[submodule "UnifiedExtensionForFemiwiki"]
+	path = UnifiedExtensionForFemiwiki
+	url = https://github.com/femiwiki/UnifiedExtensionForFemiwiki
+[submodule "UniqueLink"]
+	path = UniqueLink
+	url = https://github.com/Halopedia/UniqueLink
+[submodule "Upload2Commons"]
+	path = Upload2Commons
+	url = https://github.com/lingua-libre/Upload2Commons.git
+[submodule "UploadFields"]
+	path = UploadFields
+	url = https://gitlab.com/hydrawiki/extensions/UploadFields.git
+[submodule "UserLoginLog"]
+	path = UserLoginLog
+	url = https://github.com/mwstake/mediawiki-extensions-UserLoginLog
+[submodule "UserSnoop"]
+	path = UserSnoop
+	url = https://github.com/hexmode/mediawiki-UserSnoop
+[submodule "UsersPagesLinks"]
+	path = UsersPagesLinks
+	url = https://github.com/Wikifab/UsersPagesLinks.git
+[submodule "UsersWatchButton"]
+	path = UsersWatchButton
+	url = https://github.com/Wikifab/UsersWatchButton
+[submodule "UsersWatchlist"]
+	path = UsersWatchlist
+	url = https://github.com/Wikifab/UsersWatchlist
+[submodule "VEForPageForm"]
+	path = VEForPageForm
+	url = https://github.com/Wikifab/mediawiki-extension-VEForPageForm
+[submodule "Validator"]
+	path = Validator
+	url = https://github.com/JeroenDeDauw/Validator.git
+[submodule "VariablesLua"]
+	path = VariablesLua
+	url = https://github.com/Liquipedia/VariablesLua.git
+[submodule "VeForceReload"]
+	path = VeForceReload
+	url = https://github.com/Wikifab/VeForceReload
+[submodule "ViewProtect"]
+	path = ViewProtect
+	url = https://github.com/hexmode/mediawiki-ViewProtect
 [submodule "WSForm"]
 	path = WSForm
 	url = https://bitbucket.org/wikibasesolutions/mw-wsform.git
 [submodule "WSPageSync"]
 	path = WSPageSync
 	url = https://bitbucket.org/wikibasesolutions/mw-wspagesync.git
-[submodule "WSSlots"]
-	path = WSSlots
-	url = https://bitbucket.org/wikibasesolutions/wsslots.git
 [submodule "WSSearch"]
 	path = WSSearch
 	url = https://bitbucket.org/wikibasesolutions/wssearch.git
+[submodule "WSSearchFront"]
+	path = WSSearchFront
+	url = https://bitbucket.org/wikibasesolutions/wssearchfront.git
 [submodule "WSSemanticParsedText"]
 	path = WSSemanticParsedText
 	url = https://bitbucket.org/wikibasesolutions/wssemanticparsedtext.git
-[submodule "IssueTracker"]
-	path = IssueTracker
-	url = https://github.com/Hutchy68/IssueTracker
-[submodule "DiscourseSsoConsumer"]
-	path = DiscourseSsoConsumer
-	url = https://github.com/centertap/DiscourseSsoConsumer
-[submodule "Auth_phpBB"]
-	path = Auth_phpBB
-	url = https://github.com/Digitalroot-Technologies/MediaWiki_PHPBB_Auth
-[submodule "AchievementBadges"]
-	path = AchievementBadges
-	url = https://github.com/femiwiki/AchievementBadges
-[submodule "DiscordRCFeed"]
-	path = DiscordRCFeed
-	url = https://github.com/femiwiki/DiscordRCFeed
-[submodule "PageViewInfoGA"]
-	path = PageViewInfoGA
-	url = https://github.com/femiwiki/PageViewInfoGA
+[submodule "WSSlots"]
+	path = WSSlots
+	url = https://bitbucket.org/wikibasesolutions/wsslots.git
+[submodule "WatchAnalytics"]
+	path = WatchAnalytics
+	url = https://github.com/enterprisemediawiki/WatchAnalytics.git
+[submodule "WerewolfWiki"]
+	path = WerewolfWiki
+	url = https://github.com/lykoss/wiki.git
+[submodule "WhatsNearby"]
+	path = WhatsNearby
+	url = https://github.com/SemanticMediaWiki/WhatsNearby
+[submodule "Whois"]
+	path = Whois
+	url = https://bitbucket.org/wikiskripta/whois.git
+[submodule "WikiActivity"]
+	path = WikiActivity
+	url = https://github.com/haleyjd/WikiActivity
+[submodule "WikiBanner"]
+	path = WikiBanner
+	url = https://github.com/Sturmkrieg/mw-WikiBanner
+[submodule "WikiDexFileRepository"]
+	path = WikiDexFileRepository
+	url = https://github.com/ciencia/mediawiki-extensions-WikiDexFileRepository.git
+[submodule "WikiDiscover"]
+	path = WikiDiscover
+	url = https://github.com/miraheze/WikiDiscover
+[submodule "WikiMirror"]
+	path = WikiMirror
+	url = https://github.com/SkizNet/mediawiki-WikiMirror
+[submodule "WikiZoomer"]
+	path = WikiZoomer
+	url = https://bitbucket.org/wikiskripta/wikizoomer
+[submodule "WikibaseEdtf"]
+	path = WikibaseEdtf
+	url = https://github.com/ProfessionalWiki/WikibaseEdtf.git
+[submodule "WikibaseLocalMedia"]
+	path = WikibaseLocalMedia
+	url = https://github.com/ProfessionalWiki/WikibaseLocalMedia.git
+[submodule "WimaAdvertising"]
+	path = WimaAdvertising
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-WimaAdvertising.git
+[submodule "Wiretap"]
+	path = Wiretap
+	url = https://github.com/enterprisemediawiki/Wiretap.git
+[submodule "WordNet"]
+	path = WordNet
+	url = https://github.com/Nikerabbit/mediawiki-extensions-WordNet.git
+[submodule "YandexSiteVerification"]
+	path = YandexSiteVerification
+	url = https://github.com/dolfinus/YandexSiteVerification.git
+[submodule "pChart4mw"]
+	path = pChart4mw
+	url = https://github.com/Undev/MediaWiki-pChart4mw.git
+[submodule "yasec"]
+	path = yasec
+	url = https://github.com/serpent213/mediawiki-extensions-yasec
