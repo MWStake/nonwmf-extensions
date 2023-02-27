@@ -328,9 +328,6 @@
 [submodule "Moderation"]
 	path = Moderation
 	url = https://github.com/edwardspec/mediawiki-moderation.git
-[submodule "CentralCheckUser"]
-	path = CentralCheckUser
-	url = https://github.com/examknow/CentralCheckUser.git
 [submodule "BCmath"]
 	path = BCmath
 	url = https://github.com/jeblad/BCmath.git
