@@ -412,6 +412,9 @@
 [submodule "PurgePage"]
 	path = PurgePage
 	url = https://github.com/s7eph4n/PurgePage
+[submodule "QRLite"]
+	path = QRLite
+	url = https://github.com/gesinn-it/QRLite.git
 [submodule "QueryViz"]
 	path = QueryViz
 	url = https://github.com/lingua-libre/QueryViz.git
