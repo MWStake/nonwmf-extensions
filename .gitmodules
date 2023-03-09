@@ -43,6 +43,9 @@
 [submodule "AutoCreatePage"]
 	path = AutoCreatePage
 	url = https://github.com/mkroetzsch/AutoCreatePage
+[submodule "AutomatedValues"]
+	path = AutomatedValues
+	url = https://github.com/ProfessionalWiki/AutomatedValues.git
 [submodule "AutoSetPageLang"]
 	path = AutoSetPageLang
 	url = https://github.com/Wikifab/AutoSetPageLang.git
@@ -60,7 +63,7 @@
 	url = https://github.com/SkizNet/mediawiki-BlockASN
 [submodule "Bootstrap"]
 	path = Bootstrap
-	url = https://github.com/s7eph4n/mediawiki-extensions-Bootstrap
+	url = https://github.com/ProfessionalWiki/Bootstrap.git
 [submodule "BootstrapComponents"]
 	path = BootstrapComponents
 	url = https://github.com/oetterer/BootstrapComponents.git
@@ -220,6 +223,9 @@
 [submodule "HeaderFooter"]
 	path = HeaderFooter
 	url = https://github.com/jamesmontalvo3/MediaWiki-HeaderFooter.git
+[submodule "IDGenerator"]
+	path = IDGenerator
+	url = https://github.com/ProfessionalWiki/IdGenerator.git
 [submodule "IFrame"]
 	path = IFrame
 	url = https://github.com/hexmode/mediawiki-iframe.git
@@ -522,7 +528,7 @@
 	url = https://github.com/SemanticMediaWiki/SemanticMetaTags.git
 [submodule "SemanticNotifications"]
 	path = SemanticNotifications
-	url = https://github.com/SemanticMediaWiki/SemanticNotifications
+	url = https://github.com/SemanticMediaWiki/SemanticNotifications.git
 [submodule "SemanticOrganization"]
 	path = SemanticOrganization
 	url = https://github.com/thaider/SemanticOrganization.git
@@ -543,7 +549,7 @@
 	url = https://github.com/SemanticMediaWiki/SemanticWatchlist.git
 [submodule "SemanticWikibase"]
 	path = SemanticWikibase
-	url = https://github.com/ProfessionalWiki/SemanticWikibase
+	url = https://github.com/ProfessionalWiki/SemanticWikibase.git
 [submodule "Shariff"]
 	path = Shariff
 	url = https://github.com/vonloxley/Shariff-Mediawiki.git
@@ -555,7 +561,7 @@
 	url = https://bitbucket.org/wikiskripta/similartitles.git
 [submodule "SimpleBatchUpload"]
 	path = SimpleBatchUpload
-	url = https://github.com/ProfessionalWiki/SimpleBatchUpload
+	url = https://github.com/ProfessionalWiki/SimpleBatchUpload.git
 [submodule "SimpleEmbedVideo"]
 	path = SimpleEmbedVideo
 	url = https://github.com/Wikifab/ext-simple-embed-video
@@ -705,7 +711,7 @@
 	url = https://github.com/lykoss/wiki.git
 [submodule "WhatsNearby"]
 	path = WhatsNearby
-	url = https://github.com/SemanticMediaWiki/WhatsNearby
+	url = https://github.com/SemanticMediaWiki/WhatsNearby.git
 [submodule "Whois"]
 	path = Whois
 	url = https://bitbucket.org/wikiskripta/whois.git
@@ -730,9 +736,15 @@
 [submodule "WikibaseEdtf"]
 	path = WikibaseEdtf
 	url = https://github.com/ProfessionalWiki/WikibaseEdtf.git
+[submodule "WikibaseExport"]
+	path = WikibaseExport
+	url = https://github.com/ProfessionalWiki/WikibaseExport.git
 [submodule "WikibaseLocalMedia"]
 	path = WikibaseLocalMedia
 	url = https://github.com/ProfessionalWiki/WikibaseLocalMedia.git
+[submodule "WikibaseRdf"]
+	path = WikibaseRdf
+	url = https://github.com/ProfessionalWiki/WikibaseRDF.git
 [submodule "WimaAdvertising"]
 	path = WimaAdvertising
 	url = https://github.com/WikiMANNia/MediaWiki-Extension-WimaAdvertising.git
