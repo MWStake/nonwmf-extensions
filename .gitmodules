@@ -127,8 +127,8 @@
 [submodule "DiscourseSsoConsumer"]
 	path = DiscourseSsoConsumer
 	url = https://github.com/centertap/DiscourseSsoConsumer
-[submodule "DynamicPagesList3"]
-	path = DynamicPagesList3
+[submodule "DynamicPageList3"]
+	path = DynamicPageList3
 	url = https://github.com/Universal-Omega/DynamicPageList3.git
 [submodule "EmbedScratch"]
 	path = EmbedScratch
