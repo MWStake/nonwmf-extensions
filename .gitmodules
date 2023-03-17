@@ -22,18 +22,9 @@
 [submodule "AdvancedUserStats"]
 	path = AdvancedUserStats
 	url = https://bitbucket.org/wikiskripta/advanceduserstats
-[submodule "AgeParse"]
-	path = AgeParse
-	url = https://github.com/DaSchTour/AgeParse.git
 [submodule "Ainut"]
 	path = Ainut
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Ainut
-[submodule "AlternativeUserTalk"]
-	path = AlternativeUserTalk
-	url = https://github.com/poke/mediawiki-AlternativeUserTalk.git
-[submodule "ArticleIndex"]
-	path = ArticleIndex
-	url = https://bitbucket.org/wikiskripta/articleindex
 [submodule "Auth_phpBB"]
 	path = Auth_phpBB
 	url = https://github.com/Digitalroot-Technologies/MediaWiki_PHPBB_Auth
@@ -88,9 +79,6 @@
 [submodule "CheckPageTitle"]
 	path = CheckPageTitle
 	url = https://github.com/Wikifab/ext-CheckPageTitle
-[submodule "CloneDiff"]
-	path = CloneDiff
-	url = https://bitbucket.org/wikiworksdev/CloneDiff
 [submodule "Collection"]
 	path = Collection
 	url = https://github.com/WikiToLearn/mediawiki-extensions-Collection
@@ -139,12 +127,9 @@
 [submodule "DiscourseSsoConsumer"]
 	path = DiscourseSsoConsumer
 	url = https://github.com/centertap/DiscourseSsoConsumer
-[submodule "DocBookExport"]
-	path = DocBookExport
-	url = https://bitbucket.org/wikiworksdev/docbookexport.git
-[submodule "DynamicPageList"]
-	path = DynamicPageList
-	url = https://gitlab.com/hydrawiki/extensions/DynamicPageList.git
+[submodule "DynamicPagesList3"]
+	path = DynamicPagesList3
+	url = https://github.com/Universal-Omega/DynamicPageList3.git
 [submodule "EmbedScratch"]
 	path = EmbedScratch
 	url = https://github.com/InternationalScratchWiki/mw-embedScratch.git
@@ -172,12 +157,6 @@
 [submodule "FeedbackUs"]
 	path = FeedbackUs
 	url = https://bitbucket.org/wikiskripta/feedbackus.git
-[submodule "Figures"]
-	path = Figures
-	url = https://bitbucket.org/wikiworksdev/Figures
-[submodule "FileSystemImageServer"]
-	path = FileSystemImageServer
-	url = https://github.com/Nikerabbit/mediawiki-extensions-FileSystemImageServer
 [submodule "FilterAccess"]
 	path = FilterAccess
 	url = https://bitbucket.org/wikiskripta/filteraccess
@@ -232,24 +211,12 @@
 [submodule "IssueTracker"]
 	path = IssueTracker
 	url = https://github.com/Hutchy68/IssueTracker
-[submodule "JavascriptSlideshow"]
-	path = JavascriptSlideshow
-	url = https://github.com/DaSchTour/JavascriptSlideshow.git
 [submodule "KDELogin"]
 	path = KDELogin
 	url = https://invent.kde.org/websites/mykde-mediawiki.git/
 [submodule "Kotus"]
 	path = Kotus
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Kotus.git
-[submodule "LDAPAuthentication"]
-	path = LDAPAuthentication
-	url = https://github.com/mwstake/mediawiki-extensions-LDAPAuthentication
-[submodule "LDAPAuthorization"]
-	path = LDAPAuthorization
-	url = https://github.com/mwstake/mediawiki-extensions-LDAPAuthorization
-[submodule "LangCodeOverride"]
-	path = LangCodeOverride
-	url = https://github.com/jeblad/LangCodeOverride.git
 [submodule "LanguageNamespaces"]
 	path = LanguageNamespaces
 	url = https://github.com/Nikerabbit/mediawiki-extensions-LanguageNamespaces.git
@@ -262,9 +229,6 @@
 [submodule "ListTransclusions"]
 	path = ListTransclusions
 	url = https://github.com/poke/mediawiki-ListTransclusions.git
-[submodule "Loops"]
-	path = Loops
-	url = https://gitlab.com/hydrawiki/extensions/Loops.git
 [submodule "LuaCache"]
 	path = LuaCache
 	url = https://gitlab.com/hydrawiki/extensions/LuaCache.git
@@ -274,9 +238,6 @@
 [submodule "MABS"]
 	path = MABS
 	url = https://github.com/hexmode/MABS.git
-[submodule "MagicNumberedHeadings"]
-	path = MagicNumberedHeadings
-	url = https://github.com/hexmode/mediawiki-MagicNumberedHeadings
 [submodule "MailChimpForms"]
 	path = MailChimpForms
 	url = https://github.com/Wikifab/MailChimpForms
@@ -355,9 +316,6 @@
 [submodule "OpeningHours"]
 	path = OpeningHours
 	url = https://github.com/thaider/OpeningHours.git
-[submodule "OrganicDesign-extensions"]
-	path = OrganicDesign-extensions
-	url = https://gitlab.com/Aranad/extensions.git
 [submodule "PDFEmbed"]
 	path = PDFEmbed
 	url = https://gitlab.com/hydrawiki/extensions/PDFEmbed.git
@@ -400,12 +358,6 @@
 [submodule "Pickle"]
 	path = Pickle
 	url = https://github.com/jeblad/Pickle.git
-[submodule "Preloader"]
-	path = Preloader
-	url = https://gitlab.com/troyengel/Preloader.git
-[submodule "Purge"]
-	path = Purge
-	url = https://github.com/Hutchy68/Purge.git
 [submodule "PurgePage"]
 	path = PurgePage
 	url = https://github.com/s7eph4n/PurgePage
@@ -427,9 +379,6 @@
 [submodule "RealTimeUsers"]
 	path = RealTimeUsers
 	url = https://bitbucket.org/wikiskripta/realtimeusers.git
-[submodule "Realnames"]
-	path = Realnames
-	url = https://github.com/ofbeaton/mediawiki-realnames
 [submodule "RecentChangesLogFilter"]
 	path = RecentChangesLogFilter
 	url = https://github.com/poke/mediawiki-RecentChangesLogFilter.git
@@ -688,9 +637,6 @@
 [submodule "WSSlots"]
 	path = WSSlots
 	url = https://bitbucket.org/wikibasesolutions/wsslots.git
-[submodule "WatchAnalytics"]
-	path = WatchAnalytics
-	url = https://github.com/enterprisemediawiki/WatchAnalytics.git
 [submodule "WerewolfWiki"]
 	path = WerewolfWiki
 	url = https://github.com/lykoss/wiki.git
@@ -742,3 +688,6 @@
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
+[submodule "DynamicPageList3"]
+	path = DynamicPageList3
+	url = https://github.com/Universal-Omega/DynamicPageList3/
