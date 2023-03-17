@@ -688,6 +688,3 @@
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
-[submodule "DynamicPageList3"]
-	path = DynamicPageList3
-	url = https://github.com/Universal-Omega/DynamicPageList3/
