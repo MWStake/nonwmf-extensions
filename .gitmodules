@@ -25,6 +25,9 @@
 [submodule "Ainut"]
 	path = Ainut
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Ainut
+[submodule "AjaxComments"]
+	path = AjaxComments
+	url = https://github.com/debtcompliance/AjaxComments.git
 [submodule "Auth_phpBB"]
 	path = Auth_phpBB
 	url = https://github.com/Digitalroot-Technologies/MediaWiki_PHPBB_Auth
@@ -130,6 +133,9 @@
 [submodule "DynamicPageList3"]
 	path = DynamicPageList3
 	url = https://github.com/Universal-Omega/DynamicPageList3.git
+[submodule "EmailPage"]
+	path = EmailPage
+	url = https://github.com/debtcompliance/EmailPage.git
 [submodule "EmbedScratch"]
 	path = EmbedScratch
 	url = https://github.com/InternationalScratchWiki/mw-embedScratch.git
@@ -145,6 +151,9 @@
 [submodule "ExternalContent"]
 	path = ExternalContent
 	url = https://github.com/ProfessionalWiki/ExternalContent.git
+[submodule "ExtraMagic"]
+	path = ExtraMagic
+	url = https://github.com/debtcompliance/ExtraMagic.git
 [submodule "FacetedCategory"]
 	path = FacetedCategory
 	url = https://github.com/femiwiki/FacetedCategory
@@ -211,6 +220,9 @@
 [submodule "IssueTracker"]
 	path = IssueTracker
 	url = https://github.com/Hutchy68/IssueTracker
+[submodule "jQueryUpload"]
+	path = jQueryUpload
+	url = https://github.com/debtcompliance/jQueryUpload.git
 [submodule "KDELogin"]
 	path = KDELogin
 	url = https://invent.kde.org/websites/mykde-mediawiki.git/
@@ -348,7 +360,7 @@
 	url = https://github.com/InternationalScratchWiki/PassEdit.git
 [submodule "PdfBook"]
 	path = PdfBook
-	url = https://gitlab.com/Aranad/PdfBook.git
+	url = https://github.com/debtcompliance/PdfBook.git
 [submodule "PerconaDB"]
 	path = PerconaDB
 	url = https://github.com/MWStake/PerconaDB.git
