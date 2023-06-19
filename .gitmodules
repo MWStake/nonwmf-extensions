@@ -370,6 +370,9 @@
 [submodule "Pickle"]
 	path = Pickle
 	url = https://github.com/jeblad/Pickle.git
+[submodule "Purge"]
+	path = Purge
+	url = https://github.com/AlPha5130/mediawiki-extensions-Purge
 [submodule "PurgePage"]
 	path = PurgePage
 	url = https://github.com/s7eph4n/PurgePage
