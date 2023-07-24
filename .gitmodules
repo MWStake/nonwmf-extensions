@@ -454,6 +454,9 @@
 [submodule "SemanticCompoundQueries"]
 	path = SemanticCompoundQueries
 	url = https://github.com/SemanticMediaWiki/SemanticCompoundQueries.git
+[submodule "SemanticDrilldown"]
+	path = SemanticDrilldown
+	url = https://github.com/SemanticMediaWiki/SemanticDrilldown.git
 [submodule "SemanticExternalQueryLookup"]
 	path = SemanticExternalQueryLookup
 	url = https://github.com/SemanticMediaWiki/SemanticExternalQueryLookup.git
