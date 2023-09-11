@@ -211,6 +211,9 @@
 [submodule "ImageAnnotator"]
 	path = ImageAnnotator
 	url = https://github.com/Wikifab/mediawiki-extension-ImageAnnotator
+[submodule "ImageLink"]
+	path = ImageLink
+	url = https://github.com/BITPlan/ImageLink
 [submodule "ImageSizeInfoFunctions"]
 	path = ImageSizeInfoFunctions
 	url = https://github.com/HydraWiki/ImageSizeInfoFunctions
