@@ -333,7 +333,7 @@
 	url = https://github.com/thaider/OpeningHours.git
 [submodule "PDFEmbed"]
 	path = PDFEmbed
-	url = https://gitlab.com/hydrawiki/extensions/PDFEmbed.git
+	url = https://github.com/WolfgangFahl/PDFEmbed.git
 [submodule "PHPEditor"]
 	path = PHPEditor
 	url = https://github.com/mwstake/mediawiki-extensions-PHPEditor
