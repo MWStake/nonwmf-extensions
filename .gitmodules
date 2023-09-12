@@ -547,6 +547,9 @@
 [submodule "SocialTags"]
 	path = SocialTags
 	url = https://github.com/PCGamingWiki/socialtags.git
+[submodule "SourceProtection"]
+    path = SourceProtection
+    url = https://github.com/WikibaseSolutions/SourceProtection.git
 [submodule "SpriteSheet"]
 	path = SpriteSheet
 	url = https://github.com/HydraWiki/SpriteSheet.git
@@ -652,6 +655,9 @@
 [submodule "WSSlots"]
 	path = WSSlots
 	url = https://github.com/Open-CSP/WSSlots
+[submodule "WSStats"]
+    path = WSStats
+    url = https://github.com/WikibaseSolutions/WSStats.git
 [submodule "WatchAnalytics"]
 	path = WatchAnalytics
 	url = https://github.com/enterprisemediawiki/WatchAnalytics.git
