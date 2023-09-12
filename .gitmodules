@@ -172,6 +172,9 @@
 [submodule "FinnFrameNet"]
 	path = FinnFrameNet
 	url = https://github.com/Nikerabbit/mediawiki-extensions-FinnFrameNet.git
+[submodule "FlexForm"]
+	path = FlexForm
+	url = https://github.com/Open-CSP/FlexForm.git
 [submodule "FlowCounterTalks"]
 	path = FlowCounterTalks
 	url = https://github.com/Wikifab/FlowCounterTalks
@@ -349,6 +352,9 @@
 [submodule "PageProtect"]
 	path = PageProtect
 	url = https://github.com/hexmode/mediawiki-PageProtect
+[submodule "PageSync"]
+	path = PageSync
+	url = https://github.com/Open-CSP/PageSync.git
 [submodule "PageViewInfoGA"]
 	path = PageViewInfoGA
 	url = https://github.com/femiwiki/PageViewInfoGA
@@ -541,6 +547,9 @@
 [submodule "SocialTags"]
 	path = SocialTags
 	url = https://github.com/PCGamingWiki/socialtags.git
+[submodule "SourceProtection"]
+	path = SourceProtection
+	url = https://github.com/WikibaseSolutions/SourceProtection.git
 [submodule "SpriteSheet"]
 	path = SpriteSheet
 	url = https://github.com/HydraWiki/SpriteSheet.git
@@ -640,6 +649,15 @@
 [submodule "ViewProtect"]
 	path = ViewProtect
 	url = https://github.com/hexmode/mediawiki-ViewProtect
+[submodule "WSSemanticParsedText"]
+	path = WSSemanticParsedText
+	url = https://gitlab.wikibase.nl/community/wssemanticparsedtext.git
+[submodule "WSSlots"]
+	path = WSSlots
+	url = https://github.com/Open-CSP/WSSlots
+[submodule "WSStats"]
+	path = WSStats
+	url = https://github.com/WikibaseSolutions/WSStats.git
 [submodule "WatchAnalytics"]
 	path = WatchAnalytics
 	url = https://github.com/enterprisemediawiki/WatchAnalytics.git
@@ -664,6 +682,12 @@
 [submodule "WikiMirror"]
 	path = WikiMirror
 	url = https://github.com/SkizNet/mediawiki-WikiMirror
+[submodule "WikiSearch"]
+	path = WikiSearch
+	url = https://github.com/Open-CSP/WikiSearch.git
+[submodule "WikiSearchFront"]
+	path = WikiSearchFront
+	url = https://github.com/Open-CSP/WikiSearchFront.git
 [submodule "WikiZoomer"]
 	path = WikiZoomer
 	url = https://bitbucket.org/wikiskripta/wikizoomer
