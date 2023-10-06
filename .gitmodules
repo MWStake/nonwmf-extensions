@@ -109,6 +109,9 @@
 [submodule "DataDump"]
 	path = DataDump
 	url = https://github.com/miraheze/DataDump
+[submodule "DataMaps"]
+	path = DataMaps
+	url = https://github.com/alex4401/mediawiki-extensions-DataMaps.git
 [submodule "DataValues"]
 	path = DataValues
 	url = https://github.com/DataValues/DataValues.git
@@ -589,6 +592,9 @@
 [submodule "Termbank"]
 	path = Termbank
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Termbank.git
+[submodule "ThemeToggle"]
+	path = ThemeToggle
+	url = https://github.com/alex4401/mediawiki-extensions-ThemeToggle.git
 [submodule "ThePlayer"]
 	path = ThePlayer
 	url = https://bitbucket.org/wikiskripta/theplayer
@@ -619,6 +625,9 @@
 [submodule "UniqueLink"]
 	path = UniqueLink
 	url = https://github.com/Halopedia/UniqueLink
+[submodule "UnregisteredEditLinks"]
+	path = UnregisteredEditLinks
+	url = https://github.com/alex4401/mediawiki-extensions-UnregisteredEditLinks.git
 [submodule "Upload2Commons"]
 	path = Upload2Commons
 	url = https://github.com/lingua-libre/Upload2Commons.git
