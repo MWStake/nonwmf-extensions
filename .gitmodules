@@ -565,9 +565,6 @@
 [submodule "SuggestedTitles"]
 	path = SuggestedTitles
 	url = https://gitlab.com/hexmode1/SuggestedTitles.git/
-[submodule "SummaryCards"]
-	path = SummaryCards
-	url = https://github.com/SemanticMediaWiki/SummaryCards.git
 [submodule "Svetovid"]
 	path = Svetovid
 	url = https://gitlab.com/nonsensopedia/extensions/svetovid.git/
