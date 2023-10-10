@@ -142,6 +142,9 @@
 [submodule "EmbedVideo"]
 	path = EmbedVideo
 	url = https://gitlab.com/hydrawiki/extensions/EmbedVideo.git/
+[submodule "EmbedVideo (fork)"]
+	path = EmbedVideo_fork
+	url = https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo.git
 [submodule "Expect"]
 	path = Expect
 	url = https://github.com/jeblad/Expect.git
@@ -304,6 +307,9 @@
 [submodule "ModernTimeline"]
 	path = ModernTimeline
 	url = https://github.com/ProfessionalWiki/ModernTimeline.git
+[submodule "MultiPurge"]
+	path = MultiPurge
+	url = https://github.com/octfx/mediawiki-extensions-MultiPurge.git
 [submodule "MyTwitter"]
 	path = MyTwitter
 	url = https://github.com/wiki-chan/MyTwitter
@@ -379,6 +385,9 @@
 [submodule "Pickle"]
 	path = Pickle
 	url = https://github.com/jeblad/Pickle.git
+[submodule "Plausible"]
+	path = Plausible
+	url = https://github.com/octfx/mediawiki-extension-Plausible.git
 [submodule "Purge"]
 	path = Purge
 	url = https://github.com/AlPha5130/mediawiki-extensions-Purge
@@ -580,6 +589,9 @@
 [submodule "TablesInSematic"]
 	path = TablesInSematic
 	url = https://github.com/Wikifab/TablesInSemantic.git
+[submodule "TemplateStylesExtender"]
+	path = TemplateStylesExtender
+	url = https://github.com/octfx/mediawiki-extensions-TemplateStylesExtender.git
 [submodule "Termbank"]
 	path = Termbank
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Termbank.git
@@ -649,6 +661,9 @@
 [submodule "ViewProtect"]
 	path = ViewProtect
 	url = https://github.com/hexmode/mediawiki-ViewProtect
+[submodule "WebP"]
+	path = WebP
+	url = https://github.com/octfx/mediawiki-extension-WebP.git
 [submodule "WSSemanticParsedText"]
 	path = WSSemanticParsedText
 	url = https://gitlab.wikibase.nl/community/wssemanticparsedtext.git
