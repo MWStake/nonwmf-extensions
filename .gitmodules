@@ -355,9 +355,6 @@
 [submodule "PageSync"]
 	path = PageSync
 	url = https://github.com/Open-CSP/PageSync.git
-[submodule "PageViewInfoGA"]
-	path = PageViewInfoGA
-	url = https://github.com/femiwiki/PageViewInfoGA
 [submodule "PageViewsProperty"]
 	path = PageViewsProperty
 	url = https://github.com/Wikifab/PageViewsProperty.git
