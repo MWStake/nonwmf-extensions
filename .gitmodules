@@ -7,6 +7,9 @@
 [submodule "AWS"]
 	path = AWS
 	url = https://github.com/edwardspec/mediawiki-aws-s3.git
+[submodule "AcceptTermsOfUse"]
+	path = AcceptTermsOfUse
+	url = https://github.com/Gawrion/AcceptTermsOfUse
 [submodule "AccessLogReports"]
 	path = AccessLogReports
 	url = https://github.com/hexmode/mediawiki-AccessLogReports
