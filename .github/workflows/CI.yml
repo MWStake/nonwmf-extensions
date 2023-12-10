@@ -6,12 +6,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Verify that every submodule can be checked out
-      - uses: actions/checkout@v2
+      - name: Verify that every submodule can be checked out
+        uses: actions/checkout@v4
         with:
           submodules: true
-      # Verify readable with Python's configparser, which MediaWiki codesearch uses
-      - uses: actions/setup-python@v2
+      - name: Verify readable with Python's configparser, which MediaWiki codesearch uses
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.7'
-      - run: python -c "import configparser as c;c.ConfigParser().read('.gitmodules')"
+          python-version: '3.10'
+        run: python -c "import configparser as c;c.ConfigParser().read('.gitmodules')"
+      - name: Verify that the policy is met
+        run: |
+          ./policy
