@@ -142,12 +142,12 @@
 [submodule "EmbedScratch"]
 	path = EmbedScratch
 	url = https://github.com/InternationalScratchWiki/mw-embedScratch.git
-[submodule "EmbedVideo"]
-	path = EmbedVideo
-	url = https://gitlab.com/hydrawiki/extensions/EmbedVideo.git/
 [submodule "EmbedVideo (fork)"]
 	path = EmbedVideo_fork
 	url = https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo.git
+[submodule "EmbedVideo"]
+	path = EmbedVideo
+	url = https://gitlab.com/hydrawiki/extensions/EmbedVideo.git/
 [submodule "Expect"]
 	path = Expect
 	url = https://github.com/jeblad/Expect.git
@@ -661,12 +661,12 @@
 [submodule "ViewProtect"]
 	path = ViewProtect
 	url = https://github.com/hexmode/mediawiki-ViewProtect
-[submodule "WebP"]
-	path = WebP
-	url = https://github.com/octfx/mediawiki-extension-WebP.git
 [submodule "WatchAnalytics"]
 	path = WatchAnalytics
 	url = https://github.com/enterprisemediawiki/WatchAnalytics.git
+[submodule "WebP"]
+	path = WebP
+	url = https://github.com/octfx/mediawiki-extension-WebP.git
 [submodule "WerewolfWiki"]
 	path = WerewolfWiki
 	url = https://github.com/lykoss/wiki.git
