@@ -592,12 +592,12 @@
 [submodule "Termbank"]
 	path = Termbank
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Termbank.git
-[submodule "ThemeToggle"]
-	path = ThemeToggle
-	url = https://github.com/alex4401/mediawiki-extensions-ThemeToggle.git
 [submodule "ThePlayer"]
 	path = ThePlayer
 	url = https://bitbucket.org/wikiskripta/theplayer
+[submodule "ThemeToggle"]
+	path = ThemeToggle
+	url = https://github.com/alex4401/mediawiki-extensions-ThemeToggle.git
 [submodule "TopoJson"]
 	path = TopoJson
 	url = https://github.com/thaider/TopoJson.git
