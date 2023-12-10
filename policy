@@ -1,0 +1,30 @@
+#!/bin/bash -e
+# shellcheck disable=SC3045,SC3003,SC3060
+
+mv .gitmodules .gitmodules.bak
+
+# Parse and sort .gitmodules by name within each section
+git config --file .gitmodules.bak --name-only --list | sort |
+    xargs -I{} sh -c "git config --file .gitmodules {} \$(git config --file .gitmodules.bak --get '{}')"
+
+# Ensure each entry is actually a submodule
+git config --file .gitmodules --null --get-regexp 'path$' | while IFS=$'\n' read -d $'\0' -r path_key path_value; do
+    # Extract the submodule name from the key of the path
+    name="${path_value/#submodule\./}"
+    name="${name/%\.path/}"
+
+    # Get the url key
+    url_key=${path_key/%.path/.url}
+
+    # Verify if the submodule path exists
+    if [ ! -d "$path_value" ]; then
+        # Extract the URL for this submodule
+        url=$(git config --file .gitmodules --get "$url_key")
+
+        # Add the submodule using the extracted URL and path
+        echo "Adding missing submodule: $name"
+        git submodule add --force "$url" "$path_value"
+    fi
+done
+
+rm -f .gitmodules.bak
