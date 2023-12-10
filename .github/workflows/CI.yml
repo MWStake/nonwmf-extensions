@@ -19,8 +19,8 @@ jobs:
       - name: Verify that the policy is met
         run: |
           ./policy
-          git diff --name-only origin/${{ github.ref }}..HEAD
-          if [ $? -eq 0 ]; then
+          line="$(git status --porcelain | wc -l)"
+          if [ "$line" -gt 0 ]; then
             echo "Does not meet policy"
             exit 1
           fi
