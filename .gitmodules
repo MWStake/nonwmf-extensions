@@ -142,7 +142,7 @@
 [submodule "EmbedScratch"]
 	path = EmbedScratch
 	url = https://github.com/InternationalScratchWiki/mw-embedScratch.git
-[submodule "EmbedVideo (fork)"]
+[submodule "EmbedVideo_fork"]
 	path = EmbedVideo_fork
 	url = https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo.git
 [submodule "EmbedVideo"]
