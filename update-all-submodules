@@ -1,0 +1,3 @@
+#!/bin/bash -e
+
+git submodule foreach ../update-to-primary-branch

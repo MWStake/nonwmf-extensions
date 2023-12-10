@@ -1,0 +1,6 @@
+#!/bin/bash -e
+
+branch=$(git remote show origin | awk '/HEAD branch/ {print $3}')
+
+git fetch --all
+git switch -C "$branch" "origin/$branch"

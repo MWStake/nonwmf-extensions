@@ -24,3 +24,7 @@ Now, edit the <tt>.gitmodules</tt> to add a stanza like this one:
 After updating <tt>.gitmodules</tt>, run the <tt>[[policy]]</tt> script on your fork's checkout.
 
 After successful completion of the above steps, commit your changes and push update your fork's Github repository.  Again, refer to [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork Creating a pull reaquest from a fork] if you need information on how to do any of this.
+
+== Updating and synchronizing the submodules ==
+
+It isn't strictly necessary, but you can update the submodule references by using the [[update-all-submodules]] script which iterates over each submodule and calls [[update-to-primary-branch]] to update the submodule.
