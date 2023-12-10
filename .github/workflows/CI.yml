@@ -19,7 +19,10 @@ jobs:
       - name: Verify that the policy is met
         run: |
           ./policy
+          git status --porcelain
+          git status --porcelain | wc -l
           line="$(git status --porcelain | wc -l)"
+          echo "$line"
           if [ "$line" -gt 0 ]; then
             echo "Does not meet policy"
             exit 1
