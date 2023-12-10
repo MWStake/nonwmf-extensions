@@ -21,6 +21,7 @@ jobs:
           ./policy
           git status --porcelain
           git status --porcelain | wc -l
+          git diff
           line="$(git status --porcelain | wc -l)"
           echo "$line"
           if [ "$line" -gt 0 ]; then
