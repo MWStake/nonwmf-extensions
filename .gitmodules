@@ -4,6 +4,9 @@
 [submodule "3DAlloy"]
 	path = 3DAlloy
 	url = https://github.com/dolfinus/3DAlloy.git
+[submodule "AcceptTermsOfUse"]
+	path = AcceptTermsOfUse
+	url = https://github.com/Gawrion/AcceptTermsOfUse
 [submodule "AccessLogReports"]
 	path = AccessLogReports
 	url = https://github.com/hexmode/mediawiki-AccessLogReports
