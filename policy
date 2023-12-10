@@ -5,7 +5,7 @@ mv .gitmodules .gitmodules.bak
 
 # Parse and sort .gitmodules by name within each section
 git config --file .gitmodules.bak --name-only --list | sort |
-    xargs -I{} sh -c "git config --file .gitmodules {} \$(git config --file .gitmodules.bak --get '{}')"
+    xargs -I{} sh -c "git config --file .gitmodules \"{}\" \"\$(git config --file .gitmodules.bak --get '{}')\""
 
 # Ensure each entry is actually a submodule
 git config --file .gitmodules --null --get-regexp 'path$' | while IFS=$'\n' read -d $'\0' -r path_key path_value; do
