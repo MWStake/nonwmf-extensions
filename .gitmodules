@@ -1,9 +1,12 @@
-[submodule "3DAlloyNewTag"]
-	path = 3DAlloyNewTag
-	url = https://github.com/Wikifab/3DAlloyNewTag
 [submodule "3DAlloy"]
 	path = 3DAlloy
 	url = https://github.com/dolfinus/3DAlloy.git
+[submodule "3DAlloyNewTag"]
+	path = 3DAlloyNewTag
+	url = https://github.com/Wikifab/3DAlloyNewTag
+[submodule "AWS"]
+	path = AWS
+	url = https://github.com/edwardspec/mediawiki-aws-s3.git
 [submodule "AcceptTermsOfUse"]
 	path = AcceptTermsOfUse
 	url = https://github.com/Gawrion/AcceptTermsOfUse
@@ -34,18 +37,15 @@
 [submodule "AutoCreatePage"]
 	path = AutoCreatePage
 	url = https://github.com/mkroetzsch/AutoCreatePage
-[submodule "AutomatedValues"]
-	path = AutomatedValues
-	url = https://github.com/ProfessionalWiki/AutomatedValues.git
 [submodule "AutoSetPageLang"]
 	path = AutoSetPageLang
 	url = https://github.com/Wikifab/AutoSetPageLang.git
 [submodule "AutoSitemap"]
 	path = AutoSitemap
 	url = https://github.com/dolfinus/AutoSitemap.git
-[submodule "AWS"]
-	path = AWS
-	url = https://github.com/edwardspec/mediawiki-aws-s3.git
+[submodule "AutomatedValues"]
+	path = AutomatedValues
+	url = https://github.com/ProfessionalWiki/AutomatedValues.git
 [submodule "BCmath"]
 	path = BCmath
 	url = https://github.com/jeblad/BCmath.git
@@ -55,12 +55,12 @@
 [submodule "BlockASN"]
 	path = BlockASN
 	url = https://github.com/SkizNet/mediawiki-BlockASN
-[submodule "BootstrapComponents"]
-	path = BootstrapComponents
-	url = https://github.com/oetterer/BootstrapComponents.git
 [submodule "Bootstrap"]
 	path = Bootstrap
 	url = https://github.com/ProfessionalWiki/Bootstrap.git
+[submodule "BootstrapComponents"]
+	path = BootstrapComponents
+	url = https://github.com/oetterer/BootstrapComponents.git
 [submodule "Bugzilla"]
 	path = Bugzilla
 	url = https://invent.kde.org/websites/mediawiki-bugzilla.git/
@@ -121,12 +121,12 @@
 [submodule "Diagrams"]
 	path = Diagrams
 	url = https://github.com/samwilson/diagrams-extension.git
-[submodule "DiscordNotifications"]
-	path = DiscordNotifications
-	url = https://github.com/kulttuuri/DiscordNotifications.git
 [submodule "Discord"]
 	path = Discord
 	url = https://github.com/jaydenkieran/mw-discord.git
+[submodule "DiscordNotifications"]
+	path = DiscordNotifications
+	url = https://github.com/kulttuuri/DiscordNotifications.git
 [submodule "DiscordRCFeed"]
 	path = DiscordRCFeed
 	url = https://github.com/femiwiki/DiscordRCFeed
@@ -142,12 +142,12 @@
 [submodule "EmbedScratch"]
 	path = EmbedScratch
 	url = https://github.com/InternationalScratchWiki/mw-embedScratch.git
-[submodule "EmbedVideo (fork)"]
-	path = EmbedVideo_fork
-	url = https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo.git
 [submodule "EmbedVideo"]
 	path = EmbedVideo
 	url = https://gitlab.com/hydrawiki/extensions/EmbedVideo.git/
+[submodule "EmbedVideo_fork"]
+	path = EmbedVideo_fork
+	url = https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo.git
 [submodule "Expect"]
 	path = Expect
 	url = https://github.com/jeblad/Expect.git
@@ -190,24 +190,24 @@
 [submodule "FormCompletions"]
 	path = FormCompletions
 	url = https://github.com/mwstake/mediawiki-extensions-FormCompletions
+[submodule "GND"]
+	path = GND
+	url = https://github.com/ProfessionalWiki/GND.git
+[submodule "GTag"]
+	path = GTag
+	url = https://github.com/skizzerz/mediawiki-GTag
 [submodule "GitHub"]
 	path = GitHub
 	url = https://github.com/JeroenDeDauw/GitHub.git
 [submodule "GlobalStats"]
 	path = GlobalStats
 	url = https://bitbucket.org/wikiskripta/globalstats.git
-[submodule "GND"]
-	path = GND
-	url = https://github.com/ProfessionalWiki/GND.git
 [submodule "GoogleTagManager"]
 	path = GoogleTagManager
 	url = https://github.com/Hutchy68/GoogleTagManager
 [submodule "GroupsPage"]
 	path = GroupsPage
 	url = https://github.com/Wikifab/GroupsPage
-[submodule "GTag"]
-	path = GTag
-	url = https://github.com/skizzerz/mediawiki-GTag
 [submodule "HeaderFooter"]
 	path = HeaderFooter
 	url = https://github.com/jamesmontalvo3/MediaWiki-HeaderFooter.git
@@ -232,9 +232,6 @@
 [submodule "IssueTracker"]
 	path = IssueTracker
 	url = https://github.com/Hutchy68/IssueTracker
-[submodule "jQueryUpload"]
-	path = jQueryUpload
-	url = https://github.com/debtcompliance/jQueryUpload.git
 [submodule "KDELogin"]
 	path = KDELogin
 	url = https://invent.kde.org/websites/mykde-mediawiki.git/
@@ -274,12 +271,12 @@
 [submodule "MarkImages"]
 	path = MarkImages
 	url = https://gitlab.com/nonsensopedia/extensions/markimages.git/
-[submodule "MatomoAnalytics"]
-	path = MatomoAnalytics
-	url = https://github.com/miraheze/MatomoAnalytics
 [submodule "Matomo"]
 	path = Matomo
 	url = https://github.com/DaSchTour/matomo-mediawiki-extension.git
+[submodule "MatomoAnalytics"]
+	path = MatomoAnalytics
+	url = https://github.com/miraheze/MatomoAnalytics
 [submodule "MediaWikiAuth"]
 	path = MediaWikiAuth
 	url = https://github.com/SkizNet/mediawiki-MediaWikiAuth
@@ -337,12 +334,18 @@
 [submodule "NonsaLinks"]
 	path = NonsaLinks
 	url = https://gitlab.com/nonsensopedia/extensions/nonsalinks.git/
-[submodule "OpeningHours"]
-	path = OpeningHours
-	url = https://github.com/thaider/OpeningHours.git
 [submodule "OSBlocks"]
 	path = OSBlocks
 	url = https://github.com/InternationalScratchWiki/OSBlocks.git
+[submodule "OpeningHours"]
+	path = OpeningHours
+	url = https://github.com/thaider/OpeningHours.git
+[submodule "PDFEmbed"]
+	path = PDFEmbed
+	url = https://github.com/WolfgangFahl/PDFEmbed.git
+[submodule "PHPEditor"]
+	path = PHPEditor
+	url = https://github.com/mwstake/mediawiki-extensions-PHPEditor
 [submodule "PageAuthors"]
 	path = PageAuthors
 	url = https://bitbucket.org/wikiskripta/pageauthors
@@ -367,36 +370,27 @@
 [submodule "PassEdit"]
 	path = PassEdit
 	url = https://github.com/InternationalScratchWiki/PassEdit.git
-[submodule "pChart4mw"]
-	path = pChart4mw
-	url = https://github.com/Undev/MediaWiki-pChart4mw.git
 [submodule "PdfBook"]
 	path = PdfBook
 	url = https://github.com/debtcompliance/PdfBook.git
-[submodule "PDFEmbed"]
-	path = PDFEmbed
-	url = https://github.com/WolfgangFahl/PDFEmbed.git
 [submodule "PerconaDB"]
 	path = PerconaDB
 	url = https://github.com/MWStake/PerconaDB.git
 [submodule "PeriodicRelatedChanges"]
 	path = PeriodicRelatedChanges
 	url = https://github.com/hexmode/mediawiki-PeriodicRelatedChanges
-[submodule "PHPEditor"]
-	path = PHPEditor
-	url = https://github.com/mwstake/mediawiki-extensions-PHPEditor
 [submodule "Pickle"]
 	path = Pickle
 	url = https://github.com/jeblad/Pickle.git
 [submodule "Plausible"]
 	path = Plausible
 	url = https://github.com/octfx/mediawiki-extension-Plausible.git
-[submodule "PurgePage"]
-	path = PurgePage
-	url = https://github.com/s7eph4n/PurgePage
 [submodule "Purge"]
 	path = Purge
 	url = https://github.com/AlPha5130/mediawiki-extensions-Purge
+[submodule "PurgePage"]
+	path = PurgePage
+	url = https://github.com/s7eph4n/PurgePage
 [submodule "QRLite"]
 	path = QRLite
 	url = https://github.com/gesinn-it/QRLite.git
@@ -430,6 +424,12 @@
 [submodule "RottenLinks"]
 	path = RottenLinks
 	url = https://github.com/miraheze/RottenLinks
+[submodule "SCSS"]
+	path = SCSS
+	url = https://github.com/ProfessionalWiki/SCSS.git
+[submodule "SLight"]
+	path = SLight
+	url = https://bitbucket.org/wikiskripta/slight
 [submodule "Sanat"]
 	path = Sanat
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Sanat.git
@@ -451,9 +451,6 @@
 [submodule "ScratchSig3"]
 	path = ScratchSig3
 	url = https://github.com/InternationalScratchWiki/mw-scratchsig3.git
-[submodule "SCSS"]
-	path = SCSS
-	url = https://github.com/ProfessionalWiki/SCSS.git
 [submodule "SearchLogger"]
 	path = SearchLogger
 	url = https://gitlab.com/hydrawiki/extensions/SearchLogger.git
@@ -550,9 +547,6 @@
 [submodule "SlideBoxLightShow"]
 	path = SlideBoxLightShow
 	url = https://gitlab.com/hydrawiki/extensions/SlideBoxLightShow.git
-[submodule "SLight"]
-	path = SLight
-	url = https://bitbucket.org/wikiskripta/slight
 [submodule "SnapProjectEmbed"]
 	path = SnapProjectEmbed
 	url = https://github.com/snapwiki/SnapProjectEmbed
@@ -613,6 +607,9 @@
 [submodule "TwitterWidget"]
 	path = TwitterWidget
 	url = https://github.com/ciencia/mediawiki-extensions-TwitterWidget.git
+[submodule "URNames"]
+	path = URNames
+	url = https://bitbucket.org/wikiskripta/urnames
 [submodule "UbiGo"]
 	path = UbiGo
 	url = https://github.com/thaider/UbiGo.git
@@ -628,9 +625,6 @@
 [submodule "UploadFields"]
 	path = UploadFields
 	url = https://gitlab.com/hydrawiki/extensions/UploadFields.git
-[submodule "URNames"]
-	path = URNames
-	url = https://bitbucket.org/wikiskripta/urnames
 [submodule "UserLoginLog"]
 	path = UserLoginLog
 	url = https://github.com/mwstake/mediawiki-extensions-UserLoginLog
@@ -646,6 +640,9 @@
 [submodule "UsersWatchlist"]
 	path = UsersWatchlist
 	url = https://github.com/Wikifab/UsersWatchlist
+[submodule "VEForPageForm"]
+	path = VEForPageForm
+	url = https://github.com/Wikifab/mediawiki-extension-VEForPageForm
 [submodule "Validator"]
 	path = Validator
 	url = https://github.com/JeroenDeDauw/Validator.git
@@ -655,12 +652,18 @@
 [submodule "VeForceReload"]
 	path = VeForceReload
 	url = https://github.com/Wikifab/VeForceReload
-[submodule "VEForPageForm"]
-	path = VEForPageForm
-	url = https://github.com/Wikifab/mediawiki-extension-VEForPageForm
 [submodule "ViewProtect"]
 	path = ViewProtect
 	url = https://github.com/hexmode/mediawiki-ViewProtect
+[submodule "WSSemanticParsedText"]
+	path = WSSemanticParsedText
+	url = https://gitlab.wikibase.nl/community/wssemanticparsedtext.git
+[submodule "WSSlots"]
+	path = WSSlots
+	url = https://github.com/Open-CSP/WSSlots
+[submodule "WSStats"]
+	path = WSStats
+	url = https://github.com/WikibaseSolutions/WSStats.git
 [submodule "WatchAnalytics"]
 	path = WatchAnalytics
 	url = https://github.com/enterprisemediawiki/WatchAnalytics.git
@@ -679,6 +682,24 @@
 [submodule "WikiActivity"]
 	path = WikiActivity
 	url = https://github.com/haleyjd/WikiActivity
+[submodule "WikiDexFileRepository"]
+	path = WikiDexFileRepository
+	url = https://github.com/ciencia/mediawiki-extensions-WikiDexFileRepository.git
+[submodule "WikiDiscover"]
+	path = WikiDiscover
+	url = https://github.com/miraheze/WikiDiscover
+[submodule "WikiMirror"]
+	path = WikiMirror
+	url = https://github.com/SkizNet/mediawiki-WikiMirror
+[submodule "WikiSearch"]
+	path = WikiSearch
+	url = https://github.com/Open-CSP/WikiSearch.git
+[submodule "WikiSearchFront"]
+	path = WikiSearchFront
+	url = https://github.com/Open-CSP/WikiSearchFront.git
+[submodule "WikiZoomer"]
+	path = WikiZoomer
+	url = https://bitbucket.org/wikiskripta/wikizoomer
 [submodule "WikibaseEdtf"]
 	path = WikibaseEdtf
 	url = https://github.com/ProfessionalWiki/WikibaseEdtf.git
@@ -691,42 +712,21 @@
 [submodule "WikibaseRdf"]
 	path = WikibaseRdf
 	url = https://github.com/ProfessionalWiki/WikibaseRDF.git
-[submodule "WikiDexFileRepository"]
-	path = WikiDexFileRepository
-	url = https://github.com/ciencia/mediawiki-extensions-WikiDexFileRepository.git
-[submodule "WikiDiscover"]
-	path = WikiDiscover
-	url = https://github.com/miraheze/WikiDiscover
-[submodule "WikiMirror"]
-	path = WikiMirror
-	url = https://github.com/SkizNet/mediawiki-WikiMirror
-[submodule "WikiSearchFront"]
-	path = WikiSearchFront
-	url = https://github.com/Open-CSP/WikiSearchFront.git
-[submodule "WikiSearch"]
-	path = WikiSearch
-	url = https://github.com/Open-CSP/WikiSearch.git
-[submodule "WikiZoomer"]
-	path = WikiZoomer
-	url = https://bitbucket.org/wikiskripta/wikizoomer
 [submodule "Wiretap"]
 	path = Wiretap
 	url = https://github.com/enterprisemediawiki/Wiretap.git
 [submodule "WordNet"]
 	path = WordNet
 	url = https://github.com/Nikerabbit/mediawiki-extensions-WordNet.git
-[submodule "WSSemanticParsedText"]
-	path = WSSemanticParsedText
-	url = https://gitlab.wikibase.nl/community/wssemanticparsedtext.git
-[submodule "WSSlots"]
-	path = WSSlots
-	url = https://github.com/Open-CSP/WSSlots
-[submodule "WSStats"]
-	path = WSStats
-	url = https://github.com/WikibaseSolutions/WSStats.git
 [submodule "YandexSiteVerification"]
 	path = YandexSiteVerification
 	url = https://github.com/dolfinus/YandexSiteVerification.git
+[submodule "jQueryUpload"]
+	path = jQueryUpload
+	url = https://github.com/debtcompliance/jQueryUpload.git
+[submodule "pChart4mw"]
+	path = pChart4mw
+	url = https://github.com/Undev/MediaWiki-pChart4mw.git
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
