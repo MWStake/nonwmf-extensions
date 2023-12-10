@@ -3,3 +3,24 @@
 This repository holds a number of submodules pointing to the repositories of MediaWiki extensions that are not hosted on Wikimedia's Gerrit instance.  If you want to add one, just send us a pull request.
 
 Repositories included here will automatically be included in [https://codesearch.wmflabs.org/search/ MediaWiki code search], which is used by MediaWiki core developers when identifying usage levels during the deprecation process.
+
+== How to add your own repository ==
+
+The simplest thing you can do is [https://github.com/MWStake/nonwmf-extensions/issues/new submit an issue] with the URL of the repository.
+
+Of course, while your issue will get the the repository added, the '''''quickest''''' way to get your repositories added here (in other words, you'll save the maintainers of this repository from doing a lot of work) is to create a pull request that adds then to in accordance with this repository's policy.  The policy is recorded in the [[policy]] script.
+
+To add your extension to this repository, fork this repository, check out your fork, go to the directory containing the checkout, and create a branch with the named after your extension(s).  (See [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork Creating a pull reaquest from a fork] if you need information on how to do any of this.)
+
+Now, edit the <tt>.gitmodules</tt> to add a stanza like this one:
+<blockquote><pre>
+[submodule "SemanticMediaWiki"]
+	path = SemanticMediaWiki
+	url = https://github.com/SemanticMediaWiki/SemanticMediaWiki.git
+</pre></blockquote>
+
+(Of course, as a reminder, use your own repository and name instead of the ones for SemanticMediaWiki.)
+
+After updating <tt>.gitmodules</tt>, run the <tt>[[policy]]</tt> script on your fork's checkout.
+
+After successful completion of the above steps, commit your changes and push update your fork's Github repository.  Again, refer to [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork Creating a pull reaquest from a fork] if you need information on how to do any of this.
