@@ -367,6 +367,9 @@
 [submodule "PageViewsProperty"]
 	path = PageViewsProperty
 	url = https://github.com/Wikifab/PageViewsProperty.git
+[submodule "PandocUltimateConverter"]
+	path = PandocUltimateConverter
+	url = https://github.com/Griboedow/PandocUltimateConverter/
 [submodule "ParserHooks"]
 	path = ParserHooks
 	url = https://github.com/JeroenDeDauw/ParserHooks.git
