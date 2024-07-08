@@ -103,6 +103,9 @@
 [submodule "CustomRecentChanges"]
 	path = CustomRecentChanges
 	url = https://github.com/Wikifab/CustomRecentChanges.git
+[submodule "CustomSearchProfiles"]
+	path = CustomSearchProfiles
+	url = https://git.average.name/BlankEclair/CustomSearchProfiles.git
 [submodule "CustomSubtitle"]
 	path = CustomSubtitle
 	url = https://github.com/lingua-libre/CustomSubtitle.git
