@@ -136,6 +136,9 @@
 [submodule "DiscourseSsoConsumer"]
 	path = DiscourseSsoConsumer
 	url = https://github.com/centertap/DiscourseSsoConsumer
+[submodule "DownloadBook"]
+	path = DownloadBook
+	url = https://github.com/edwardspec/mediawiki-extension-DownloadBook.git
 [submodule "DynamicPageList3"]
 	path = DynamicPageList3
 	url = https://github.com/Universal-Omega/DynamicPageList3.git
