@@ -325,6 +325,9 @@
 [submodule "NamespacePreload"]
 	path = NamespacePreload
 	url = https://gitlab.com/nonsensopedia/extensions/namespacepreload.git/
+[submodule "NamespaceStyle"]
+	path = NamespaceStyle
+	url = https://github.com/hexmode/NamespaceStyle.git
 [submodule "Network"]
 	path = Network
 	url = https://github.com/ProfessionalWiki/Network.git
