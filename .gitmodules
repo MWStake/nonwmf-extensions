@@ -388,9 +388,6 @@
 [submodule "PassEdit"]
 	path = PassEdit
 	url = https://github.com/InternationalScratchWiki/PassEdit.git
-[submodule "PersistentPageIdentifiers"]
-	path = PersistentPageIdentifiers
-	url = https://github.com/ProfessionalWiki/PersistentPageIdentifiers
 [submodule "PdfBook"]
 	path = PdfBook
 	url = https://github.com/debtcompliance/PdfBook.git
@@ -400,6 +397,9 @@
 [submodule "PeriodicRelatedChanges"]
 	path = PeriodicRelatedChanges
 	url = https://github.com/hexmode/mediawiki-PeriodicRelatedChanges
+[submodule "PersistentPageIdentifiers"]
+	path = PersistentPageIdentifiers
+	url = https://github.com/ProfessionalWiki/PersistentPageIdentifiers
 [submodule "Pickle"]
 	path = Pickle
 	url = https://github.com/jeblad/Pickle.git
