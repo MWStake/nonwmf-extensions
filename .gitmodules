@@ -96,7 +96,7 @@
 	url = https://bitbucket.org/wikiskripta/contactus
 [submodule "CreatePage"]
 	path = CreatePage
-	url = https://github.com/ProfessionalWiki/CreatePage.git
+	url = https://github.com/ProfessionalWiki/CreatePage
 [submodule "CreateWiki"]
 	path = CreateWiki
 	url = https://github.com/miraheze/CreateWiki.git
@@ -360,7 +360,7 @@
 	url = https://github.com/mwstake/mediawiki-extensions-PHPEditor
 [submodule "PageApprovals"]
 	path = PageApprovals
-	url = https://github.com/ProfessionalWiki/PageApprovals.git
+	url = https://github.com/ProfessionalWiki/PageApprovals
 [submodule "PageAuthors"]
 	path = PageAuthors
 	url = https://bitbucket.org/wikiskripta/pageauthors
@@ -390,7 +390,7 @@
 	url = https://github.com/InternationalScratchWiki/PassEdit.git
 [submodule "PersistentPageIdentifiers"]
 	path = PersistentPageIdentifiers
-	url = https://github.com/ProfessionalWiki/PersistentPageIdentifiers.git
+	url = https://github.com/ProfessionalWiki/PersistentPageIdentifiers
 [submodule "PdfBook"]
 	path = PdfBook
 	url = https://github.com/debtcompliance/PdfBook.git
