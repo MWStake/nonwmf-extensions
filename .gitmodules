@@ -94,6 +94,9 @@
 [submodule "Contactus"]
 	path = Contactus
 	url = https://bitbucket.org/wikiskripta/contactus
+[submodule "CreatePage"]
+	path = CreatePage
+	url = https://github.com/ProfessionalWiki/CreatePage
 [submodule "CreateWiki"]
 	path = CreateWiki
 	url = https://github.com/miraheze/CreateWiki.git
@@ -355,6 +358,9 @@
 [submodule "PHPEditor"]
 	path = PHPEditor
 	url = https://github.com/mwstake/mediawiki-extensions-PHPEditor
+[submodule "PageApprovals"]
+	path = PageApprovals
+	url = https://github.com/ProfessionalWiki/PageApprovals
 [submodule "PageAuthors"]
 	path = PageAuthors
 	url = https://bitbucket.org/wikiskripta/pageauthors
@@ -391,6 +397,9 @@
 [submodule "PeriodicRelatedChanges"]
 	path = PeriodicRelatedChanges
 	url = https://github.com/hexmode/mediawiki-PeriodicRelatedChanges
+[submodule "PersistentPageIdentifiers"]
+	path = PersistentPageIdentifiers
+	url = https://github.com/ProfessionalWiki/PersistentPageIdentifiers
 [submodule "Pickle"]
 	path = Pickle
 	url = https://github.com/jeblad/Pickle.git
