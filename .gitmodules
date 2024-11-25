@@ -757,3 +757,63 @@
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
+[submodule "AcceleratedMobilePages"]
+	path = AcceleratedMobilePages
+	url = https://github.com/droidwiki/mediawiki-extensions-AcceleratedMobilePages.git
+[submodule "AcceptTermsOfUse"]
+	path = AcceptTermsOfUse
+	url = https://github.com/Gawrion/AcceptTermsOfUse.git
+[submodule "AdaptiveThumb"]
+	path = AdaptiveThumb
+	url = https://github.com/tstaerk/AdaptiveThumb.git
+[submodule "AddBodyClass"]
+	path = AddBodyClass
+	url = https://github.com/p12tic/AddBodyClass.git
+[submodule "AgeClassification"]
+	path = AgeClassification
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-AgeClassification.git
+[submodule "Amp"]
+	path = Amp
+	url = https://github.com/nischayn22/Amp.git
+[submodule "antispam"]
+	path = antispam
+	url = https://github.com/CleanTalk/mediawiki-antispam.git
+[submodule "Attachments"]
+	path = Attachments
+	url = https://github.com/Gittenburg/Attachments.git
+[submodule "AuthDrupal"]
+	path = AuthDrupal
+	url = https://github.com/darrenoh/AuthDrupal.git
+[submodule "mw-auth-flarum"]
+	path = mw-auth-flarum
+	url = https://github.com/llaumgui/mw-auth-flarum.git
+[submodule "AuthManagerOAuth"]
+	path = AuthManagerOAuth
+	url = https://github.com/mohe2015/AuthManagerOAuth.git
+[submodule "AuthWP"]
+	path = AuthWP
+	url = https://github.com/gonenlab/AuthWP.git
+[submodule "UniversalOmega_AutoCreatePage"]
+	path = UniversalOmega_AutoCreatePage
+	url = https://github.com/Universal-Omega/AutoCreatePage.git
+[submodule "MW-Avatar"]
+	path = MW-Avatar
+	url = https://github.com/nbdd0121/MW-Avatar.git
+[submodule "Backdrop"]
+	path = Backdrop
+	url = https://github.com/sanjay-thiyagarajan/Backdrop.git
+[submodule "BannerAds"]
+	path = BannerAds
+	url = https://github.com/nischayn22/BannerAds.git
+[submodule "BlueSpiceUpgradeHelper"]
+	path = BlueSpiceUpgradeHelper
+	url = https://github.com/hallowelt/mediawiki-extensions-BlueSpiceUpgradeHelper.git
+[submodule "mwExtensionBOFH"]
+	path = mwExtensionBOFH
+	url = https://github.com/tessus/mwExtensionBOFH.git
+[submodule "BugzillaReports"]
+	path = BugzillaReports
+	url = https://github.com/jnwatts/BugzillaReports.git
+[submodule "batchingestionextension"]
+	path = batchingestionextension
+	url = https://gitlab.the-qa-company.com/FrozenMink/batchingestionextension.git
