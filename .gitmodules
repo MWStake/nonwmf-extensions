@@ -124,6 +124,9 @@
 [submodule "Decorations"]
 	path = Decorations
 	url = https://bitbucket.org/wikiskripta/decorations.git
+[submodule "Details"]
+	path = Details
+	url = https://github.com/chariz/mediawiki-extensions-Details
 [submodule "Diagrams"]
 	path = Diagrams
 	url = https://github.com/samwilson/diagrams-extension.git
@@ -190,6 +193,9 @@
 [submodule "FlexForm"]
 	path = FlexForm
 	url = https://github.com/Open-CSP/FlexForm.git
+[submodule "FloatingUI"]
+	path = FloatingUI
+	url = https://github.com/StarCitizenTools/mediawiki-extensions-FloatingUI.git
 [submodule "FlowCounterTalks"]
 	path = FlowCounterTalks
 	url = https://github.com/Wikifab/FlowCounterTalks
@@ -544,6 +550,9 @@
 [submodule "Shariff"]
 	path = Shariff
 	url = https://github.com/vonloxley/Shariff-Mediawiki.git
+[submodule "ShortDescription"]
+	path = ShortDescription
+	url = https://github.com/StarCitizenTools/mediawiki-extensions-ShortDescription.git
 [submodule "SideSummary"]
 	path = SideSummary
 	url = https://github.com/Wikifab/SideSummary.git
@@ -601,6 +610,9 @@
 [submodule "Tabber"]
 	path = Tabber
 	url = https://gitlab.com/hydrawiki/extensions/Tabber.git
+[submodule "TabberNeue"]
+	path = TabberNeue
+	url = https://github.com/StarCitizenTools/mediawiki-extensions-TabberNeue.git
 [submodule "TablesInSematic"]
 	path = TablesInSematic
 	url = https://github.com/Wikifab/TablesInSemantic.git
@@ -616,6 +628,9 @@
 [submodule "ThemeToggle"]
 	path = ThemeToggle
 	url = https://github.com/alex4401/mediawiki-extensions-ThemeToggle.git
+[submodule "Thumbro"]
+	path = Thumbro
+	url = https://github.com/StarCitizenTools/mediawiki-extensions-Thumbro.git
 [submodule "TopoJson"]
 	path = TopoJson
 	url = https://github.com/thaider/TopoJson.git
