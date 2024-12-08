@@ -442,6 +442,9 @@
 [submodule "ResponsiveFrontend"]
 	path = ResponsiveFrontend
 	url = https://gitlab.com/nonsensopedia/extensions/responsivefrontend.git/
+[submodule "RobloxAPI"]
+	path = RobloxAPI
+	url = https://github.com/dovedalewiki/mediawiki-extensions-RobloxAPI
 [submodule "RottenLinks"]
 	path = RottenLinks
 	url = https://github.com/miraheze/RottenLinks
