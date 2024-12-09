@@ -169,9 +169,6 @@
 [submodule "ExtraMagic"]
 	path = ExtraMagic
 	url = https://github.com/debtcompliance/ExtraMagic.git
-[submodule "FacetedCategory"]
-	path = FacetedCategory
-	url = https://github.com/femiwiki/FacetedCategory
 [submodule "Fagocytoza"]
 	path = Fagocytoza
 	url = https://gitlab.com/nonsensopedia/extensions/fagocytoza.git/
