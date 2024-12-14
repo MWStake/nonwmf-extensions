@@ -835,3 +835,120 @@
 [submodule "batchingestionextension"]
 	path = batchingestionextension
 	url = https://gitlab.the-qa-company.com/FrozenMink/batchingestionextension.git
+[submodule "CAS"]
+	path = CAS
+	url = https://github.com/l3-team/mediawiki-extensions-cas.git
+[submodule "CategoryControl2"]
+	path = CategoryControl2
+	url = https://github.com/JLTRY/CategoryControl2.git
+[submodule "CategoryToolbox"]
+	path = CategoryToolbox
+	url = https://github.com/valerio-bozzolan/CategoryToolbox.git
+[submodule "CBxHandler"]
+	path = CBxHandler
+	url = https://github.com/arabdigitalexpression/mediawiki-extensions-CBxHandler.git
+[submodule "ccagreement"]
+	path = ccagreement
+	url = https://bitbucket.org/wikiskripta/ccagreement.git
+[submodule "CETEIcean"]
+	path = CETEIcean
+	url = https://github.com/a-g-van-hamel-foundation/CETEIcean.git
+[submodule "Chatbot"]
+	path = Chatbot
+	url = https://github.com/OpenSemanticWorld/mediawiki-extensions-Chatbot.git
+[submodule "CheckRegistrationEmailDomains"]
+	path = CheckRegistrationEmailDomains
+	url = https://codeberg.org/chdorner/CheckRegistrationEmailDomains.git
+[submodule "Closures"]
+	path = Closures
+	url = https://github.com/26/Closures.git
+[submodule "Cloudflare"]
+	path = Cloudflare
+	url = https://github.com/harugon/mediawiki-extensions-cloudflare.git
+[submodule "CockLock"]
+	path = CockLock
+	url = http://legoktm.com:3000/ashley/mediawiki-extensions-CockLock.git
+[submodule "mw-code"]
+	path = me-code
+	url = https://git.push-f.com/mw-code/
+[submodule "ConsoleOutput"]
+	path = ConsoleOutput
+	url = https://github.com/BreezyOps/MediaWiki-ConsoleOutput.git
+[submodule "cookiecutter-mediawiki-extension"]
+	path = cookiecutter-mediawiki-extension
+	url = https://github.com/JonasGroeger/cookiecutter-mediawiki-extension.git
+[submodule "coorconv"]
+	path = coorconv
+	url = https://github.com/WouterRademaker/mediawiki-coorconv.git
+[submodule "CopyWatchers"]
+	path = CopyWatchers
+	url = https://github.com/jamesmontalvo3/MediaWiki-CopyWatchers.git
+[submodule "CopyCreds"]
+	path = CopyCreds
+	url = https://github.com/tk4100/CopyCreds.git
+[submodule "Counter"]
+	path = Counter
+	url = https://github.com/wikimediasp/MediaWiki-Counter.git
+[submodule "CustomLogs"]
+	path = CustomLogs
+	url = https://github.com/RheingoldRiver/CustomLogs
+[submodule "crowdsec"]
+	path = crowdsec
+	url = https://github.com/ShinyColorsWiki/mediawiki-extensions-crowdsec.git
+[submodule "CustomSearchProfiles"]
+	path = CustomSearchProfiles
+	url = https://git.average.name/BlankEclair/CustomSearchProfiles.git
+[submodule "DataMaps"]
+	path = DataMaps
+	url = https://github.com/alex4401/mediawiki-extensions-DataMaps.git
+[submodule "DataProvider"]
+	path = DataProvider
+	url = https://github.com/vit1251/mediawiki-extensions-DataProvider.git
+[submodule "datatables"]
+	path = datatables
+	url = https://github.com/bluecurio/mediawiki-extension-datatables.git
+[submodule "DataValues"]
+	path = DataValues
+	url = https://github.com/DataValues/DataValues.git
+[submodule "DataValuesCommon"]
+	path = DataValuesCommon
+	url = https://github.com/DataValues/Common.git
+[submodule "DataValuesInterfaces"]
+	path = DataValuesInterfaces
+	url = https://github.com/DataValues/Interfaces.git
+[submodule "DataVisualizer"]
+	path = DataVisualizer
+	url = https://github.com/nischayn22/DataVisualizer.git
+[submodule "Details"]
+	path = Details
+	url = https://github.com/chariz/mediawiki-extensions-Details.git
+[submodule "DecentDiscordFeed"]
+	path = DecentDiscordFeed
+	url = https://github.com/ChlodAlejandro/mediawiki-extensions-DecentDiscordFeed.git
+[submodule "DeToc"]
+	path = DeToc
+	url = https://repo.or.cz/DeToc.git
+[submodule "DiscordNotifications"]
+	path = DiscordNotifications
+	url = https://github.com/Universal-Omega/DiscordNotifications.git
+[submodule "DonateBoxInSidebar"]
+	path = DonateBoxInSidebar
+	url = https://github.com/suriyaa/mediawiki-extensions-DonateBoxInSidebar.git
+[submodule "DiscourseSsoConsumer"]
+	path = DiscourseSsoConsumer
+	url = https://github.com/centertap/DiscourseSsoConsumer.git
+[submodule "DonateButton"]
+	path = DonateButton
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-DonateButton.git
+[submodule "Doppelganger"]
+	path = Doppelganger
+	url = https://github.com/jeblad/Doppelganger.git
+[submodule "DownloadBook"]
+	path = DownloadBook
+	url = https://github.com/edwardspec/mediawiki-extension-DownloadBook.git
+[submodule "DummyFandoomMainpageTags"]
+	path = DummyFandoomMainpageTags
+	url = https://github.com/ciencia/mediawiki-extensions-DummyFandoomMainpageTags.git
+[submodule "DynamicRedirect"]
+	path = DynamicRedirect
+	url = https://github.com/mormegil-cz/MediaWiki-DynamicRedirect.git
