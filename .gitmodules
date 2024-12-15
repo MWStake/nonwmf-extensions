@@ -7,9 +7,12 @@
 [submodule "AWS"]
 	path = AWS
 	url = https://github.com/edwardspec/mediawiki-aws-s3.git
+[submodule "AcceleratedMobilePages"]
+	path = AcceleratedMobilePages
+	url = https://github.com/droidwiki/mediawiki-extensions-AcceleratedMobilePages.git
 [submodule "AcceptTermsOfUse"]
 	path = AcceptTermsOfUse
-	url = https://github.com/Gawrion/AcceptTermsOfUse
+	url = https://github.com/Gawrion/AcceptTermsOfUse.git
 [submodule "AccessLogReports"]
 	path = AccessLogReports
 	url = https://github.com/hexmode/mediawiki-AccessLogReports
@@ -19,18 +22,42 @@
 [submodule "Acronym"]
 	path = Acronym
 	url = https://github.com/Halopedia/Acronym
+[submodule "AdaptiveThumb"]
+	path = AdaptiveThumb
+	url = https://github.com/tstaerk/AdaptiveThumb.git
+[submodule "AddBodyClass"]
+	path = AddBodyClass
+	url = https://github.com/p12tic/AddBodyClass.git
 [submodule "AdvancedBacklinks"]
 	path = AdvancedBacklinks
 	url = https://gitlab.com/nonsensopedia/extensions/advancedbacklinks.git/
 [submodule "AdvancedUserStats"]
 	path = AdvancedUserStats
 	url = https://bitbucket.org/wikiskripta/advanceduserstats
+[submodule "AgeClassification"]
+	path = AgeClassification
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-AgeClassification.git
 [submodule "Ainut"]
 	path = Ainut
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Ainut
 [submodule "AjaxComments"]
 	path = AjaxComments
 	url = https://github.com/debtcompliance/AjaxComments.git
+[submodule "Amp"]
+	path = Amp
+	url = https://github.com/nischayn22/Amp.git
+[submodule "Attachments"]
+	path = Attachments
+	url = https://github.com/Gittenburg/Attachments.git
+[submodule "AuthDrupal"]
+	path = AuthDrupal
+	url = https://github.com/darrenoh/AuthDrupal.git
+[submodule "AuthManagerOAuth"]
+	path = AuthManagerOAuth
+	url = https://github.com/mohe2015/AuthManagerOAuth.git
+[submodule "AuthWP"]
+	path = AuthWP
+	url = https://github.com/gonenlab/AuthWP.git
 [submodule "Auth_phpBB"]
 	path = Auth_phpBB
 	url = https://github.com/Digitalroot-Technologies/MediaWiki_PHPBB_Auth
@@ -49,12 +76,21 @@
 [submodule "BCmath"]
 	path = BCmath
 	url = https://github.com/jeblad/BCmath.git
+[submodule "Backdrop"]
+	path = Backdrop
+	url = https://github.com/sanjay-thiyagarajan/Backdrop.git
+[submodule "BannerAds"]
+	path = BannerAds
+	url = https://github.com/nischayn22/BannerAds.git
 [submodule "BetterComments"]
 	path = BetterComments
 	url = https://bitbucket.org/wikiskripta/bettercomments.git
 [submodule "BlockASN"]
 	path = BlockASN
 	url = https://github.com/SkizNet/mediawiki-BlockASN
+[submodule "BlueSpiceUpgradeHelper"]
+	path = BlueSpiceUpgradeHelper
+	url = https://github.com/hallowelt/mediawiki-extensions-BlueSpiceUpgradeHelper.git
 [submodule "Bootstrap"]
 	path = Bootstrap
 	url = https://github.com/ProfessionalWiki/Bootstrap.git
@@ -64,36 +100,81 @@
 [submodule "Bugzilla"]
 	path = Bugzilla
 	url = https://invent.kde.org/websites/mediawiki-bugzilla.git/
+[submodule "BugzillaReports"]
+	path = BugzillaReports
+	url = https://github.com/jnwatts/BugzillaReports.git
+[submodule "CAS"]
+	path = CAS
+	url = https://github.com/l3-team/mediawiki-extensions-cas.git
+[submodule "CBxHandler"]
+	path = CBxHandler
+	url = https://github.com/arabdigitalexpression/mediawiki-extensions-CBxHandler.git
+[submodule "CETEIcean"]
+	path = CETEIcean
+	url = https://github.com/a-g-van-hamel-foundation/CETEIcean.git
 [submodule "CaptchaSettings"]
 	path = CaptchaSettings
 	url = https://bitbucket.org/wikiskripta/captchasettings
 [submodule "Carousel"]
 	path = Carousel
 	url = https://github.com/Wikifab/ext-carousel
+[submodule "CategoryControl2"]
+	path = CategoryControl2
+	url = https://github.com/JLTRY/CategoryControl2.git
 [submodule "CategoryHistory"]
 	path = CategoryHistory
 	url = https://bitbucket.org/wikiskripta/categoryhistory
 [submodule "CategoryStats"]
 	path = CategoryStats
 	url = https://github.com/hexmode/CategoryStats.git
+[submodule "CategoryToolbox"]
+	path = CategoryToolbox
+	url = https://github.com/valerio-bozzolan/CategoryToolbox.git
 [submodule "CharacterEscapes"]
 	path = CharacterEscapes
 	url = https://gitlab.com/hydrawiki/extensions/characterescapes.git
 [submodule "Chartie"]
 	path = Chartie
 	url = https://github.com/dolfinus/Chartie.git
+[submodule "Chatbot"]
+	path = Chatbot
+	url = https://github.com/OpenSemanticWorld/mediawiki-extensions-Chatbot.git
 [submodule "CheckPageTitle"]
 	path = CheckPageTitle
 	url = https://github.com/Wikifab/ext-CheckPageTitle
+[submodule "CheckRegistrationEmailDomains"]
+	path = CheckRegistrationEmailDomains
+	url = https://codeberg.org/chdorner/CheckRegistrationEmailDomains.git
+[submodule "Closures"]
+	path = Closures
+	url = https://github.com/26/Closures.git
+[submodule "Cloudflare"]
+	path = Cloudflare
+	url = https://github.com/harugon/mediawiki-extensions-cloudflare.git
+[submodule "CockLock"]
+	path = CockLock
+	url = http://legoktm.com:3000/ashley/mediawiki-extensions-CockLock.git
 [submodule "Collection"]
 	path = Collection
 	url = https://github.com/WikiToLearn/mediawiki-extensions-Collection
 [submodule "CommentsProperty"]
 	path = CommentsProperty
 	url = https://github.com/Wikifab/CommentsProperty
+[submodule "ConsoleOutput"]
+	path = ConsoleOutput
+	url = https://github.com/BreezyOps/MediaWiki-ConsoleOutput.git
 [submodule "Contactus"]
 	path = Contactus
 	url = https://bitbucket.org/wikiskripta/contactus
+[submodule "CopyCreds"]
+	path = CopyCreds
+	url = https://github.com/tk4100/CopyCreds.git
+[submodule "CopyWatchers"]
+	path = CopyWatchers
+	url = https://github.com/jamesmontalvo3/MediaWiki-CopyWatchers.git
+[submodule "Counter"]
+	path = Counter
+	url = https://github.com/wikimediasp/MediaWiki-Counter.git
 [submodule "CreatePage"]
 	path = CreatePage
 	url = https://github.com/ProfessionalWiki/CreatePage
@@ -103,6 +184,9 @@
 [submodule "CurseTwitter"]
 	path = CurseTwitter
 	url = https://gitlab.com/hydrawiki/extensions/CurseTwitter.git
+[submodule "CustomLogs"]
+	path = CustomLogs
+	url = https://github.com/RheingoldRiver/CustomLogs
 [submodule "CustomRecentChanges"]
 	path = CustomRecentChanges
 	url = https://github.com/Wikifab/CustomRecentChanges.git
@@ -118,18 +202,36 @@
 [submodule "DataMaps"]
 	path = DataMaps
 	url = https://github.com/alex4401/mediawiki-extensions-DataMaps.git
+[submodule "DataProvider"]
+	path = DataProvider
+	url = https://github.com/vit1251/mediawiki-extensions-DataProvider.git
 [submodule "DataValues"]
 	path = DataValues
 	url = https://github.com/DataValues/DataValues.git
+[submodule "DataValuesCommon"]
+	path = DataValuesCommon
+	url = https://github.com/DataValues/Common.git
+[submodule "DataValuesInterfaces"]
+	path = DataValuesInterfaces
+	url = https://github.com/DataValues/Interfaces.git
+[submodule "DataVisualizer"]
+	path = DataVisualizer
+	url = https://github.com/nischayn22/DataVisualizer.git
+[submodule "DeToc"]
+	path = DeToc
+	url = https://repo.or.cz/DeToc.git
 [submodule "Debounce"]
 	path = Debounce
 	url = https://github.com/SkizNet/mediawiki-Debounce
+[submodule "DecentDiscordFeed"]
+	path = DecentDiscordFeed
+	url = https://github.com/ChlodAlejandro/mediawiki-extensions-DecentDiscordFeed.git
 [submodule "Decorations"]
 	path = Decorations
 	url = https://bitbucket.org/wikiskripta/decorations.git
 [submodule "Details"]
 	path = Details
-	url = https://github.com/chariz/mediawiki-extensions-Details
+	url = https://github.com/chariz/mediawiki-extensions-Details.git
 [submodule "Diagrams"]
 	path = Diagrams
 	url = https://github.com/samwilson/diagrams-extension.git
@@ -138,19 +240,34 @@
 	url = https://github.com/jaydenkieran/mw-discord.git
 [submodule "DiscordNotifications"]
 	path = DiscordNotifications
-	url = https://github.com/kulttuuri/DiscordNotifications.git
+	url = https://github.com/Universal-Omega/DiscordNotifications.git
 [submodule "DiscordRCFeed"]
 	path = DiscordRCFeed
 	url = https://github.com/femiwiki/DiscordRCFeed
 [submodule "DiscourseSsoConsumer"]
 	path = DiscourseSsoConsumer
-	url = https://github.com/centertap/DiscourseSsoConsumer
+	url = https://github.com/centertap/DiscourseSsoConsumer.git
+[submodule "DonateBoxInSidebar"]
+	path = DonateBoxInSidebar
+	url = https://github.com/suriyaa/mediawiki-extensions-DonateBoxInSidebar.git
+[submodule "DonateButton"]
+	path = DonateButton
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-DonateButton.git
+[submodule "Doppelganger"]
+	path = Doppelganger
+	url = https://github.com/jeblad/Doppelganger.git
 [submodule "DownloadBook"]
 	path = DownloadBook
 	url = https://github.com/edwardspec/mediawiki-extension-DownloadBook.git
+[submodule "DummyFandoomMainpageTags"]
+	path = DummyFandoomMainpageTags
+	url = https://github.com/ciencia/mediawiki-extensions-DummyFandoomMainpageTags.git
 [submodule "DynamicPageList3"]
 	path = DynamicPageList3
 	url = https://github.com/Universal-Omega/DynamicPageList3.git
+[submodule "DynamicRedirect"]
+	path = DynamicRedirect
+	url = https://github.com/mormegil-cz/MediaWiki-DynamicRedirect.git
 [submodule "EmailPage"]
 	path = EmailPage
 	url = https://github.com/debtcompliance/EmailPage.git
@@ -274,6 +391,9 @@
 [submodule "MABS"]
 	path = MABS
 	url = https://github.com/hexmode/MABS.git
+[submodule "MW-Avatar"]
+	path = MW-Avatar
+	url = https://github.com/nbdd0121/MW-Avatar.git
 [submodule "MailChimpForms"]
 	path = MailChimpForms
 	url = https://github.com/Wikifab/MailChimpForms
@@ -661,6 +781,9 @@
 [submodule "UniqueLink"]
 	path = UniqueLink
 	url = https://github.com/Halopedia/UniqueLink
+[submodule "UniversalOmega_AutoCreatePage"]
+	path = UniversalOmega_AutoCreatePage
+	url = https://github.com/Universal-Omega/AutoCreatePage.git
 [submodule "UnregisteredEditLinks"]
 	path = UnregisteredEditLinks
 	url = https://github.com/alex4401/mediawiki-extensions-UnregisteredEditLinks.git
@@ -766,72 +889,45 @@
 [submodule "YandexSiteVerification"]
 	path = YandexSiteVerification
 	url = https://github.com/dolfinus/YandexSiteVerification.git
+[submodule "antispam"]
+	path = antispam
+	url = https://github.com/CleanTalk/mediawiki-antispam.git
+[submodule "batchingestionextension"]
+	path = batchingestionextension
+	url = https://gitlab.the-qa-company.com/FrozenMink/batchingestionextension.git
+[submodule "ccagreement"]
+	path = ccagreement
+	url = https://bitbucket.org/wikiskripta/ccagreement.git
+[submodule "cookiecutter-mediawiki-extension"]
+	path = cookiecutter-mediawiki-extension
+	url = https://github.com/JonasGroeger/cookiecutter-mediawiki-extension.git
+[submodule "coorconv"]
+	path = coorconv
+	url = https://github.com/WouterRademaker/mediawiki-coorconv.git
+[submodule "crowdsec"]
+	path = crowdsec
+	url = https://github.com/ShinyColorsWiki/mediawiki-extensions-crowdsec.git
+[submodule "datatables"]
+	path = datatables
+	url = https://github.com/bluecurio/mediawiki-extension-datatables.git
 [submodule "jQueryUpload"]
 	path = jQueryUpload
 	url = https://github.com/debtcompliance/jQueryUpload.git
+[submodule "me-code"]
+	path = me-code
+	url = https://git.push-f.com/mw-code/
+[submodule "mw-auth-flarum"]
+	path = mw-auth-flarum
+	url = https://github.com/llaumgui/mw-auth-flarum.git
+[submodule "mw-code"]
+	path = me-code
+	url = https://git.push-f.com/mw-code/
+[submodule "mwExtensionBOFH"]
+	path = mwExtensionBOFH
+	url = https://github.com/tessus/mwExtensionBOFH.git
 [submodule "pChart4mw"]
 	path = pChart4mw
 	url = https://github.com/Undev/MediaWiki-pChart4mw.git
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
-[submodule "AcceleratedMobilePages"]
-	path = AcceleratedMobilePages
-	url = https://github.com/droidwiki/mediawiki-extensions-AcceleratedMobilePages.git
-[submodule "AcceptTermsOfUse"]
-	path = AcceptTermsOfUse
-	url = https://github.com/Gawrion/AcceptTermsOfUse.git
-[submodule "AdaptiveThumb"]
-	path = AdaptiveThumb
-	url = https://github.com/tstaerk/AdaptiveThumb.git
-[submodule "AddBodyClass"]
-	path = AddBodyClass
-	url = https://github.com/p12tic/AddBodyClass.git
-[submodule "AgeClassification"]
-	path = AgeClassification
-	url = https://github.com/WikiMANNia/MediaWiki-Extension-AgeClassification.git
-[submodule "Amp"]
-	path = Amp
-	url = https://github.com/nischayn22/Amp.git
-[submodule "antispam"]
-	path = antispam
-	url = https://github.com/CleanTalk/mediawiki-antispam.git
-[submodule "Attachments"]
-	path = Attachments
-	url = https://github.com/Gittenburg/Attachments.git
-[submodule "AuthDrupal"]
-	path = AuthDrupal
-	url = https://github.com/darrenoh/AuthDrupal.git
-[submodule "mw-auth-flarum"]
-	path = mw-auth-flarum
-	url = https://github.com/llaumgui/mw-auth-flarum.git
-[submodule "AuthManagerOAuth"]
-	path = AuthManagerOAuth
-	url = https://github.com/mohe2015/AuthManagerOAuth.git
-[submodule "AuthWP"]
-	path = AuthWP
-	url = https://github.com/gonenlab/AuthWP.git
-[submodule "UniversalOmega_AutoCreatePage"]
-	path = UniversalOmega_AutoCreatePage
-	url = https://github.com/Universal-Omega/AutoCreatePage.git
-[submodule "MW-Avatar"]
-	path = MW-Avatar
-	url = https://github.com/nbdd0121/MW-Avatar.git
-[submodule "Backdrop"]
-	path = Backdrop
-	url = https://github.com/sanjay-thiyagarajan/Backdrop.git
-[submodule "BannerAds"]
-	path = BannerAds
-	url = https://github.com/nischayn22/BannerAds.git
-[submodule "BlueSpiceUpgradeHelper"]
-	path = BlueSpiceUpgradeHelper
-	url = https://github.com/hallowelt/mediawiki-extensions-BlueSpiceUpgradeHelper.git
-[submodule "mwExtensionBOFH"]
-	path = mwExtensionBOFH
-	url = https://github.com/tessus/mwExtensionBOFH.git
-[submodule "BugzillaReports"]
-	path = BugzillaReports
-	url = https://github.com/jnwatts/BugzillaReports.git
-[submodule "batchingestionextension"]
-	path = batchingestionextension
-	url = https://gitlab.the-qa-company.com/FrozenMink/batchingestionextension.git
