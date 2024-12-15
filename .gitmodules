@@ -913,6 +913,9 @@
 [submodule "jQueryUpload"]
 	path = jQueryUpload
 	url = https://github.com/debtcompliance/jQueryUpload.git
+[submodule "me-code"]
+	path = me-code
+	url = https://git.push-f.com/mw-code/
 [submodule "mw-auth-flarum"]
 	path = mw-auth-flarum
 	url = https://github.com/llaumgui/mw-auth-flarum.git
@@ -928,6 +931,3 @@
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
-[submodule "me-code"]
-	path = me-code
-	url = https://git.push-f.com/mw-code/
