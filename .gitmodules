@@ -570,7 +570,7 @@
 	url = https://gitlab.com/nonsensopedia/extensions/responsivefrontend.git/
 [submodule "RobloxAPI"]
 	path = RobloxAPI
-	url = https://github.com/dovedalewiki/mediawiki-extensions-RobloxAPI
+	url = https://github.com/Roblox-Indie-Wikis/mediawiki-extensions-RobloxAPI
 [submodule "RottenLinks"]
 	path = RottenLinks
 	url = https://github.com/miraheze/RottenLinks
