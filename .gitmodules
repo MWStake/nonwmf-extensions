@@ -874,6 +874,9 @@
 [submodule "WikibaseExport"]
 	path = WikibaseExport
 	url = https://github.com/ProfessionalWiki/WikibaseExport.git
+[submodule "WikibaseFacetedSearch"]
+	path = WikibaseFacetedSearch
+	url = https://github.com/ProfessionalWiki/WikibaseFacetedSearch.git
 [submodule "WikibaseLocalMedia"]
 	path = WikibaseLocalMedia
 	url = https://github.com/ProfessionalWiki/WikibaseLocalMedia.git
