@@ -16,9 +16,6 @@
 [submodule "AccessLogReports"]
 	path = AccessLogReports
 	url = https://github.com/hexmode/mediawiki-AccessLogReports
-[submodule "AchievementBadges"]
-	path = AchievementBadges
-	url = https://github.com/femiwiki/AchievementBadges
 [submodule "Acronym"]
 	path = Acronym
 	url = https://github.com/Halopedia/Acronym
@@ -241,9 +238,6 @@
 [submodule "DiscordNotifications"]
 	path = DiscordNotifications
 	url = https://github.com/Universal-Omega/DiscordNotifications.git
-[submodule "DiscordRCFeed"]
-	path = DiscordRCFeed
-	url = https://github.com/femiwiki/DiscordRCFeed
 [submodule "DiscourseSsoConsumer"]
 	path = DiscourseSsoConsumer
 	url = https://github.com/centertap/DiscourseSsoConsumer.git
@@ -583,9 +577,6 @@
 [submodule "Sanat"]
 	path = Sanat
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Sanat.git
-[submodule "Sanctions"]
-	path = Sanctions
-	url = https://github.com/femiwiki/Sanctions
 [submodule "SaneCase"]
 	path = SaneCase
 	url = https://github.com/ciencia/mediawiki-extensions-SaneCase.git
