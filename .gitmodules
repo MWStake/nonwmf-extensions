@@ -31,9 +31,6 @@
 [submodule "AdvancedUserStats"]
 	path = AdvancedUserStats
 	url = https://bitbucket.org/wikiskripta/advanceduserstats
-[submodule "AgeClassification"]
-	path = AgeClassification
-	url = https://github.com/WikiMANNia/MediaWiki-Extension-AgeClassification.git
 [submodule "Ainut"]
 	path = Ainut
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Ainut
@@ -244,9 +241,6 @@
 [submodule "DonateBoxInSidebar"]
 	path = DonateBoxInSidebar
 	url = https://github.com/suriyaa/mediawiki-extensions-DonateBoxInSidebar.git
-[submodule "DonateButton"]
-	path = DonateButton
-	url = https://github.com/WikiMANNia/MediaWiki-Extension-DonateButton.git
 [submodule "Doppelganger"]
 	path = Doppelganger
 	url = https://github.com/jeblad/Doppelganger.git
