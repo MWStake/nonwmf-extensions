@@ -439,6 +439,9 @@
 [submodule "MultiPurge"]
 	path = MultiPurge
 	url = https://github.com/octfx/mediawiki-extensions-MultiPurge.git
+[submodule "MultiTitle"]
+	path = MultiTitle
+	url = https://github.com/tbodt/mediawiki-multititle.git
 [submodule "MyTwitter"]
 	path = MyTwitter
 	url = https://github.com/wiki-chan/MyTwitter
