@@ -925,3 +925,6 @@
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
+[submodule "UserInformation"]
+	path = UserInformation
+	url = git@gitlab.com:hexmode1/mediawiki-UserInformation.git
