@@ -781,6 +781,9 @@
 [submodule "UploadFields"]
 	path = UploadFields
 	url = https://gitlab.com/hydrawiki/extensions/UploadFields.git
+[submodule "UserInformation"]
+	path = UserInformation
+	url = https://gitlab.com/hexmode1/mediawiki-UserInformation.git
 [submodule "UserLoginLog"]
 	path = UserLoginLog
 	url = https://github.com/mwstake/mediawiki-extensions-UserLoginLog
@@ -922,6 +925,3 @@
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
-[submodule "UserInformation"]
-	path = UserInformation
-	url = https://gitlab.com/hexmode1/mediawiki-UserInformation.git
