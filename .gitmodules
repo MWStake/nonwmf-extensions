@@ -829,9 +829,6 @@
 [submodule "WerewolfWiki"]
 	path = WerewolfWiki
 	url = https://github.com/lykoss/wiki.git
-[submodule "WhatsNearby"]
-	path = WhatsNearby
-	url = https://github.com/SemanticMediaWiki/WhatsNearby.git
 [submodule "Whois"]
 	path = Whois
 	url = https://bitbucket.org/wikiskripta/whois.git
