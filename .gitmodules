@@ -802,9 +802,6 @@
 [submodule "VEForPageForm"]
 	path = VEForPageForm
 	url = https://github.com/Wikifab/mediawiki-extension-VEForPageForm
-[submodule "Validator"]
-	path = Validator
-	url = https://github.com/JeroenDeDauw/Validator.git
 [submodule "VariablesLua"]
 	path = VariablesLua
 	url = https://github.com/Liquipedia/VariablesLua.git
