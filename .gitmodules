@@ -769,9 +769,6 @@
 [submodule "UniqueLink"]
 	path = UniqueLink
 	url = https://github.com/Halopedia/UniqueLink
-[submodule "UniversalOmega_AutoCreatePage"]
-	path = UniversalOmega_AutoCreatePage
-	url = https://github.com/Universal-Omega/AutoCreatePage.git
 [submodule "UnregisteredEditLinks"]
 	path = UnregisteredEditLinks
 	url = https://github.com/alex4401/mediawiki-extensions-UnregisteredEditLinks.git
