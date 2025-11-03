@@ -145,9 +145,6 @@
 [submodule "Cloudflare"]
 	path = Cloudflare
 	url = https://github.com/harugon/mediawiki-extensions-cloudflare.git
-[submodule "CockLock"]
-	path = CockLock
-	url = http://git.legoktm.com/ashley/mediawiki-extensions-CockLock.git
 [submodule "Collection"]
 	path = Collection
 	url = https://github.com/WikiToLearn/mediawiki-extensions-Collection
