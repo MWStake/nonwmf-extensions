@@ -511,9 +511,6 @@
 [submodule "PersistentPageIdentifiers"]
 	path = PersistentPageIdentifiers
 	url = https://github.com/ProfessionalWiki/PersistentPageIdentifiers
-[submodule "Pickle"]
-	path = Pickle
-	url = https://github.com/jeblad/Pickle.git
 [submodule "Plausible"]
 	path = Plausible
 	url = https://github.com/octfx/mediawiki-extension-Plausible.git
