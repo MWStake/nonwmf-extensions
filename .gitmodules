@@ -145,9 +145,6 @@
 [submodule "Cloudflare"]
 	path = Cloudflare
 	url = https://github.com/harugon/mediawiki-extensions-cloudflare.git
-[submodule "CockLock"]
-	path = CockLock
-	url = http://git.legoktm.com/ashley/mediawiki-extensions-CockLock.git
 [submodule "Collection"]
 	path = Collection
 	url = https://github.com/WikiToLearn/mediawiki-extensions-Collection
@@ -376,9 +373,6 @@
 [submodule "Lud"]
 	path = Lud
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Lud.git
-[submodule "MABS"]
-	path = MABS
-	url = https://github.com/hexmode/MABS.git
 [submodule "MW-Avatar"]
 	path = MW-Avatar
 	url = https://github.com/nbdd0121/MW-Avatar.git
@@ -517,9 +511,6 @@
 [submodule "PersistentPageIdentifiers"]
 	path = PersistentPageIdentifiers
 	url = https://github.com/ProfessionalWiki/PersistentPageIdentifiers
-[submodule "Pickle"]
-	path = Pickle
-	url = https://github.com/jeblad/Pickle.git
 [submodule "Plausible"]
 	path = Plausible
 	url = https://github.com/octfx/mediawiki-extension-Plausible.git
@@ -604,9 +595,6 @@
 [submodule "SemanticCommonsClient"]
 	path = SemanticCommonsClient
 	url = https://gitlab.com/nonsensopedia/extensions/semanticcommonsclient.git/
-[submodule "SemanticCompoundQueries"]
-	path = SemanticCompoundQueries
-	url = https://github.com/SemanticMediaWiki/SemanticCompoundQueries.git
 [submodule "SemanticDrilldown"]
 	path = SemanticDrilldown
 	url = https://github.com/SemanticMediaWiki/SemanticDrilldown.git
