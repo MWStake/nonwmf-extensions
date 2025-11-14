@@ -661,6 +661,9 @@
 [submodule "SemanticCommonsClient"]
 	path = SemanticCommonsClient
 	url = https://gitlab.com/nonsensopedia/extensions/semanticcommonsclient.git/
+[submodule "SemanticCompoundQueries"]
+	path = SemanticCompoundQueries
+	url = https://github.com/SemanticMediaWiki/SemanticCompoundQueries.git
 [submodule "SemanticDrilldown"]
 	path = SemanticDrilldown
 	url = https://github.com/SemanticMediaWiki/SemanticDrilldown.git
@@ -1006,6 +1009,3 @@
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
-[submodule "SemanticCompoundQueries"]
-	path = SemanticCompoundQueries
-	url = https://github.com/SemanticMediaWiki/SemanticCompoundQueries.git
