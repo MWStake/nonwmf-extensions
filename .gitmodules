@@ -268,9 +268,6 @@
 [submodule "EmbedVideo_fork"]
 	path = EmbedVideo_fork
 	url = https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo.git
-[submodule "Evelution"]
-	path = Evelution
-	url = https://github.com/AWikia/SkinEvelution.git
 [submodule "Expect"]
 	path = Expect
 	url = https://github.com/jeblad/Expect.git
@@ -292,9 +289,6 @@
 [submodule "FeedbackUs"]
 	path = FeedbackUs
 	url = https://bitbucket.org/wikiskripta/feedbackus.git
-[submodule "Femiwiki"]
-	path = Femiwiki
-	url = https://github.com/femiwiki/FemiwikiSkin.git
 [submodule "FilterAccess"]
 	path = FilterAccess
 	url = https://bitbucket.org/wikiskripta/filteraccess
@@ -388,9 +382,6 @@
 [submodule "Kotus"]
 	path = Kotus
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Kotus.git
-[submodule "Lakeus"]
-	path = Lakeus
-	url = https://github.com/lakejason0/mediawiki-skins-Lakeus.git
 [submodule "LanguageNamespaces"]
 	path = LanguageNamespaces
 	url = https://github.com/Nikerabbit/mediawiki-extensions-LanguageNamespaces.git
@@ -826,9 +817,6 @@
 [submodule "TrendingPages"]
 	path = TrendingPages
 	url = https://github.com/Liquipedia/TrendingMenu
-[submodule "Tweeki"]
-	path = Tweeki
-	url = https://github.com/thaider/Tweeki.git
 [submodule "TwitterWidget"]
 	path = TwitterWidget
 	url = https://github.com/ciencia/mediawiki-extensions-TwitterWidget.git
@@ -961,9 +949,6 @@
 [submodule "ccagreement"]
 	path = ccagreement
 	url = https://bitbucket.org/wikiskripta/ccagreement.git
-[submodule "chameleon"]
-	path = chameleon
-	url = https://github.com/ProfessionalWiki/chameleon.git
 [submodule "cookiecutter-mediawiki-extension"]
 	path = cookiecutter-mediawiki-extension
 	url = https://github.com/JonasGroeger/cookiecutter-mediawiki-extension.git
@@ -985,9 +970,6 @@
 [submodule "me-code"]
 	path = me-code
 	url = https://git.push-f.com/mw-code/
-[submodule "medik"]
-	path = medik
-	url = https://bitbucket.org/wikiskripta/medik.git
 [submodule "mw-auth-flarum"]
 	path = mw-auth-flarum
 	url = https://github.com/llaumgui/mw-auth-flarum.git
@@ -1003,9 +985,6 @@
 [submodule "pChart4mw"]
 	path = pChart4mw
 	url = https://github.com/Undev/MediaWiki-pChart4mw.git
-[submodule "snapwikiskin"]
-	path = snapwikiskin
-	url = https://github.com/snapwiki/snapwikiskin.git
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
