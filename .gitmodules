@@ -403,6 +403,9 @@
 [submodule "Lud"]
 	path = Lud
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Lud.git
+[submodule "MABS"]
+	path = MABS
+	url = https://github.com/MWStake/MABS.git
 [submodule "MW-Avatar"]
 	path = MW-Avatar
 	url = https://github.com/nbdd0121/MW-Avatar.git
