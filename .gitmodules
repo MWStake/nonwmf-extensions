@@ -1,9 +1,6 @@
 [submodule "3DAlloy"]
 	path = 3DAlloy
 	url = https://github.com/dolfinus/3DAlloy.git
-[submodule "3DAlloyNewTag"]
-	path = 3DAlloyNewTag
-	url = https://github.com/Wikifab/3DAlloyNewTag
 [submodule "AWS"]
 	path = AWS
 	url = https://github.com/edwardspec/mediawiki-aws-s3.git
