@@ -1,5 +1,7 @@
 = A Super-repository of non-Wikimedia hosted extensions =
 
+[![Dependabot Updates](https://github.com/MWStake/nonwmf-extensions/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/MWStake/nonwmf-extensions/actions/workflows/dependabot/dependabot-updates)
+
 This repository holds a number of submodules pointing to the repositories of MediaWiki extensions that are not hosted on Wikimedia's Gerrit instance.  If you want to add one, just send us a pull request.
 
 Repositories included here will automatically be included in [https://codesearch.wmflabs.org/search/ MediaWiki code search], which is used by MediaWiki core developers when identifying usage levels during the deprecation process.
