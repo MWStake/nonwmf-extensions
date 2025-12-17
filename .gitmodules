@@ -604,6 +604,9 @@
 [submodule "ResponsiveFrontend"]
 	path = ResponsiveFrontend
 	url = https://gitlab.com/nonsensopedia/extensions/responsivefrontend.git/
+[submodule "RichResults"]
+	path = RichResults
+	url = https://github.com/enkigi/RichResults
 [submodule "RobloxAPI"]
 	path = RobloxAPI
 	url = https://github.com/Roblox-Indie-Wikis/mediawiki-extensions-RobloxAPI
