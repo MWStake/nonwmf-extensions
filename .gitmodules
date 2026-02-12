@@ -568,9 +568,6 @@
 [submodule "QueryViz"]
 	path = QueryViz
 	url = https://github.com/lingua-libre/QueryViz.git
-[submodule "QuestyCaptchaGenerator"]
-	path = QuestyCaptchaGenerator
-	url = https://bitbucket.org/wikiskripta/questycaptchagenerator
 [submodule "Radyjonka"]
 	path = Radyjonka
 	url = https://bitbucket.org/wikiskripta/radyjonka.git
