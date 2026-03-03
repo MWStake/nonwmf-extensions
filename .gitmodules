@@ -27,7 +27,7 @@
 	url = https://gitlab.com/nonsensopedia/extensions/advancedbacklinks.git/
 [submodule "AdvancedUserStats"]
 	path = AdvancedUserStats
-	url = https://github.com/MWStake/AdvancedUserStats.git
+	url = https://github.com/MWStake/AdvancedUserStats-archive.git
 [submodule "Ainut"]
 	path = Ainut
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Ainut
