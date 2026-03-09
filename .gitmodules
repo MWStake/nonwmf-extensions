@@ -75,7 +75,7 @@
 	url = https://github.com/nischayn22/BannerAds.git
 [submodule "BetterComments"]
 	path = BetterComments
-	url = https://bitbucket.org/wikiskripta/bettercomments.git
+	url = https://github.com/MWStake/BetterComments-archive
 [submodule "BlockASN"]
 	path = BlockASN
 	url = https://github.com/SkizNet/mediawiki-BlockASN
