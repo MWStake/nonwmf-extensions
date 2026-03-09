@@ -105,7 +105,7 @@
 	url = https://github.com/a-g-van-hamel-foundation/CETEIcean.git
 [submodule "CaptchaSettings"]
 	path = CaptchaSettings
-	url = https://bitbucket.org/wikiskripta/captchasettings
+	url = https://github.com/MWStake/CaptchaSettings-archive.git
 [submodule "Carousel"]
 	path = Carousel
 	url = https://github.com/Wikifab/ext-carousel
