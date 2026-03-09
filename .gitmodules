@@ -945,7 +945,7 @@
 	url = https://gitlab.the-qa-company.com/FrozenMink/batchingestionextension.git
 [submodule "ccagreement"]
 	path = ccagreement
-	url = https://bitbucket.org/wikiskripta/ccagreement.git
+	url = https://github.com/MWStake/ccagreement-archive.git
 [submodule "cookiecutter-mediawiki-extension"]
 	path = cookiecutter-mediawiki-extension
 	url = https://github.com/JonasGroeger/cookiecutter-mediawiki-extension.git
