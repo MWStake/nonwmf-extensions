@@ -216,7 +216,7 @@
 	url = https://github.com/ChlodAlejandro/mediawiki-extensions-DecentDiscordFeed.git
 [submodule "Decorations"]
 	path = Decorations
-	url = https://bitbucket.org/wikiskripta/decorations.git
+	url = https://github.com/MWStake/Decorations-archive.git
 [submodule "Details"]
 	path = Details
 	url = https://github.com/chariz/mediawiki-extensions-Details.git
