@@ -285,7 +285,7 @@
 	url = https://gitlab.com/nonsensopedia/extensions/fancymoderation.git/
 [submodule "FeedbackUs"]
 	path = FeedbackUs
-	url = https://https://github.com/MWStake/FeedbackUs-archive.git/
+	url = https://github.com/MWStake/FeedbackUs-archive.git/
 [submodule "FilterAccess"]
 	path = FilterAccess
 	url = https://bitbucket.org/wikiskripta/filteraccess
@@ -321,7 +321,7 @@
 	url = https://github.com/miraheze/GlobalNewFiles.git
 [submodule "GlobalStats"]
 	path = GlobalStats
-	url = https://bitbucket.org/wikiskripta/globalstats.git
+	url = https://github.com/MWStake/GlobalStats-archive.git/
 [submodule "GoogleForms"]
 	path = GoogleForms
 	url = https://git.average.name/BlankEclair/GoogleForms.git
@@ -441,7 +441,7 @@
 	url = https://github.com/kolzchut/mediawiki-extensions-MetaDescriptionTag.git
 [submodule "MetaTags"]
 	path = MetaTags
-	url = https://bitbucket.org/wikiskripta/metatags
+	url = https://github.com/MWStake/MetaTags-archive.git
 [submodule "MigrateMyLinks"]
 	path = MigrateMyLinks
 	url = https://github.com/ciencia/mediawiki-extensions-MigrateMyLinks.git
