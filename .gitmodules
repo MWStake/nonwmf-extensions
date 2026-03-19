@@ -985,3 +985,15 @@
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
+[submodule "PlagiatorChecker"]
+	path = PlagiatorChecker
+	url = https://bitbucket.org/wikiskripta/plagiatorchecker
+[submodule "LogoutActions"]
+	path = LogoutActions
+	url = https://bitbucket.org/wikiskripta/LogoutActions
+[submodule "SafeEdits"]
+	path = SafeEdits
+	url = https://bitbucket.org/wikiskripta/safeedits
+[submodule "WikidataInfo"]
+	path = WikidataInfo
+	url = https://bitbucket.org/wikiskripta/wikidatainfo
