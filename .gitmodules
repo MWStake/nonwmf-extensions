@@ -285,7 +285,7 @@
 	url = https://gitlab.com/nonsensopedia/extensions/fancymoderation.git/
 [submodule "FeedbackUs"]
 	path = FeedbackUs
-	url = https://bitbucket.org/wikiskripta/feedbackus.git
+	url = https://https://github.com/MWStake/FeedbackUs-archive.git/
 [submodule "FilterAccess"]
 	path = FilterAccess
 	url = https://bitbucket.org/wikiskripta/filteraccess
