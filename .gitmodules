@@ -394,6 +394,9 @@
 [submodule "ListTransclusions"]
 	path = ListTransclusions
 	url = https://github.com/poke/mediawiki-ListTransclusions.git
+[submodule "LogoutActions"]
+	path = LogoutActions
+	url = https://bitbucket.org/wikiskripta/LogoutActions
 [submodule "LuaCache"]
 	path = LuaCache
 	url = https://gitlab.com/hydrawiki/extensions/LuaCache.git
@@ -550,6 +553,9 @@
 [submodule "PersistentPageIdentifiers"]
 	path = PersistentPageIdentifiers
 	url = https://github.com/ProfessionalWiki/PersistentPageIdentifiers
+[submodule "PlagiatorChecker"]
+	path = PlagiatorChecker
+	url = https://bitbucket.org/wikiskripta/plagiatorchecker
 [submodule "Plausible"]
 	path = Plausible
 	url = https://github.com/octfx/mediawiki-extension-Plausible.git
@@ -613,6 +619,9 @@
 [submodule "SLight"]
 	path = SLight
 	url = https://bitbucket.org/wikiskripta/slight
+[submodule "SafeEdits"]
+	path = SafeEdits
+	url = https://bitbucket.org/wikiskripta/safeedits
 [submodule "Sanat"]
 	path = Sanat
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Sanat.git
@@ -928,6 +937,9 @@
 [submodule "WikibaseRdf"]
 	path = WikibaseRdf
 	url = https://github.com/ProfessionalWiki/WikibaseRDF.git
+[submodule "WikidataInfo"]
+	path = WikidataInfo
+	url = https://bitbucket.org/wikiskripta/wikidatainfo
 [submodule "Wiretap"]
 	path = Wiretap
 	url = https://github.com/enterprisemediawiki/Wiretap.git
@@ -985,15 +997,3 @@
 [submodule "yasec"]
 	path = yasec
 	url = https://github.com/serpent213/mediawiki-extensions-yasec
-[submodule "PlagiatorChecker"]
-	path = PlagiatorChecker
-	url = https://bitbucket.org/wikiskripta/plagiatorchecker
-[submodule "LogoutActions"]
-	path = LogoutActions
-	url = https://bitbucket.org/wikiskripta/LogoutActions
-[submodule "SafeEdits"]
-	path = SafeEdits
-	url = https://bitbucket.org/wikiskripta/safeedits
-[submodule "WikidataInfo"]
-	path = WikidataInfo
-	url = https://bitbucket.org/wikiskripta/wikidatainfo
