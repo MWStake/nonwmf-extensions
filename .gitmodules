@@ -288,7 +288,7 @@
 	url = https://github.com/MWStake/FeedbackUs-archive.git/
 [submodule "FilterAccess"]
 	path = FilterAccess
-	url = https://bitbucket.org/wikiskripta/filteraccess
+	url = https://github.com/MWStake/FilterAccess-archive.git
 [submodule "FinnFrameNet"]
 	path = FinnFrameNet
 	url = https://github.com/Nikerabbit/mediawiki-extensions-FinnFrameNet.git
