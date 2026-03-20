@@ -576,7 +576,7 @@
 	url = https://github.com/lingua-libre/QueryViz.git
 [submodule "Radyjonka"]
 	path = Radyjonka
-	url = https://bitbucket.org/wikiskripta/radyjonka.git
+	url = https://github.com/wikiskripta/Radyjonka.git
 [submodule "RatePage"]
 	path = RatePage
 	url = https://gitlab.com/nonsensopedia/extensions/ratepage.git/
