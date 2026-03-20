@@ -621,7 +621,7 @@
 	url = https://bitbucket.org/wikiskripta/slight
 [submodule "SafeEdits"]
 	path = SafeEdits
-	url = https://bitbucket.org/wikiskripta/safeedits
+	url = https://github.com/wikiskripta/safeedits
 [submodule "Sanat"]
 	path = Sanat
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Sanat.git
@@ -726,7 +726,7 @@
 	url = https://github.com/Wikifab/SideSummary.git
 [submodule "SimilarTitles"]
 	path = SimilarTitles
-	url = https://bitbucket.org/wikiskripta/similartitles.git
+	url = https://github.com/wikiskripta/similartitles.git
 [submodule "SimpleBatchUpload"]
 	path = SimpleBatchUpload
 	url = https://github.com/ProfessionalWiki/SimpleBatchUpload.git
