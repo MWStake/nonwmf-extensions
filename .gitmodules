@@ -828,7 +828,7 @@
 	url = https://github.com/ciencia/mediawiki-extensions-TwitterWidget.git
 [submodule "URNames"]
 	path = URNames
-	url = https://bitbucket.org/wikiskripta/urnames
+	url = https://github.com/wikiskripta/urnames
 [submodule "UbiGo"]
 	path = UbiGo
 	url = https://github.com/thaider/UbiGo.git
