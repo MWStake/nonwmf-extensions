@@ -396,7 +396,7 @@
 	url = https://github.com/poke/mediawiki-ListTransclusions.git
 [submodule "LogoutActions"]
 	path = LogoutActions
-	url = https://github.com/wikiskripta/LogoutActions
+	url = https://github.com/MWstake/LogoutActions-archive
 [submodule "LuaCache"]
 	path = LuaCache
 	url = https://gitlab.com/hydrawiki/extensions/LuaCache.git
@@ -432,7 +432,7 @@
 	url = https://github.com/SkizNet/mediawiki-MediaWikiAuth
 [submodule "MedicalMediaPlayer"]
 	path = MedicalMediaPlayer
-	url = https://github.com/wikiskripta/medicalmediaplayer
+	url = https://github.com/MWstake/MedicalMediaPlayer-archive
 [submodule "Memcached"]
 	path = Memcached
 	url = https://gitlab.com/hexmode1/Memcached.git/
@@ -555,7 +555,7 @@
 	url = https://github.com/ProfessionalWiki/PersistentPageIdentifiers
 [submodule "PlagiatorChecker"]
 	path = PlagiatorChecker
-	url = https://github.com/wikiskripta/plagiatorchecker
+	url = https://github.com/MWstake/PlagiatorChecker-archive
 [submodule "Plausible"]
 	path = Plausible
 	url = https://github.com/octfx/mediawiki-extension-Plausible.git
@@ -582,7 +582,7 @@
 	url = https://gitlab.com/nonsensopedia/extensions/ratepage.git/
 [submodule "RealTimeUsers"]
 	path = RealTimeUsers
-	url = https://github.com/wikiskripta/realtimeusers.git
+	url = https://github.com/MWstake/RealTimeUsers-archive
 [submodule "RecentChangesLogFilter"]
 	path = RecentChangesLogFilter
 	url = https://github.com/poke/mediawiki-RecentChangesLogFilter.git
@@ -618,7 +618,7 @@
 	url = https://github.com/ProfessionalWiki/SCSS.git
 [submodule "SLight"]
 	path = SLight
-	url = https://github.com/wikiskripta/slight
+	url = https://github.com/MWstake/SLight-archive
 [submodule "SafeEdits"]
 	path = SafeEdits
 	url = https://github.com/wikiskripta/safeedits
@@ -798,7 +798,7 @@
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Termbank.git
 [submodule "ThePlayer"]
 	path = ThePlayer
-	url = https://github.com/wikiskripta/theplayer
+	url = https://github.com/MWstake/ThePlayer-archive
 [submodule "ThemeToggle"]
 	path = ThemeToggle
 	url = https://github.com/alex4401/mediawiki-extensions-ThemeToggle.git
@@ -939,7 +939,7 @@
 	url = https://github.com/ProfessionalWiki/WikibaseRDF.git
 [submodule "WikidataInfo"]
 	path = WikidataInfo
-	url = https://github.com/wikiskripta/wikidatainfo
+	url = https://github.com/MWstake/WikidataInfo-archive
 [submodule "Wiretap"]
 	path = Wiretap
 	url = https://github.com/enterprisemediawiki/Wiretap.git
