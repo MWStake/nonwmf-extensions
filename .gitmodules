@@ -270,7 +270,7 @@
 	url = https://github.com/jeblad/Expect.git
 [submodule "ExplicitImages"]
 	path = ExplicitImages
-	url = https://github.com/wikiskripta/explicitimages
+	url = https://github.com/mwstake/explicitimages-archive
 [submodule "ExternalContent"]
 	path = ExternalContent
 	url = https://github.com/ProfessionalWiki/ExternalContent.git
