@@ -270,7 +270,7 @@
 	url = https://github.com/jeblad/Expect.git
 [submodule "ExplicitImages"]
 	path = ExplicitImages
-	url = https://bitbucket.org/wikiskripta/explicitimages
+	url = https://github.com/wikiskripta/explicitimages
 [submodule "ExternalContent"]
 	path = ExternalContent
 	url = https://github.com/ProfessionalWiki/ExternalContent.git
@@ -396,7 +396,7 @@
 	url = https://github.com/poke/mediawiki-ListTransclusions.git
 [submodule "LogoutActions"]
 	path = LogoutActions
-	url = https://bitbucket.org/wikiskripta/LogoutActions
+	url = https://github.com/wikiskripta/LogoutActions
 [submodule "LuaCache"]
 	path = LuaCache
 	url = https://gitlab.com/hydrawiki/extensions/LuaCache.git
@@ -432,7 +432,7 @@
 	url = https://github.com/SkizNet/mediawiki-MediaWikiAuth
 [submodule "MedicalMediaPlayer"]
 	path = MedicalMediaPlayer
-	url = https://bitbucket.org/wikiskripta/medicalmediaplayer
+	url = https://github.com/wikiskripta/medicalmediaplayer
 [submodule "Memcached"]
 	path = Memcached
 	url = https://gitlab.com/hexmode1/Memcached.git/
@@ -513,7 +513,7 @@
 	url = https://github.com/ProfessionalWiki/PageApprovals
 [submodule "PageAuthors"]
 	path = PageAuthors
-	url = https://bitbucket.org/wikiskripta/pageauthors
+	url = https://github.com/wikiskripta/pageauthors
 [submodule "PageLoadingSpinner"]
 	path = PageLoadingSpinner
 	url = https://github.com/Wikifab/PageLoadingSpinner
@@ -555,7 +555,7 @@
 	url = https://github.com/ProfessionalWiki/PersistentPageIdentifiers
 [submodule "PlagiatorChecker"]
 	path = PlagiatorChecker
-	url = https://bitbucket.org/wikiskripta/plagiatorchecker
+	url = https://github.com/wikiskripta/plagiatorchecker
 [submodule "Plausible"]
 	path = Plausible
 	url = https://github.com/octfx/mediawiki-extension-Plausible.git
@@ -582,7 +582,7 @@
 	url = https://gitlab.com/nonsensopedia/extensions/ratepage.git/
 [submodule "RealTimeUsers"]
 	path = RealTimeUsers
-	url = https://bitbucket.org/wikiskripta/realtimeusers.git
+	url = https://github.com/wikiskripta/realtimeusers.git
 [submodule "RecentChangesLogFilter"]
 	path = RecentChangesLogFilter
 	url = https://github.com/poke/mediawiki-RecentChangesLogFilter.git
@@ -618,7 +618,7 @@
 	url = https://github.com/ProfessionalWiki/SCSS.git
 [submodule "SLight"]
 	path = SLight
-	url = https://bitbucket.org/wikiskripta/slight
+	url = https://github.com/wikiskripta/slight
 [submodule "SafeEdits"]
 	path = SafeEdits
 	url = https://github.com/wikiskripta/safeedits
@@ -798,7 +798,7 @@
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Termbank.git
 [submodule "ThePlayer"]
 	path = ThePlayer
-	url = https://bitbucket.org/wikiskripta/theplayer
+	url = https://github.com/wikiskripta/theplayer
 [submodule "ThemeToggle"]
 	path = ThemeToggle
 	url = https://github.com/alex4401/mediawiki-extensions-ThemeToggle.git
@@ -900,7 +900,7 @@
 	url = https://github.com/lykoss/wiki.git
 [submodule "Whois"]
 	path = Whois
-	url = https://bitbucket.org/wikiskripta/whois.git
+	url = https://github.com/wikiskripta/whois.git
 [submodule "WikiActivity"]
 	path = WikiActivity
 	url = https://github.com/haleyjd/WikiActivity
@@ -921,7 +921,7 @@
 	url = https://github.com/Open-CSP/WikiSearchFront.git
 [submodule "WikiZoomer"]
 	path = WikiZoomer
-	url = https://bitbucket.org/wikiskripta/wikizoomer
+	url = https://github.com/wikiskripta/wikizoomer
 [submodule "WikibaseEdtf"]
 	path = WikibaseEdtf
 	url = https://github.com/ProfessionalWiki/WikibaseEdtf.git
@@ -939,7 +939,7 @@
 	url = https://github.com/ProfessionalWiki/WikibaseRDF.git
 [submodule "WikidataInfo"]
 	path = WikidataInfo
-	url = https://bitbucket.org/wikiskripta/wikidatainfo
+	url = https://github.com/wikiskripta/wikidatainfo
 [submodule "Wiretap"]
 	path = Wiretap
 	url = https://github.com/enterprisemediawiki/Wiretap.git
