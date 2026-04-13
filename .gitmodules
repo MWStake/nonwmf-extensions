@@ -448,6 +448,9 @@
 [submodule "MigrateMyLinks"]
 	path = MigrateMyLinks
 	url = https://github.com/ciencia/mediawiki-extensions-MigrateMyLinks.git
+[submodule "MigrateUserAccount"]
+	path = MigrateUserAccount
+	url = https://github.com/weirdgloop/mediawiki-extensions-MigrateUserAccount.git
 [submodule "MirahezeMagic"]
 	path = MirahezeMagic
 	url = https://github.com/miraheze/MirahezeMagic.git
