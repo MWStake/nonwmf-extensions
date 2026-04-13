@@ -88,6 +88,9 @@
 [submodule "BootstrapComponents"]
 	path = BootstrapComponents
 	url = https://github.com/oetterer/BootstrapComponents.git
+[submodule "Bucket"]
+	path = Bucket
+	url = https://github.com/weirdgloop/mediawiki-extensions-Bucket.git
 [submodule "Bugzilla"]
 	path = Bugzilla
 	url = https://invent.kde.org/websites/mediawiki-bugzilla.git/
