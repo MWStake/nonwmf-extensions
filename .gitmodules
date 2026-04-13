@@ -244,9 +244,9 @@
 [submodule "DummyFandoomMainpageTags"]
 	path = DummyFandoomMainpageTags
 	url = https://github.com/ciencia/mediawiki-extensions-DummyFandoomMainpageTags.git
-[submodule "DynamicPageList3"]
-	path = DynamicPageList3
-	url = https://github.com/Universal-Omega/DynamicPageList3.git
+[submodule "DynamicPageList4"]
+	path = DynamicPageList4
+	url = https://github.com/Universal-Omega/DynamicPageList4.git
 [submodule "DynamicRedirect"]
 	path = DynamicRedirect
 	url = https://github.com/mormegil-cz/MediaWiki-DynamicRedirect.git
