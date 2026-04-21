@@ -763,6 +763,9 @@
 [submodule "SpeciallyCursed"]
 	path = SpeciallyCursed
 	url = https://git.average.name/BlankEclair/SpeciallyCursed.git
+[submodule "Speedscope"]
+	path = Speedscope
+	url = https://github.com/weirdgloop/mediawiki-extensions-Speedscope
 [submodule "Spoilers"]
 	path = Spoilers
 	url = https://github.com/Telshin/Spoilers.git
