@@ -289,6 +289,9 @@
 [submodule "FeedbackUs"]
 	path = FeedbackUs
 	url = https://github.com/MWStake/FeedbackUs-archive.git/
+[submodule "FileCachebuster"]
+	path = FileCachebuster
+	url = https://github.com/utdrwiki/FileCachebuster.git
 [submodule "FilterAccess"]
 	path = FilterAccess
 	url = https://github.com/MWStake/FilterAccess-archive.git
