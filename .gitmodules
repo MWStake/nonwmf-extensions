@@ -805,6 +805,9 @@
 [submodule "TemplateStylesExtender"]
 	path = TemplateStylesExtender
 	url = https://github.com/octfx/mediawiki-extensions-TemplateStylesExtender.git
+[submodule "TemplateStylesUnlimited"]
+	path = TemplateStylesUnlimited
+	url = https://github.com/utdrwiki/TemplateStylesUnlimited.git
 [submodule "Termbank"]
 	path = Termbank
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Termbank.git
