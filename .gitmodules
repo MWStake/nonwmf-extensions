@@ -190,9 +190,6 @@
 [submodule "DataDump"]
 	path = DataDump
 	url = https://github.com/miraheze/DataDump
-[submodule "DataMaps"]
-	path = DataMaps
-	url = https://github.com/alex4401/mediawiki-extensions-DataMaps.git
 [submodule "DataProvider"]
 	path = DataProvider
 	url = https://github.com/vit1251/mediawiki-extensions-DataProvider.git
