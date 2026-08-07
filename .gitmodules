@@ -721,9 +721,6 @@
 [submodule "Share"]
 	path = Share
 	url = https://github.com/AgentIsai/Share.git
-[submodule "Shariff"]
-	path = Shariff
-	url = https://github.com/vonloxley/Shariff-Mediawiki.git
 [submodule "ShortDescription"]
 	path = ShortDescription
 	url = https://github.com/StarCitizenTools/mediawiki-extensions-ShortDescription.git
