@@ -205,9 +205,6 @@
 [submodule "DataVisualizer"]
 	path = DataVisualizer
 	url = https://github.com/nischayn22/DataVisualizer.git
-[submodule "DeToc"]
-	path = DeToc
-	url = https://repo.or.cz/DeToc.git
 [submodule "Debounce"]
 	path = Debounce
 	url = https://github.com/SkizNet/mediawiki-Debounce
