@@ -481,6 +481,9 @@
 [submodule "NamespaceStyle"]
 	path = NamespaceStyle
 	url = https://github.com/hexmode/NamespaceStyle.git
+[submodule "NeoWiki"]
+	path = NeoWiki
+	url = https://github.com/ProfessionalWiki/NeoWiki.git
 [submodule "Network"]
 	path = Network
 	url = https://github.com/ProfessionalWiki/Network.git
@@ -619,6 +622,9 @@
 [submodule "RottenLinks"]
 	path = RottenLinks
 	url = https://github.com/miraheze/RottenLinks
+[submodule "Rules"]
+	path = Rules
+	url = https://github.com/ProfessionalWiki/Rules.git
 [submodule "SCSS"]
 	path = SCSS
 	url = https://github.com/ProfessionalWiki/SCSS.git
