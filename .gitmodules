@@ -442,6 +442,9 @@
 [submodule "MedicalMediaPlayer"]
 	path = MedicalMediaPlayer
 	url = https://github.com/MWstake/MedicalMediaPlayer-archive
+[submodule "MemberAccess"]
+	path = MemberAccess
+	url = https://github.com/ProfessionalWiki/MemberAccess.git
 [submodule "Memcached"]
 	path = Memcached
 	url = https://gitlab.com/hexmode1/Memcached.git/
@@ -487,6 +490,9 @@
 [submodule "NamespaceStyle"]
 	path = NamespaceStyle
 	url = https://github.com/hexmode/NamespaceStyle.git
+[submodule "NativeMarkdown"]
+	path = NativeMarkdown
+	url = https://github.com/ProfessionalWiki/NativeMarkdown.git
 [submodule "NeoWiki"]
 	path = NeoWiki
 	url = https://github.com/ProfessionalWiki/NeoWiki.git
