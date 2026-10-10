@@ -718,9 +718,6 @@
 [submodule "SemanticScribunto"]
 	path = SemanticScribunto
 	url = https://github.com/SemanticMediaWiki/SemanticScribunto.git
-[submodule "SemanticSignup"]
-	path = SemanticSignup
-	url = https://github.com/SemanticMediaWiki/SemanticSignup.git
 [submodule "SemanticTasks"]
 	path = SemanticTasks
 	url = https://github.com/SemanticMediaWiki/SemanticTasks.git
