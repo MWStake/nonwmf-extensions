@@ -646,6 +646,9 @@
 [submodule "SaneCase"]
 	path = SaneCase
 	url = https://github.com/ciencia/mediawiki-extensions-SaneCase.git
+[submodule "ScheduledCacheExpiry"]
+	path = ScheduledCacheExpiry
+	url = https://github.com/miraheze/ScheduledCacheExpiry.git
 [submodule "ScratchBlocks4"]
 	path = ScratchBlocks4
 	url = https://github.com/InternationalScratchWiki/mw-ScratchBlocks4.git
