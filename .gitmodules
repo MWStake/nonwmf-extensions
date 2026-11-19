@@ -408,7 +408,7 @@
 	url = https://github.com/MWstake/LogoutActions-archive
 [submodule "LuaCache"]
 	path = LuaCache
-	url = https://gitlab.com/hydrawiki/extensions/LuaCache.git
+	url = https://github.com/wiki-gg-oss/mediawiki-extensions-LuaCache.git
 [submodule "Lud"]
 	path = Lud
 	url = https://github.com/Nikerabbit/mediawiki-extensions-Lud.git
