@@ -478,6 +478,9 @@
 [submodule "MultiPurge"]
 	path = MultiPurge
 	url = https://github.com/octfx/mediawiki-extensions-MultiPurge.git
+[submodule "Mustache"]
+	path = Mustache
+	url = https://github.com/lihaohong6/Mustache.git
 [submodule "MyTwitter"]
 	path = MyTwitter
 	url = https://github.com/wiki-chan/MyTwitter
@@ -616,6 +619,9 @@
 [submodule "RemoveRedlinks"]
 	path = RemoveRedlinks
 	url = https://github.com/marohh/mediawikiRemoveRedlinks.git
+[submodule "RenderBlocking"]
+	path = RenderBlocking
+	url = https://github.com/lihaohong6/RenderBlocking.git
 [submodule "RequestCustomDomain"]
 	path = RequestCustomDomain
 	url = https://github.com/miraheze/RequestCustomDomain.git
