@@ -112,6 +112,9 @@
 [submodule "CETEIcean"]
 	path = CETEIcean
 	url = https://github.com/a-g-van-hamel-foundation/CETEIcean.git
+[submodule "CFUpdate"]
+	path = CFUpdate
+	url = https://gitlab.com/hexmode1/CFUpdate
 [submodule "CaptchaSettings"]
 	path = CaptchaSettings
 	url = https://github.com/MWStake/CaptchaSettings-archive.git
